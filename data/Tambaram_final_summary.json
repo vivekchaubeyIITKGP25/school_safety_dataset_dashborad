@@ -1,0 +1,5732 @@
+[
+  {
+    "school_index": 0,
+    "school_name": "Sri Krishna Engineering College",
+    "city": "Tambaram",
+    "traffic_light": true,
+    "max_confidence": 0.65,
+    "crosswalk": true,
+    "dist_signal_m": 559.85,
+    "image_id": "158543909551309"
+  },
+  {
+    "school_index": 1,
+    "school_name": "Hiet Polytechnic College",
+    "city": "Tambaram",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 2,
+    "school_name": "Srm University Building",
+    "city": "Tambaram",
+    "traffic_light": true,
+    "max_confidence": 0.389,
+    "crosswalk": false,
+    "dist_signal_m": 309.8,
+    "image_id": "572762553703050"
+  },
+  {
+    "school_index": 3,
+    "school_name": "Govt School",
+    "city": "Tambaram",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 4,
+    "school_name": "Sri Venkateswara College Of Engineering - Svce",
+    "city": "Tambaram",
+    "traffic_light": true,
+    "max_confidence": 0.84,
+    "crosswalk": true,
+    "dist_signal_m": 498.64,
+    "image_id": "1153178001851128"
+  },
+  {
+    "school_index": 5,
+    "school_name": "Research And Deevelopment",
+    "city": "Tambaram",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 6,
+    "school_name": "Workshop",
+    "city": "Tambaram",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 7,
+    "school_name": "Workshop",
+    "city": "Tambaram",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 8,
+    "school_name": "Computer Science",
+    "city": "Tambaram",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 9,
+    "school_name": "Mechanical",
+    "city": "Tambaram",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 10,
+    "school_name": "Applied Science",
+    "city": "Tambaram",
+    "traffic_light": true,
+    "max_confidence": 0.302,
+    "crosswalk": false,
+    "dist_signal_m": 526.5,
+    "image_id": "747109979294938"
+  },
+  {
+    "school_index": 11,
+    "school_name": "Chemical",
+    "city": "Tambaram",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 12,
+    "school_name": "Administration",
+    "city": "Tambaram",
+    "traffic_light": true,
+    "max_confidence": 0.84,
+    "crosswalk": true,
+    "dist_signal_m": 566.34,
+    "image_id": "1153178001851128"
+  },
+  {
+    "school_index": 13,
+    "school_name": "Marine",
+    "city": "Tambaram",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 14,
+    "school_name": "Biotechnology",
+    "city": "Tambaram",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 15,
+    "school_name": "Crb1",
+    "city": "Tambaram",
+    "traffic_light": true,
+    "max_confidence": 0.84,
+    "crosswalk": true,
+    "dist_signal_m": 553.76,
+    "image_id": "1153178001851128"
+  },
+  {
+    "school_index": 16,
+    "school_name": "Skb Vidhyashram Play School -",
+    "city": "Tambaram",
+    "traffic_light": true,
+    "max_confidence": 0.288,
+    "crosswalk": false,
+    "dist_signal_m": 36.89,
+    "image_id": "187525459832392"
+  },
+  {
+    "school_index": 17,
+    "school_name": "Vivekananda School",
+    "city": "Tambaram",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 18,
+    "school_name": "Sivanthi Public School",
+    "city": "Tambaram",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 19,
+    "school_name": "Smk Fomra Institute Of Technology",
+    "city": "Tambaram",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 20,
+    "school_name": "Psb Polytechnic College",
+    "city": "Tambaram",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 21,
+    "school_name": "Iit Madras Thaiyur Campus",
+    "city": "Tambaram",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 22,
+    "school_name": "Professor Dhanapalan College For Women",
+    "city": "Tambaram",
+    "traffic_light": true,
+    "max_confidence": 0.264,
+    "crosswalk": false,
+    "dist_signal_m": 443.78,
+    "image_id": "470864640687343"
+  },
+  {
+    "school_index": 23,
+    "school_name": "Hello Kids - Ilanthalir",
+    "city": "Tambaram",
+    "traffic_light": true,
+    "max_confidence": 0.264,
+    "crosswalk": false,
+    "dist_signal_m": 219.01,
+    "image_id": "470864640687343"
+  },
+  {
+    "school_index": 24,
+    "school_name": "Indian Institute Of Information Technology Design And Manufacturing Kancheepuram",
+    "city": "Tambaram",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 25,
+    "school_name": "Tagore Engineering Clg",
+    "city": "Tambaram",
+    "traffic_light": true,
+    "max_confidence": 0.472,
+    "crosswalk": true,
+    "dist_signal_m": 189.51,
+    "image_id": "107525158082314"
+  },
+  {
+    "school_index": 26,
+    "school_name": "The School - Kfi",
+    "city": "Tambaram",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 27,
+    "school_name": "Srimathi Sundaravalli Memorial School",
+    "city": "Tambaram",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 28,
+    "school_name": "Gkm College Of Engineering",
+    "city": "Tambaram",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 29,
+    "school_name": "Biher Cse Block",
+    "city": "Tambaram",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 30,
+    "school_name": "Chemical Department",
+    "city": "Tambaram",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 31,
+    "school_name": "Sithalapakkam Government High School",
+    "city": "Tambaram",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 32,
+    "school_name": "Lifeline Stepping Stones",
+    "city": "Tambaram",
+    "traffic_light": true,
+    "max_confidence": 0.312,
+    "crosswalk": false,
+    "dist_signal_m": 498.88,
+    "image_id": "2987037204910643"
+  },
+  {
+    "school_index": 33,
+    "school_name": "Bharatha Vidhyalaya School",
+    "city": "Tambaram",
+    "traffic_light": true,
+    "max_confidence": 0.28,
+    "crosswalk": false,
+    "dist_signal_m": 114.84,
+    "image_id": "380383493245469"
+  },
+  {
+    "school_index": 34,
+    "school_name": "Kidzee - Guduvancheri",
+    "city": "Tambaram",
+    "traffic_light": true,
+    "max_confidence": 0.287,
+    "crosswalk": false,
+    "dist_signal_m": 119.99,
+    "image_id": "311070920524533"
+  },
+  {
+    "school_index": 35,
+    "school_name": "Kindernest Omr",
+    "city": "Tambaram",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 36,
+    "school_name": "Department Of Fashion Design",
+    "city": "Tambaram",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 37,
+    "school_name": "Department Of Computer Science",
+    "city": "Tambaram",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 38,
+    "school_name": "Department Of Electrical & Electronics Engg",
+    "city": "Tambaram",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 39,
+    "school_name": "Department Of Mechanical Engg",
+    "city": "Tambaram",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 40,
+    "school_name": "St Joseph'S College Of Engineering",
+    "city": "Tambaram",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 41,
+    "school_name": "Indian Maritime University",
+    "city": "Tambaram",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 42,
+    "school_name": "Indian Maritime University Chennai Campus",
+    "city": "Tambaram",
+    "traffic_light": true,
+    "max_confidence": 0.357,
+    "crosswalk": false,
+    "dist_signal_m": 241.6,
+    "image_id": "152999327250513"
+  },
+  {
+    "school_index": 43,
+    "school_name": "Shri Sakthi Vidyalaya",
+    "city": "Tambaram",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 44,
+    "school_name": "Babaji Vidyashram Cbse School",
+    "city": "Tambaram",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 45,
+    "school_name": "Model School",
+    "city": "Tambaram",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 46,
+    "school_name": "St Mary'S Metric Hr Sec School",
+    "city": "Tambaram",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 47,
+    "school_name": "Csi Middle School",
+    "city": "Tambaram",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 48,
+    "school_name": "Christ King Metric Hr Sec School",
+    "city": "Tambaram",
+    "traffic_light": true,
+    "max_confidence": 0.554,
+    "crosswalk": false,
+    "dist_signal_m": 248.16,
+    "image_id": "600162097629934"
+  },
+  {
+    "school_index": 49,
+    "school_name": "Kidzee Kids School",
+    "city": "Tambaram",
+    "traffic_light": true,
+    "max_confidence": 0.676,
+    "crosswalk": true,
+    "dist_signal_m": 275.11,
+    "image_id": "226556729274739"
+  },
+  {
+    "school_index": 50,
+    "school_name": "Government Girls Higher Secondary Schoo",
+    "city": "Tambaram",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 51,
+    "school_name": "Sri Sankara Vidyalaya Matriculation Higher Secondary School",
+    "city": "Tambaram",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 52,
+    "school_name": "St Mark Matric School",
+    "city": "Tambaram",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 53,
+    "school_name": "Nsn School",
+    "city": "Tambaram",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 54,
+    "school_name": "Sreevatsa Viswanathan Vivekananda Vidhyalaya",
+    "city": "Tambaram",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 55,
+    "school_name": "Zion Matriculation Higher Secondary School",
+    "city": "Tambaram",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 56,
+    "school_name": "Lakshmi Ammal School",
+    "city": "Tambaram",
+    "traffic_light": true,
+    "max_confidence": 0.327,
+    "crosswalk": false,
+    "dist_signal_m": 544.31,
+    "image_id": "790414991674416"
+  },
+  {
+    "school_index": 57,
+    "school_name": "Government Boys Higher Secondary School",
+    "city": "Tambaram",
+    "traffic_light": true,
+    "max_confidence": 0.496,
+    "crosswalk": true,
+    "dist_signal_m": 447.45,
+    "image_id": "372253997531251"
+  },
+  {
+    "school_index": 58,
+    "school_name": "Meenakshi Krishan Polytechnic College",
+    "city": "Tambaram",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 59,
+    "school_name": "Ammaniammal School",
+    "city": "Tambaram",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 60,
+    "school_name": "Nsn School",
+    "city": "Tambaram",
+    "traffic_light": true,
+    "max_confidence": 0.392,
+    "crosswalk": false,
+    "dist_signal_m": 224.34,
+    "image_id": "468980297545528"
+  },
+  {
+    "school_index": 61,
+    "school_name": "Saviour Jesus Matriculation Higher Secondary School",
+    "city": "Tambaram",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 62,
+    "school_name": "Dcoe Office",
+    "city": "Tambaram",
+    "traffic_light": true,
+    "max_confidence": 0.327,
+    "crosswalk": false,
+    "dist_signal_m": 113.01,
+    "image_id": "790414991674416"
+  },
+  {
+    "school_index": 63,
+    "school_name": "Lecture Hall Complex",
+    "city": "Tambaram",
+    "traffic_light": true,
+    "max_confidence": 0.593,
+    "crosswalk": true,
+    "dist_signal_m": 232.64,
+    "image_id": "373988713994288"
+  },
+  {
+    "school_index": 64,
+    "school_name": "Department Of Aeronautical Engineering",
+    "city": "Tambaram",
+    "traffic_light": true,
+    "max_confidence": 0.517,
+    "crosswalk": true,
+    "dist_signal_m": 274.02,
+    "image_id": "490521342070036"
+  },
+  {
+    "school_index": 65,
+    "school_name": "Mechatronics",
+    "city": "Tambaram",
+    "traffic_light": true,
+    "max_confidence": 0.496,
+    "crosswalk": true,
+    "dist_signal_m": 246.73,
+    "image_id": "372253997531251"
+  },
+  {
+    "school_index": 66,
+    "school_name": "Department Of Automobile Engineering",
+    "city": "Tambaram",
+    "traffic_light": true,
+    "max_confidence": 0.421,
+    "crosswalk": true,
+    "dist_signal_m": 233.98,
+    "image_id": "188628976600964"
+  },
+  {
+    "school_index": 67,
+    "school_name": "St Mark'S School",
+    "city": "Tambaram",
+    "traffic_light": true,
+    "max_confidence": 0.289,
+    "crosswalk": false,
+    "dist_signal_m": 481.0,
+    "image_id": "585533252341216"
+  },
+  {
+    "school_index": 68,
+    "school_name": "Shikshaa Matriculation Higher Secondary School",
+    "city": "Tambaram",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 69,
+    "school_name": "New Prince Shri Bhavani Arts And Science College",
+    "city": "Tambaram",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 70,
+    "school_name": "Christ King School",
+    "city": "Tambaram",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 71,
+    "school_name": "Zemcode Medical Coding Training",
+    "city": "Tambaram",
+    "traffic_light": true,
+    "max_confidence": 0.298,
+    "crosswalk": false,
+    "dist_signal_m": 230.97,
+    "image_id": "460347688600936"
+  },
+  {
+    "school_index": 72,
+    "school_name": "Pallikarani Govt Higher Secondary School",
+    "city": "Tambaram",
+    "traffic_light": true,
+    "max_confidence": 0.343,
+    "crosswalk": false,
+    "dist_signal_m": 124.01,
+    "image_id": "469789840990097"
+  },
+  {
+    "school_index": 73,
+    "school_name": "Apple Kids",
+    "city": "Tambaram",
+    "traffic_light": true,
+    "max_confidence": 0.306,
+    "crosswalk": false,
+    "dist_signal_m": 135.65,
+    "image_id": "342870017172985"
+  },
+  {
+    "school_index": 74,
+    "school_name": "Asan Memorial College",
+    "city": "Tambaram",
+    "traffic_light": true,
+    "max_confidence": 0.292,
+    "crosswalk": false,
+    "dist_signal_m": 336.98,
+    "image_id": "1175855232875591"
+  },
+  {
+    "school_index": 75,
+    "school_name": "Chennai School Corporation",
+    "city": "Tambaram",
+    "traffic_light": true,
+    "max_confidence": 0.33,
+    "crosswalk": false,
+    "dist_signal_m": 54.34,
+    "image_id": "373629790721785"
+  },
+  {
+    "school_index": 76,
+    "school_name": "St Peters School",
+    "city": "Tambaram",
+    "traffic_light": true,
+    "max_confidence": 0.322,
+    "crosswalk": false,
+    "dist_signal_m": 56.97,
+    "image_id": "227995965370718"
+  },
+  {
+    "school_index": 77,
+    "school_name": "Infant Jesus High School",
+    "city": "Tambaram",
+    "traffic_light": true,
+    "max_confidence": 0.278,
+    "crosswalk": false,
+    "dist_signal_m": 214.78,
+    "image_id": "180052060676045"
+  },
+  {
+    "school_index": 78,
+    "school_name": "Goverment School",
+    "city": "Tambaram",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 79,
+    "school_name": "Holy Family Convent Matric Hr Sec School",
+    "city": "Tambaram",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 80,
+    "school_name": "Himayam Matric School",
+    "city": "Tambaram",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 81,
+    "school_name": "Netaji Vidyalaya School",
+    "city": "Tambaram",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 82,
+    "school_name": "Vailankanni Silver Jubilee Matriculation Higher Secondary School",
+    "city": "Tambaram",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 83,
+    "school_name": "King'S Matric Hr Sec School",
+    "city": "Tambaram",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 84,
+    "school_name": "Sarada Matriculation School",
+    "city": "Tambaram",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 85,
+    "school_name": "Sri Sankara Vidyalaya Matriculation School",
+    "city": "Tambaram",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 86,
+    "school_name": "Nadar Sangam Matric Hr Sec School",
+    "city": "Tambaram",
+    "traffic_light": true,
+    "max_confidence": 0.282,
+    "crosswalk": false,
+    "dist_signal_m": 350.41,
+    "image_id": "891172324946763"
+  },
+  {
+    "school_index": 87,
+    "school_name": "Brilliant Matriculation School",
+    "city": "Tambaram",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 88,
+    "school_name": "Government Higher Secondary School",
+    "city": "Tambaram",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 89,
+    "school_name": "Government Primary School",
+    "city": "Tambaram",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 90,
+    "school_name": "Mowbray'S Matriculation Higher Secondary School",
+    "city": "Tambaram",
+    "traffic_light": true,
+    "max_confidence": 0.376,
+    "crosswalk": false,
+    "dist_signal_m": 253.62,
+    "image_id": "459195475176603"
+  },
+  {
+    "school_index": 91,
+    "school_name": "Saraswathi Vidyalaya",
+    "city": "Tambaram",
+    "traffic_light": true,
+    "max_confidence": 0.376,
+    "crosswalk": false,
+    "dist_signal_m": 46.63,
+    "image_id": "459195475176603"
+  },
+  {
+    "school_index": 92,
+    "school_name": "Jawaharlal Nehru Government Boys School",
+    "city": "Tambaram",
+    "traffic_light": true,
+    "max_confidence": 0.398,
+    "crosswalk": false,
+    "dist_signal_m": 241.01,
+    "image_id": "172675374678339"
+  },
+  {
+    "school_index": 93,
+    "school_name": "Prince Matric Hr Sec School",
+    "city": "Tambaram",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 94,
+    "school_name": "Rajkumar Sulochana Matric Higher Secondary School",
+    "city": "Tambaram",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 95,
+    "school_name": "Shri Venkateshwara Highter Secondary School",
+    "city": "Tambaram",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 96,
+    "school_name": "Thandai Periyar Govt High School",
+    "city": "Tambaram",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 97,
+    "school_name": "Pon Vidhyashram School",
+    "city": "Tambaram",
+    "traffic_light": true,
+    "max_confidence": 0.404,
+    "crosswalk": true,
+    "dist_signal_m": 186.84,
+    "image_id": "1181775168940064"
+  },
+  {
+    "school_index": 98,
+    "school_name": "San Academy",
+    "city": "Tambaram",
+    "traffic_light": true,
+    "max_confidence": 0.424,
+    "crosswalk": true,
+    "dist_signal_m": 355.34,
+    "image_id": "187315136586622"
+  },
+  {
+    "school_index": 99,
+    "school_name": "New Prince Higher Secondary",
+    "city": "Tambaram",
+    "traffic_light": true,
+    "max_confidence": 0.339,
+    "crosswalk": false,
+    "dist_signal_m": 693.75,
+    "image_id": "307746757653184"
+  },
+  {
+    "school_index": 100,
+    "school_name": "Bala Saravana Matriculation School",
+    "city": "Tambaram",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 101,
+    "school_name": "St Marks School",
+    "city": "Tambaram",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 102,
+    "school_name": "Eurokids Manapakkam",
+    "city": "Tambaram",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 103,
+    "school_name": "Aloha Kinderstart",
+    "city": "Tambaram",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 104,
+    "school_name": "St Brittos College",
+    "city": "Tambaram",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 105,
+    "school_name": "Central Institute Of Petrochemicals Engineering And Technology",
+    "city": "Tambaram",
+    "traffic_light": true,
+    "max_confidence": 0.297,
+    "crosswalk": false,
+    "dist_signal_m": 111.02,
+    "image_id": "480681776690859"
+  },
+  {
+    "school_index": 106,
+    "school_name": "National Institute Of Management Studies",
+    "city": "Tambaram",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 107,
+    "school_name": "Tamilnadu Teachers Education University",
+    "city": "Tambaram",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 108,
+    "school_name": "Thangavelu Engineering Collage",
+    "city": "Tambaram",
+    "traffic_light": true,
+    "max_confidence": 0.439,
+    "crosswalk": true,
+    "dist_signal_m": 292.97,
+    "image_id": "937723907026556"
+  },
+  {
+    "school_index": 109,
+    "school_name": "Kcg College Of Technology",
+    "city": "Tambaram",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 110,
+    "school_name": "Kcg College Of Techology",
+    "city": "Tambaram",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 111,
+    "school_name": "Akshara School",
+    "city": "Tambaram",
+    "traffic_light": true,
+    "max_confidence": 0.524,
+    "crosswalk": true,
+    "dist_signal_m": 428.55,
+    "image_id": "329602555180536"
+  },
+  {
+    "school_index": 112,
+    "school_name": "Euro Kids",
+    "city": "Tambaram",
+    "traffic_light": true,
+    "max_confidence": 0.524,
+    "crosswalk": true,
+    "dist_signal_m": 160.83,
+    "image_id": "329602555180536"
+  },
+  {
+    "school_index": 113,
+    "school_name": "Vael'S Bilabong School",
+    "city": "Tambaram",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 114,
+    "school_name": "St Joseph Higher Secondary School",
+    "city": "Tambaram",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 115,
+    "school_name": "Dhanraj Baid Jain College",
+    "city": "Tambaram",
+    "traffic_light": true,
+    "max_confidence": 0.287,
+    "crosswalk": false,
+    "dist_signal_m": 585.23,
+    "image_id": "766205690733514"
+  },
+  {
+    "school_index": 116,
+    "school_name": "Podar Jumbo Kids",
+    "city": "Tambaram",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 117,
+    "school_name": "Kidzee",
+    "city": "Tambaram",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 118,
+    "school_name": "Chettinadu A School",
+    "city": "Tambaram",
+    "traffic_light": true,
+    "max_confidence": 0.703,
+    "crosswalk": false,
+    "dist_signal_m": 286.33,
+    "image_id": "149009243855085"
+  },
+  {
+    "school_index": 119,
+    "school_name": "German School Chennai",
+    "city": "Tambaram",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 120,
+    "school_name": "Global Institute Of Gaming And Animation",
+    "city": "Tambaram",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 121,
+    "school_name": "St Pius School",
+    "city": "Tambaram",
+    "traffic_light": true,
+    "max_confidence": 0.272,
+    "crosswalk": false,
+    "dist_signal_m": 466.73,
+    "image_id": "274951347645932"
+  },
+  {
+    "school_index": 122,
+    "school_name": "Pearls Nursery",
+    "city": "Tambaram",
+    "traffic_light": true,
+    "max_confidence": 0.359,
+    "crosswalk": false,
+    "dist_signal_m": 283.0,
+    "image_id": "250008083536385"
+  },
+  {
+    "school_index": 123,
+    "school_name": "Akshaya",
+    "city": "Tambaram",
+    "traffic_light": true,
+    "max_confidence": 0.302,
+    "crosswalk": false,
+    "dist_signal_m": 191.3,
+    "image_id": "256442126216352"
+  },
+  {
+    "school_index": 124,
+    "school_name": "Lets Do Something - Activity Center",
+    "city": "Tambaram",
+    "traffic_light": true,
+    "max_confidence": 0.268,
+    "crosswalk": false,
+    "dist_signal_m": 84.18,
+    "image_id": "310428953789493"
+  },
+  {
+    "school_index": 125,
+    "school_name": "St Antony School",
+    "city": "Tambaram",
+    "traffic_light": true,
+    "max_confidence": 0.302,
+    "crosswalk": false,
+    "dist_signal_m": 257.6,
+    "image_id": "256442126216352"
+  },
+  {
+    "school_index": 126,
+    "school_name": "Eurokids",
+    "city": "Tambaram",
+    "traffic_light": true,
+    "max_confidence": 0.285,
+    "crosswalk": false,
+    "dist_signal_m": 284.82,
+    "image_id": "881021592755028"
+  },
+  {
+    "school_index": 127,
+    "school_name": "Chennai Higher Secondary School",
+    "city": "Tambaram",
+    "traffic_light": true,
+    "max_confidence": 0.387,
+    "crosswalk": false,
+    "dist_signal_m": 95.09,
+    "image_id": "465874997965295"
+  },
+  {
+    "school_index": 128,
+    "school_name": "Chennai Primary School",
+    "city": "Tambaram",
+    "traffic_light": true,
+    "max_confidence": 0.379,
+    "crosswalk": false,
+    "dist_signal_m": 228.58,
+    "image_id": "229690795622249"
+  },
+  {
+    "school_index": 129,
+    "school_name": "Department Of Electrical Engineering Electrical Engineering Department",
+    "city": "Tambaram",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 130,
+    "school_name": "Iit Madras",
+    "city": "Tambaram",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 131,
+    "school_name": "Ymca School",
+    "city": "Tambaram",
+    "traffic_light": true,
+    "max_confidence": 0.308,
+    "crosswalk": false,
+    "dist_signal_m": 455.32,
+    "image_id": "271939791302680"
+  },
+  {
+    "school_index": 132,
+    "school_name": "Vanavani Matriculation School",
+    "city": "Tambaram",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 133,
+    "school_name": "The Institute Of Mathematical Sciences",
+    "city": "Tambaram",
+    "traffic_light": true,
+    "max_confidence": 0.252,
+    "crosswalk": false,
+    "dist_signal_m": 551.77,
+    "image_id": "3022608141361798"
+  },
+  {
+    "school_index": 134,
+    "school_name": "Asian College Of Journalism",
+    "city": "Tambaram",
+    "traffic_light": true,
+    "max_confidence": 0.859,
+    "crosswalk": true,
+    "dist_signal_m": 413.32,
+    "image_id": "1398944917170995"
+  },
+  {
+    "school_index": 135,
+    "school_name": "Aathichudy Special School",
+    "city": "Tambaram",
+    "traffic_light": true,
+    "max_confidence": 0.834,
+    "crosswalk": true,
+    "dist_signal_m": 524.28,
+    "image_id": "158004426187595"
+  },
+  {
+    "school_index": 136,
+    "school_name": "Olcott Memorial Hss",
+    "city": "Tambaram",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 137,
+    "school_name": "St Johns English School",
+    "city": "Tambaram",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 138,
+    "school_name": "Starlight Abacus School",
+    "city": "Tambaram",
+    "traffic_light": true,
+    "max_confidence": 0.32,
+    "crosswalk": false,
+    "dist_signal_m": 588.81,
+    "image_id": "281645223604028"
+  },
+  {
+    "school_index": 139,
+    "school_name": "Saveetha Engineering College",
+    "city": "Tambaram",
+    "traffic_light": true,
+    "max_confidence": 0.377,
+    "crosswalk": false,
+    "dist_signal_m": 427.14,
+    "image_id": "507979540383680"
+  },
+  {
+    "school_index": 140,
+    "school_name": "Loyola International Residential",
+    "city": "Tambaram",
+    "traffic_light": true,
+    "max_confidence": 0.293,
+    "crosswalk": false,
+    "dist_signal_m": 485.16,
+    "image_id": "483612356393008"
+  },
+  {
+    "school_index": 141,
+    "school_name": "S A Engineering College",
+    "city": "Tambaram",
+    "traffic_light": true,
+    "max_confidence": 0.312,
+    "crosswalk": false,
+    "dist_signal_m": 493.63,
+    "image_id": "1307783437002523"
+  },
+  {
+    "school_index": 142,
+    "school_name": "Kids R Us",
+    "city": "Tambaram",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 143,
+    "school_name": "Government Higher Secondary School",
+    "city": "Tambaram",
+    "traffic_light": true,
+    "max_confidence": 0.25,
+    "crosswalk": false,
+    "dist_signal_m": 170.32,
+    "image_id": "160514176131143"
+  },
+  {
+    "school_index": 144,
+    "school_name": "Sri Ramachandra Medical College And Research Institute",
+    "city": "Tambaram",
+    "traffic_light": true,
+    "max_confidence": 0.413,
+    "crosswalk": false,
+    "dist_signal_m": 416.41,
+    "image_id": "513658580059403"
+  },
+  {
+    "school_index": 145,
+    "school_name": "St Johns Mhss",
+    "city": "Tambaram",
+    "traffic_light": true,
+    "max_confidence": 0.264,
+    "crosswalk": false,
+    "dist_signal_m": 124.66,
+    "image_id": "979997713303104"
+  },
+  {
+    "school_index": 146,
+    "school_name": "Rajiv School Of Excellence Matriculation & Higher Secondary",
+    "city": "Tambaram",
+    "traffic_light": true,
+    "max_confidence": 0.558,
+    "crosswalk": true,
+    "dist_signal_m": 567.44,
+    "image_id": "592140026182999"
+  },
+  {
+    "school_index": 147,
+    "school_name": "Grace Matriculation Higher Secondary School",
+    "city": "Tambaram",
+    "traffic_light": true,
+    "max_confidence": 0.33,
+    "crosswalk": false,
+    "dist_signal_m": 306.14,
+    "image_id": "680336213942976"
+  },
+  {
+    "school_index": 148,
+    "school_name": "Saveetha School Of Management",
+    "city": "Tambaram",
+    "traffic_light": true,
+    "max_confidence": 0.34,
+    "crosswalk": false,
+    "dist_signal_m": 121.24,
+    "image_id": "4119364368185276"
+  },
+  {
+    "school_index": 149,
+    "school_name": "Alpha Arts And Science College",
+    "city": "Tambaram",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 150,
+    "school_name": "Sv High School",
+    "city": "Tambaram",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 151,
+    "school_name": "St Christopher Nursery And Primary School",
+    "city": "Tambaram",
+    "traffic_light": true,
+    "max_confidence": 0.271,
+    "crosswalk": false,
+    "dist_signal_m": 332.88,
+    "image_id": "840017013612179"
+  },
+  {
+    "school_index": 152,
+    "school_name": "Kids At Play Daycare Center",
+    "city": "Tambaram",
+    "traffic_light": true,
+    "max_confidence": 0.307,
+    "crosswalk": false,
+    "dist_signal_m": 436.85,
+    "image_id": "1514529985750659"
+  },
+  {
+    "school_index": 153,
+    "school_name": "R Square Academy For Tnpsc Tnusrb Si Tet Police Ssc Rrb Bank Exam Coaching Centre",
+    "city": "Tambaram",
+    "traffic_light": true,
+    "max_confidence": 0.657,
+    "crosswalk": true,
+    "dist_signal_m": 116.39,
+    "image_id": "1390318884676406"
+  },
+  {
+    "school_index": 154,
+    "school_name": "Assisi School",
+    "city": "Tambaram",
+    "traffic_light": true,
+    "max_confidence": 0.494,
+    "crosswalk": true,
+    "dist_signal_m": 530.79,
+    "image_id": "525700688785473"
+  },
+  {
+    "school_index": 155,
+    "school_name": "Maruti Driving School",
+    "city": "Tambaram",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 156,
+    "school_name": "Devi Academy",
+    "city": "Tambaram",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 157,
+    "school_name": "La Chatlaine",
+    "city": "Tambaram",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 158,
+    "school_name": "Amrita Vidyalaya",
+    "city": "Tambaram",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 159,
+    "school_name": "Seethalakshmi Vidhyalaya School",
+    "city": "Tambaram",
+    "traffic_light": true,
+    "max_confidence": 0.41,
+    "crosswalk": true,
+    "dist_signal_m": 264.8,
+    "image_id": "2126588497484091"
+  },
+  {
+    "school_index": 160,
+    "school_name": "Apple Kids International Pre School",
+    "city": "Tambaram",
+    "traffic_light": true,
+    "max_confidence": 0.272,
+    "crosswalk": false,
+    "dist_signal_m": 60.26,
+    "image_id": "555407238951989"
+  },
+  {
+    "school_index": 161,
+    "school_name": "Manimegalai Vidhyalaya Nursery And Primary School",
+    "city": "Tambaram",
+    "traffic_light": true,
+    "max_confidence": 0.437,
+    "crosswalk": true,
+    "dist_signal_m": 526.24,
+    "image_id": "994144114454364"
+  },
+  {
+    "school_index": 162,
+    "school_name": "Chennai High School",
+    "city": "Tambaram",
+    "traffic_light": true,
+    "max_confidence": 0.347,
+    "crosswalk": false,
+    "dist_signal_m": 424.64,
+    "image_id": "1412873292401357"
+  },
+  {
+    "school_index": 163,
+    "school_name": "Sri Krishna Swamy Mat Hr Sec School",
+    "city": "Tambaram",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 164,
+    "school_name": "Thai Sathia School",
+    "city": "Tambaram",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 165,
+    "school_name": "Psbb School",
+    "city": "Tambaram",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 166,
+    "school_name": "Good Shepherd Matriculation School",
+    "city": "Tambaram",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 167,
+    "school_name": "Daffodils Pre School",
+    "city": "Tambaram",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 168,
+    "school_name": "St John'S Matriculation Higher Secondary School",
+    "city": "Tambaram",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 169,
+    "school_name": "Balalok Matriculation Higher Secondary School",
+    "city": "Tambaram",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 170,
+    "school_name": "Jaigopal Garodia Girls High School",
+    "city": "Tambaram",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 171,
+    "school_name": "Govt School",
+    "city": "Tambaram",
+    "traffic_light": true,
+    "max_confidence": 0.329,
+    "crosswalk": false,
+    "dist_signal_m": 645.41,
+    "image_id": "944297823058502"
+  },
+  {
+    "school_index": 172,
+    "school_name": "Laclarence Matriculation Higher Secondary Schoolt",
+    "city": "Tambaram",
+    "traffic_light": true,
+    "max_confidence": 0.329,
+    "crosswalk": false,
+    "dist_signal_m": 537.21,
+    "image_id": "944297823058502"
+  },
+  {
+    "school_index": 173,
+    "school_name": "Barathi Vidayala School - Block 1",
+    "city": "Tambaram",
+    "traffic_light": true,
+    "max_confidence": 0.329,
+    "crosswalk": false,
+    "dist_signal_m": 501.57,
+    "image_id": "944297823058502"
+  },
+  {
+    "school_index": 174,
+    "school_name": "Barathi Vidayala School - Block 2",
+    "city": "Tambaram",
+    "traffic_light": true,
+    "max_confidence": 0.329,
+    "crosswalk": false,
+    "dist_signal_m": 478.35,
+    "image_id": "944297823058502"
+  },
+  {
+    "school_index": 175,
+    "school_name": "Janaki Ramachandran Matriculation Scool",
+    "city": "Tambaram",
+    "traffic_light": true,
+    "max_confidence": 0.278,
+    "crosswalk": false,
+    "dist_signal_m": 279.27,
+    "image_id": "2937330429865117"
+  },
+  {
+    "school_index": 176,
+    "school_name": "Srm University - City Campus",
+    "city": "Tambaram",
+    "traffic_light": true,
+    "max_confidence": 0.32,
+    "crosswalk": false,
+    "dist_signal_m": 119.67,
+    "image_id": "1357873201252896"
+  },
+  {
+    "school_index": 177,
+    "school_name": "Chinmaya Vidyalaya",
+    "city": "Tambaram",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 178,
+    "school_name": "Lbeaar Matric Hr Sec School",
+    "city": "Tambaram",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 179,
+    "school_name": "Kanmani Montessori School",
+    "city": "Tambaram",
+    "traffic_light": true,
+    "max_confidence": 0.286,
+    "crosswalk": false,
+    "dist_signal_m": 514.08,
+    "image_id": "541920274263809"
+  },
+  {
+    "school_index": 180,
+    "school_name": "Ambal Metriculation School",
+    "city": "Tambaram",
+    "traffic_light": true,
+    "max_confidence": 0.493,
+    "crosswalk": true,
+    "dist_signal_m": 415.21,
+    "image_id": "284822590046592"
+  },
+  {
+    "school_index": 181,
+    "school_name": "Kolla Perumal Kpvcss",
+    "city": "Tambaram",
+    "traffic_light": true,
+    "max_confidence": 0.271,
+    "crosswalk": false,
+    "dist_signal_m": 275.6,
+    "image_id": "521769259181102"
+  },
+  {
+    "school_index": 182,
+    "school_name": "Anna Adharsh College For Women",
+    "city": "Tambaram",
+    "traffic_light": true,
+    "max_confidence": 0.33,
+    "crosswalk": false,
+    "dist_signal_m": 404.33,
+    "image_id": "5108370845915201"
+  },
+  {
+    "school_index": 183,
+    "school_name": "Diana Nursery & Primary School",
+    "city": "Tambaram",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 184,
+    "school_name": "Oxford Matriculation Higher Secondary School",
+    "city": "Tambaram",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 185,
+    "school_name": "Sri Ramakrishna Mission Sarada Vidyalaya Model Higher Secondary School For Girls",
+    "city": "Tambaram",
+    "traffic_light": true,
+    "max_confidence": 0.701,
+    "crosswalk": true,
+    "dist_signal_m": 210.1,
+    "image_id": "765369467330746"
+  },
+  {
+    "school_index": 186,
+    "school_name": "Target Soft Solution",
+    "city": "Tambaram",
+    "traffic_light": true,
+    "max_confidence": 0.367,
+    "crosswalk": false,
+    "dist_signal_m": 440.77,
+    "image_id": "1788208795432474"
+  },
+  {
+    "school_index": 187,
+    "school_name": "Hindi Prachar Sabha",
+    "city": "Tambaram",
+    "traffic_light": true,
+    "max_confidence": 0.529,
+    "crosswalk": true,
+    "dist_signal_m": 163.9,
+    "image_id": "1487472458905856"
+  },
+  {
+    "school_index": 188,
+    "school_name": "Guntur Subbiah Pillai Girls Higher Secondary",
+    "city": "Tambaram",
+    "traffic_light": true,
+    "max_confidence": 0.529,
+    "crosswalk": true,
+    "dist_signal_m": 149.83,
+    "image_id": "1487472458905856"
+  },
+  {
+    "school_index": 189,
+    "school_name": "Govt Hr Secondary School",
+    "city": "Tambaram",
+    "traffic_light": true,
+    "max_confidence": 0.661,
+    "crosswalk": true,
+    "dist_signal_m": 596.15,
+    "image_id": "7659844560695738"
+  },
+  {
+    "school_index": 190,
+    "school_name": "Peace Academy Chennai",
+    "city": "Tambaram",
+    "traffic_light": true,
+    "max_confidence": 0.264,
+    "crosswalk": false,
+    "dist_signal_m": 129.88,
+    "image_id": "451398299890888"
+  },
+  {
+    "school_index": 191,
+    "school_name": "Karnataka Sangha Higher Secondary School",
+    "city": "Tambaram",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 192,
+    "school_name": "Venkatasubba Rao Matrix Hr Secy School",
+    "city": "Tambaram",
+    "traffic_light": true,
+    "max_confidence": 0.492,
+    "crosswalk": true,
+    "dist_signal_m": 499.45,
+    "image_id": "178850694016169"
+  },
+  {
+    "school_index": 193,
+    "school_name": "Padma Seshadri Bala Bhavan Higher Secondary School",
+    "city": "Tambaram",
+    "traffic_light": true,
+    "max_confidence": 0.305,
+    "crosswalk": false,
+    "dist_signal_m": 646.87,
+    "image_id": "944118023070753"
+  },
+  {
+    "school_index": 194,
+    "school_name": "Iid Community College",
+    "city": "Tambaram",
+    "traffic_light": true,
+    "max_confidence": 0.43,
+    "crosswalk": true,
+    "dist_signal_m": 548.68,
+    "image_id": "491690488714154"
+  },
+  {
+    "school_index": 195,
+    "school_name": "Panimalar Polytechnic College",
+    "city": "Tambaram",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 196,
+    "school_name": "Loyola-Icam College Of Engineering And Technology",
+    "city": "Tambaram",
+    "traffic_light": true,
+    "max_confidence": 0.363,
+    "crosswalk": false,
+    "dist_signal_m": 428.65,
+    "image_id": "233315041588057"
+  },
+  {
+    "school_index": 197,
+    "school_name": "Loyola Institute Of Business Administration",
+    "city": "Tambaram",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 198,
+    "school_name": "Bala Mandir Kamaraj Trust",
+    "city": "Tambaram",
+    "traffic_light": true,
+    "max_confidence": 0.759,
+    "crosswalk": true,
+    "dist_signal_m": 106.24,
+    "image_id": "790199285203418"
+  },
+  {
+    "school_index": 199,
+    "school_name": "Satyamurthi High School",
+    "city": "Tambaram",
+    "traffic_light": true,
+    "max_confidence": 0.759,
+    "crosswalk": false,
+    "dist_signal_m": 53.74,
+    "image_id": "790199285203418"
+  },
+  {
+    "school_index": 200,
+    "school_name": "Elemenopy",
+    "city": "Tambaram",
+    "traffic_light": true,
+    "max_confidence": 0.305,
+    "crosswalk": false,
+    "dist_signal_m": 385.34,
+    "image_id": "944118023070753"
+  },
+  {
+    "school_index": 201,
+    "school_name": "Footprints",
+    "city": "Tambaram",
+    "traffic_light": true,
+    "max_confidence": 0.305,
+    "crosswalk": false,
+    "dist_signal_m": 440.87,
+    "image_id": "944118023070753"
+  },
+  {
+    "school_index": 202,
+    "school_name": "National Public School",
+    "city": "Tambaram",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 203,
+    "school_name": "D A V Boys Higher Secondary School",
+    "city": "Tambaram",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 204,
+    "school_name": "Measi Academy Of Architecture",
+    "city": "Tambaram",
+    "traffic_light": true,
+    "max_confidence": 0.791,
+    "crosswalk": true,
+    "dist_signal_m": 575.6,
+    "image_id": "1102002406977254"
+  },
+  {
+    "school_index": 205,
+    "school_name": "Gill Adarsh Matriculation Higher Secondary School",
+    "city": "Tambaram",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 206,
+    "school_name": "Government Yoga And Naturopathy Medical College & Hospital",
+    "city": "Tambaram",
+    "traffic_light": true,
+    "max_confidence": 0.703,
+    "crosswalk": true,
+    "dist_signal_m": 132.96,
+    "image_id": "935256630607768"
+  },
+  {
+    "school_index": 207,
+    "school_name": "-",
+    "city": "Tambaram",
+    "traffic_light": true,
+    "max_confidence": 0.289,
+    "crosswalk": false,
+    "dist_signal_m": 679.99,
+    "image_id": "3474580342641667"
+  },
+  {
+    "school_index": 208,
+    "school_name": "Chintadripet Middle School",
+    "city": "Tambaram",
+    "traffic_light": true,
+    "max_confidence": 0.278,
+    "crosswalk": false,
+    "dist_signal_m": 473.96,
+    "image_id": "24163636329907684"
+  },
+  {
+    "school_index": 209,
+    "school_name": "Alamelu Mangai Thayarammal Montessori School",
+    "city": "Tambaram",
+    "traffic_light": true,
+    "max_confidence": 0.58,
+    "crosswalk": true,
+    "dist_signal_m": 426.94,
+    "image_id": "300685758898047"
+  },
+  {
+    "school_index": 210,
+    "school_name": "Kalyanam Girls Higher Secondary School",
+    "city": "Tambaram",
+    "traffic_light": true,
+    "max_confidence": 0.284,
+    "crosswalk": false,
+    "dist_signal_m": 632.72,
+    "image_id": "1000587958780694"
+  },
+  {
+    "school_index": 211,
+    "school_name": "Chintadripet Boys Higher Secondary School",
+    "city": "Tambaram",
+    "traffic_light": true,
+    "max_confidence": 0.58,
+    "crosswalk": true,
+    "dist_signal_m": 363.06,
+    "image_id": "300685758898047"
+  },
+  {
+    "school_index": 212,
+    "school_name": "Rao Bahadur Calavala Cunnan Chetty Middle School",
+    "city": "Tambaram",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 213,
+    "school_name": "Government Higher Secondary School Maraimalai Nagar",
+    "city": "Tambaram",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 214,
+    "school_name": "St Joseph'S Block",
+    "city": "Tambaram",
+    "traffic_light": true,
+    "max_confidence": 0.257,
+    "crosswalk": false,
+    "dist_signal_m": 464.25,
+    "image_id": "490659118943024"
+  },
+  {
+    "school_index": 215,
+    "school_name": "St Mary'S Block",
+    "city": "Tambaram",
+    "traffic_light": true,
+    "max_confidence": 0.251,
+    "crosswalk": false,
+    "dist_signal_m": 500.72,
+    "image_id": "322640682757497"
+  },
+  {
+    "school_index": 216,
+    "school_name": "Government Primary School",
+    "city": "Tambaram",
+    "traffic_light": true,
+    "max_confidence": 0.257,
+    "crosswalk": false,
+    "dist_signal_m": 425.48,
+    "image_id": "490659118943024"
+  },
+  {
+    "school_index": 217,
+    "school_name": "Government School Central Kitchen",
+    "city": "Tambaram",
+    "traffic_light": true,
+    "max_confidence": 0.44,
+    "crosswalk": true,
+    "dist_signal_m": 595.85,
+    "image_id": "811582106118416"
+  },
+  {
+    "school_index": 218,
+    "school_name": "Saint Joseph S Matriculation Higher Secondary School",
+    "city": "Tambaram",
+    "traffic_light": true,
+    "max_confidence": 0.272,
+    "crosswalk": false,
+    "dist_signal_m": 520.41,
+    "image_id": "1195010084261508"
+  },
+  {
+    "school_index": 219,
+    "school_name": "Allen Block",
+    "city": "Tambaram",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 220,
+    "school_name": "Quasquicetennial Block",
+    "city": "Tambaram",
+    "traffic_light": true,
+    "max_confidence": 0.272,
+    "crosswalk": false,
+    "dist_signal_m": 515.15,
+    "image_id": "1195010084261508"
+  },
+  {
+    "school_index": 221,
+    "school_name": "Assisi Block",
+    "city": "Tambaram",
+    "traffic_light": true,
+    "max_confidence": 0.257,
+    "crosswalk": false,
+    "dist_signal_m": 448.49,
+    "image_id": "490659118943024"
+  },
+  {
+    "school_index": 222,
+    "school_name": "Sivananda Women'S Iti Proposed",
+    "city": "Tambaram",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 223,
+    "school_name": "Dhaanish Ahmed College Of Engineering",
+    "city": "Tambaram",
+    "traffic_light": true,
+    "max_confidence": 0.337,
+    "crosswalk": false,
+    "dist_signal_m": 429.58,
+    "image_id": "2953154228344988"
+  },
+  {
+    "school_index": 224,
+    "school_name": "Rrase College Of Engineering",
+    "city": "Tambaram",
+    "traffic_light": true,
+    "max_confidence": 0.299,
+    "crosswalk": false,
+    "dist_signal_m": 293.38,
+    "image_id": "2614506218854799"
+  },
+  {
+    "school_index": 225,
+    "school_name": "Vidya Mandir",
+    "city": "Tambaram",
+    "traffic_light": true,
+    "max_confidence": 0.269,
+    "crosswalk": false,
+    "dist_signal_m": 470.48,
+    "image_id": "764732887555935"
+  },
+  {
+    "school_index": 226,
+    "school_name": "Government Girls Higher Secondary School",
+    "city": "Tambaram",
+    "traffic_light": true,
+    "max_confidence": 0.297,
+    "crosswalk": false,
+    "dist_signal_m": 309.22,
+    "image_id": "508932696955829"
+  },
+  {
+    "school_index": 227,
+    "school_name": "St Mary'S Matriculation Hr Sec School",
+    "city": "Tambaram",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 228,
+    "school_name": "Government Boys Higher Secondary School",
+    "city": "Tambaram",
+    "traffic_light": true,
+    "max_confidence": 0.581,
+    "crosswalk": false,
+    "dist_signal_m": 490.81,
+    "image_id": "177243560962921"
+  },
+  {
+    "school_index": 229,
+    "school_name": "Police Academy",
+    "city": "Tambaram",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 230,
+    "school_name": "Urapakkam High School",
+    "city": "Tambaram",
+    "traffic_light": true,
+    "max_confidence": 0.67,
+    "crosswalk": false,
+    "dist_signal_m": 293.84,
+    "image_id": "489214915760327"
+  },
+  {
+    "school_index": 231,
+    "school_name": "Bs Abdur Rahman University",
+    "city": "Tambaram",
+    "traffic_light": true,
+    "max_confidence": 0.348,
+    "crosswalk": false,
+    "dist_signal_m": 583.93,
+    "image_id": "2698088440483006"
+  },
+  {
+    "school_index": 232,
+    "school_name": "Government Higher Secondary School Otteri",
+    "city": "Tambaram",
+    "traffic_light": true,
+    "max_confidence": 0.634,
+    "crosswalk": true,
+    "dist_signal_m": 304.79,
+    "image_id": "302321224840094"
+  },
+  {
+    "school_index": 233,
+    "school_name": "Rajiv Gandhi National Institute Of Youth Development",
+    "city": "Tambaram",
+    "traffic_light": true,
+    "max_confidence": 0.334,
+    "crosswalk": false,
+    "dist_signal_m": 490.76,
+    "image_id": "225697862297598"
+  },
+  {
+    "school_index": 234,
+    "school_name": "Kings Engineering College",
+    "city": "Tambaram",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 235,
+    "school_name": "Rajalakshmi Engineering College",
+    "city": "Tambaram",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 236,
+    "school_name": "Dhanalakshmi College Of Engineering",
+    "city": "Tambaram",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 237,
+    "school_name": "Arasinar Uyar Nilai Palli",
+    "city": "Tambaram",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 238,
+    "school_name": "Sairam Group Of Private Penitary",
+    "city": "Tambaram",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 239,
+    "school_name": "Sairam Engineering College",
+    "city": "Tambaram",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 240,
+    "school_name": "Sri Sairam Siddha Medical College & Research Centre",
+    "city": "Tambaram",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 241,
+    "school_name": "Sri Sairam Institute Of Technology",
+    "city": "Tambaram",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 242,
+    "school_name": "Sri Rmana Vidyalaya Metriculation School",
+    "city": "Tambaram",
+    "traffic_light": true,
+    "max_confidence": 0.384,
+    "crosswalk": false,
+    "dist_signal_m": 109.49,
+    "image_id": "538977253926405"
+  },
+  {
+    "school_index": 243,
+    "school_name": "Sri Sairam Polytechnic College",
+    "city": "Tambaram",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 244,
+    "school_name": "Chennai Institute Of Technology",
+    "city": "Tambaram",
+    "traffic_light": true,
+    "max_confidence": 0.381,
+    "crosswalk": false,
+    "dist_signal_m": 646.35,
+    "image_id": "977389940265024"
+  },
+  {
+    "school_index": 245,
+    "school_name": "Footwear Design And Development Institute",
+    "city": "Tambaram",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 246,
+    "school_name": "Madha Matriculation School",
+    "city": "Tambaram",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 247,
+    "school_name": "Dav Smk Fomra School",
+    "city": "Tambaram",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 248,
+    "school_name": "Jagannath Vidyalaya School",
+    "city": "Tambaram",
+    "traffic_light": true,
+    "max_confidence": 0.251,
+    "crosswalk": false,
+    "dist_signal_m": 413.48,
+    "image_id": "2668728766753147"
+  },
+  {
+    "school_index": 249,
+    "school_name": "Indian Institute Of Technology Thaiyur",
+    "city": "Tambaram",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 250,
+    "school_name": "Murray Rabindra Matriculation School",
+    "city": "Tambaram",
+    "traffic_light": true,
+    "max_confidence": 0.306,
+    "crosswalk": false,
+    "dist_signal_m": 275.05,
+    "image_id": "135088608664712"
+  },
+  {
+    "school_index": 251,
+    "school_name": "Hindustan University",
+    "city": "Tambaram",
+    "traffic_light": true,
+    "max_confidence": 0.465,
+    "crosswalk": true,
+    "dist_signal_m": 628.4,
+    "image_id": "2227405667396631"
+  },
+  {
+    "school_index": 252,
+    "school_name": "Tamil Nadu Physical Education And Sports University",
+    "city": "Tambaram",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 253,
+    "school_name": "Tagore Dental College And Hospital",
+    "city": "Tambaram",
+    "traffic_light": true,
+    "max_confidence": 0.512,
+    "crosswalk": false,
+    "dist_signal_m": 554.47,
+    "image_id": "1891770114307390"
+  },
+  {
+    "school_index": 254,
+    "school_name": "Vellore Institute Of Technology - Chennai",
+    "city": "Tambaram",
+    "traffic_light": true,
+    "max_confidence": 0.291,
+    "crosswalk": false,
+    "dist_signal_m": 305.95,
+    "image_id": "139660291515146"
+  },
+  {
+    "school_index": 255,
+    "school_name": "Velammal Vidhyashram Mambakkam",
+    "city": "Tambaram",
+    "traffic_light": true,
+    "max_confidence": 0.663,
+    "crosswalk": false,
+    "dist_signal_m": 99.39,
+    "image_id": "289077925988568"
+  },
+  {
+    "school_index": 256,
+    "school_name": "Mohamed Sathak Aj College Of Engineering",
+    "city": "Tambaram",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 257,
+    "school_name": "Christwood School",
+    "city": "Tambaram",
+    "traffic_light": true,
+    "max_confidence": 0.331,
+    "crosswalk": false,
+    "dist_signal_m": 430.01,
+    "image_id": "944897666216481"
+  },
+  {
+    "school_index": 258,
+    "school_name": "Madras Christian College",
+    "city": "Tambaram",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 259,
+    "school_name": "Bharath Institute Of Higher Education And Research",
+    "city": "Tambaram",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 260,
+    "school_name": "Annai Arul Public School",
+    "city": "Tambaram",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 261,
+    "school_name": "Alwin Memorial Public School Cbse",
+    "city": "Tambaram",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 262,
+    "school_name": "Zion Matriculation Higher Secondary School",
+    "city": "Tambaram",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 263,
+    "school_name": "Hlc International",
+    "city": "Tambaram",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 264,
+    "school_name": "St Joseph'S Instittute Of Technology",
+    "city": "Tambaram",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 265,
+    "school_name": "St Joseph'S College Of Engineering",
+    "city": "Tambaram",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 266,
+    "school_name": "Perumbakkam Higher Secondary School",
+    "city": "Tambaram",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 267,
+    "school_name": "Government Industrial Training Institute Perumbakkam",
+    "city": "Tambaram",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 268,
+    "school_name": "Government Arts And Science College Perumbakkam",
+    "city": "Tambaram",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 269,
+    "school_name": "Central Institute Of Classical Tamil",
+    "city": "Tambaram",
+    "traffic_light": true,
+    "max_confidence": 0.587,
+    "crosswalk": true,
+    "dist_signal_m": 392.89,
+    "image_id": "1129607254190751"
+  },
+  {
+    "school_index": 270,
+    "school_name": "Chennai Mathematical Institute",
+    "city": "Tambaram",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 271,
+    "school_name": "Amet University",
+    "city": "Tambaram",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 272,
+    "school_name": "Balaji Seamen Training Institute",
+    "city": "Tambaram",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 273,
+    "school_name": "Jeppiaar Engineering College",
+    "city": "Tambaram",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 274,
+    "school_name": "Indian Maritime University",
+    "city": "Tambaram",
+    "traffic_light": true,
+    "max_confidence": 0.357,
+    "crosswalk": false,
+    "dist_signal_m": 392.74,
+    "image_id": "152999327250513"
+  },
+  {
+    "school_index": 275,
+    "school_name": "Babaji Vidyasharam Cbse",
+    "city": "Tambaram",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 276,
+    "school_name": "Babaji School Play Ground",
+    "city": "Tambaram",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 277,
+    "school_name": "Corley Higher Secondary School Ground",
+    "city": "Tambaram",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 278,
+    "school_name": "Quadrangle",
+    "city": "Tambaram",
+    "traffic_light": true,
+    "max_confidence": 0.64,
+    "crosswalk": true,
+    "dist_signal_m": 415.62,
+    "image_id": "597518218305164"
+  },
+  {
+    "school_index": 279,
+    "school_name": "Mcc Campus School",
+    "city": "Tambaram",
+    "traffic_light": true,
+    "max_confidence": 0.796,
+    "crosswalk": true,
+    "dist_signal_m": 199.34,
+    "image_id": "869950180221137"
+  },
+  {
+    "school_index": 280,
+    "school_name": "Sita Devi Garodia Hindu Vidyalaya",
+    "city": "Tambaram",
+    "traffic_light": true,
+    "max_confidence": 0.316,
+    "crosswalk": false,
+    "dist_signal_m": 308.62,
+    "image_id": "170871178192640"
+  },
+  {
+    "school_index": 281,
+    "school_name": "Sita Devi Garodia Hindu Vidyalaya Play Ground",
+    "city": "Tambaram",
+    "traffic_light": true,
+    "max_confidence": 0.316,
+    "crosswalk": false,
+    "dist_signal_m": 274.33,
+    "image_id": "170871178192640"
+  },
+  {
+    "school_index": 282,
+    "school_name": "Sri Sankara Vidyalaya Matriculation Higher Secondary School",
+    "city": "Tambaram",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 283,
+    "school_name": "Government High School",
+    "city": "Tambaram",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 284,
+    "school_name": "Christ King Girls Higher Secondary School Ground",
+    "city": "Tambaram",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 285,
+    "school_name": "Shri Anand Jain Vidyala",
+    "city": "Tambaram",
+    "traffic_light": true,
+    "max_confidence": 0.273,
+    "crosswalk": false,
+    "dist_signal_m": 489.91,
+    "image_id": "965770360846820"
+  },
+  {
+    "school_index": 286,
+    "school_name": "Jaigopal Garodia National Higher Secondary School",
+    "city": "Tambaram",
+    "traffic_light": true,
+    "max_confidence": 0.258,
+    "crosswalk": false,
+    "dist_signal_m": 494.04,
+    "image_id": "4326981747314915"
+  },
+  {
+    "school_index": 287,
+    "school_name": "National Institute For Siddha",
+    "city": "Tambaram",
+    "traffic_light": true,
+    "max_confidence": 0.524,
+    "crosswalk": true,
+    "dist_signal_m": 147.89,
+    "image_id": "149265263829777"
+  },
+  {
+    "school_index": 288,
+    "school_name": "Mit Ground",
+    "city": "Tambaram",
+    "traffic_light": true,
+    "max_confidence": 0.419,
+    "crosswalk": true,
+    "dist_signal_m": 475.42,
+    "image_id": "538476700687021"
+  },
+  {
+    "school_index": 289,
+    "school_name": "Srimathi Sundaravalli Memorial School",
+    "city": "Tambaram",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 290,
+    "school_name": "Tagore College Of Arts And Science",
+    "city": "Tambaram",
+    "traffic_light": true,
+    "max_confidence": 0.357,
+    "crosswalk": false,
+    "dist_signal_m": 621.06,
+    "image_id": "969594837188269"
+  },
+  {
+    "school_index": 291,
+    "school_name": "Srdf Vivekananda Vidyalaya",
+    "city": "Tambaram",
+    "traffic_light": true,
+    "max_confidence": 0.534,
+    "crosswalk": false,
+    "dist_signal_m": 77.31,
+    "image_id": "500038941187770"
+  },
+  {
+    "school_index": 292,
+    "school_name": "Ayyasami School",
+    "city": "Tambaram",
+    "traffic_light": true,
+    "max_confidence": 0.392,
+    "crosswalk": false,
+    "dist_signal_m": 177.65,
+    "image_id": "468980297545528"
+  },
+  {
+    "school_index": 293,
+    "school_name": "Hangar 1",
+    "city": "Tambaram",
+    "traffic_light": true,
+    "max_confidence": 0.503,
+    "crosswalk": true,
+    "dist_signal_m": 130.78,
+    "image_id": "5461451020596260"
+  },
+  {
+    "school_index": 294,
+    "school_name": "Hangar 2",
+    "city": "Tambaram",
+    "traffic_light": true,
+    "max_confidence": 0.465,
+    "crosswalk": true,
+    "dist_signal_m": 114.01,
+    "image_id": "559649155556785"
+  },
+  {
+    "school_index": 295,
+    "school_name": "Rubber And Plastics Technology",
+    "city": "Tambaram",
+    "traffic_light": true,
+    "max_confidence": 0.327,
+    "crosswalk": false,
+    "dist_signal_m": 269.39,
+    "image_id": "790414991674416"
+  },
+  {
+    "school_index": 296,
+    "school_name": "Instrumentation Engineering Block-1",
+    "city": "Tambaram",
+    "traffic_light": true,
+    "max_confidence": 0.41,
+    "crosswalk": true,
+    "dist_signal_m": 241.94,
+    "image_id": "199658381938183"
+  },
+  {
+    "school_index": 297,
+    "school_name": "Central Workshop",
+    "city": "Tambaram",
+    "traffic_light": true,
+    "max_confidence": 0.267,
+    "crosswalk": false,
+    "dist_signal_m": 126.91,
+    "image_id": "484275896155835"
+  },
+  {
+    "school_index": 298,
+    "school_name": "Instrumentation Engineering - New Block",
+    "city": "Tambaram",
+    "traffic_light": true,
+    "max_confidence": 0.593,
+    "crosswalk": true,
+    "dist_signal_m": 159.42,
+    "image_id": "373988713994288"
+  },
+  {
+    "school_index": 299,
+    "school_name": "Sri Chaitanya School",
+    "city": "Tambaram",
+    "traffic_light": true,
+    "max_confidence": 0.258,
+    "crosswalk": false,
+    "dist_signal_m": 94.91,
+    "image_id": "369771977820124"
+  },
+  {
+    "school_index": 300,
+    "school_name": "Sdnb Vaishnav College For Women",
+    "city": "Tambaram",
+    "traffic_light": true,
+    "max_confidence": 0.744,
+    "crosswalk": true,
+    "dist_signal_m": 224.04,
+    "image_id": "152460683510807"
+  },
+  {
+    "school_index": 301,
+    "school_name": "Sivet College",
+    "city": "Tambaram",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 302,
+    "school_name": "Quaid-E-Milleth College",
+    "city": "Tambaram",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 303,
+    "school_name": "Government School",
+    "city": "Tambaram",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 304,
+    "school_name": "Government High School Grounds",
+    "city": "Tambaram",
+    "traffic_light": true,
+    "max_confidence": 0.33,
+    "crosswalk": false,
+    "dist_signal_m": 105.85,
+    "image_id": "373629790721785"
+  },
+  {
+    "school_index": 305,
+    "school_name": "St Antony'S School",
+    "city": "Tambaram",
+    "traffic_light": true,
+    "max_confidence": 0.299,
+    "crosswalk": false,
+    "dist_signal_m": 242.23,
+    "image_id": "373051304125286"
+  },
+  {
+    "school_index": 306,
+    "school_name": "Vels Vidyashram Annexe Campus",
+    "city": "Tambaram",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 307,
+    "school_name": "Goverment School",
+    "city": "Tambaram",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 308,
+    "school_name": "A School",
+    "city": "Tambaram",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 309,
+    "school_name": "Jerusalem College Of Engineering",
+    "city": "Tambaram",
+    "traffic_light": true,
+    "max_confidence": 0.464,
+    "crosswalk": true,
+    "dist_signal_m": 90.11,
+    "image_id": "534225357602751"
+  },
+  {
+    "school_index": 310,
+    "school_name": "Balaji Dental College",
+    "city": "Tambaram",
+    "traffic_light": true,
+    "max_confidence": 0.605,
+    "crosswalk": true,
+    "dist_signal_m": 126.21,
+    "image_id": "1539387173069570"
+  },
+  {
+    "school_index": 311,
+    "school_name": "National Institute Of Ocean Technology",
+    "city": "Tambaram",
+    "traffic_light": true,
+    "max_confidence": 0.341,
+    "crosswalk": false,
+    "dist_signal_m": 262.18,
+    "image_id": "4085750944796371"
+  },
+  {
+    "school_index": 312,
+    "school_name": "Holy Prince Matriculation Higher Secondary School",
+    "city": "Tambaram",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 313,
+    "school_name": "St Theresa Girls' Higher Secondary School",
+    "city": "Tambaram",
+    "traffic_light": true,
+    "max_confidence": 0.57,
+    "crosswalk": true,
+    "dist_signal_m": 141.99,
+    "image_id": "150066500514344"
+  },
+  {
+    "school_index": 314,
+    "school_name": "St Sebastian Matriculation Higher Secondary School",
+    "city": "Tambaram",
+    "traffic_light": true,
+    "max_confidence": 0.57,
+    "crosswalk": false,
+    "dist_signal_m": 296.35,
+    "image_id": "150066500514344"
+  },
+  {
+    "school_index": 315,
+    "school_name": "Madha Medical College & Research Institute",
+    "city": "Tambaram",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 316,
+    "school_name": "Lalaji Memorial Omega International School",
+    "city": "Tambaram",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 317,
+    "school_name": "St Francis International School",
+    "city": "Tambaram",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 318,
+    "school_name": "Pon Vidhyasharam School",
+    "city": "Tambaram",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 319,
+    "school_name": "Ology Tech School",
+    "city": "Tambaram",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 320,
+    "school_name": "Ology School Ground",
+    "city": "Tambaram",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 321,
+    "school_name": "Velammal Bodhi Campus Kolapakkam",
+    "city": "Tambaram",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 322,
+    "school_name": "Modern Senior Secondary School",
+    "city": "Tambaram",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 323,
+    "school_name": "Modern Senior Secondary School Primary",
+    "city": "Tambaram",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 324,
+    "school_name": "The Hindu Colony Chellammal Vidyalaya Senior Secondary School",
+    "city": "Tambaram",
+    "traffic_light": true,
+    "max_confidence": 0.378,
+    "crosswalk": false,
+    "dist_signal_m": 305.76,
+    "image_id": "800717230562687"
+  },
+  {
+    "school_index": 325,
+    "school_name": "Agurchand Manmull Jain College",
+    "city": "Tambaram",
+    "traffic_light": true,
+    "max_confidence": 0.363,
+    "crosswalk": false,
+    "dist_signal_m": 222.25,
+    "image_id": "223446409619505"
+  },
+  {
+    "school_index": 326,
+    "school_name": "Kendriya Vidyalaya",
+    "city": "Tambaram",
+    "traffic_light": true,
+    "max_confidence": 0.334,
+    "crosswalk": false,
+    "dist_signal_m": 137.9,
+    "image_id": "962887774526449"
+  },
+  {
+    "school_index": 327,
+    "school_name": "Municipal Primary School",
+    "city": "Tambaram",
+    "traffic_light": true,
+    "max_confidence": 0.398,
+    "crosswalk": false,
+    "dist_signal_m": 161.69,
+    "image_id": "172675374678339"
+  },
+  {
+    "school_index": 328,
+    "school_name": "Sai Matriculation Higher Secondary School",
+    "city": "Tambaram",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 329,
+    "school_name": "Prince Srivari Vidyalaya",
+    "city": "Tambaram",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 330,
+    "school_name": "Prince Srivari Vidyalaya Annex",
+    "city": "Tambaram",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 331,
+    "school_name": "St Thomas Matriculation Higher Secondary School",
+    "city": "Tambaram",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 332,
+    "school_name": "New Prince Matriculation Higher Secondary School",
+    "city": "Tambaram",
+    "traffic_light": true,
+    "max_confidence": 0.272,
+    "crosswalk": false,
+    "dist_signal_m": 522.49,
+    "image_id": "322336199277462"
+  },
+  {
+    "school_index": 333,
+    "school_name": "Sunshine Senior Secondary School",
+    "city": "Tambaram",
+    "traffic_light": true,
+    "max_confidence": 0.3,
+    "crosswalk": false,
+    "dist_signal_m": 110.01,
+    "image_id": "1089107491577333"
+  },
+  {
+    "school_index": 334,
+    "school_name": "Vyasa Vidhyalaya Matriculation Higher Secondary School",
+    "city": "Tambaram",
+    "traffic_light": true,
+    "max_confidence": 0.342,
+    "crosswalk": false,
+    "dist_signal_m": 168.75,
+    "image_id": "1345130999191659"
+  },
+  {
+    "school_index": 335,
+    "school_name": "D A V School",
+    "city": "Tambaram",
+    "traffic_light": true,
+    "max_confidence": 0.272,
+    "crosswalk": false,
+    "dist_signal_m": 283.43,
+    "image_id": "322336199277462"
+  },
+  {
+    "school_index": 336,
+    "school_name": "G K Shetty Hindu Vidhyalaya School",
+    "city": "Tambaram",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 337,
+    "school_name": "Marian Matriculation",
+    "city": "Tambaram",
+    "traffic_light": true,
+    "max_confidence": 0.465,
+    "crosswalk": true,
+    "dist_signal_m": 581.94,
+    "image_id": "338101094560276"
+  },
+  {
+    "school_index": 338,
+    "school_name": "St Johns Matriculation",
+    "city": "Tambaram",
+    "traffic_light": true,
+    "max_confidence": 0.304,
+    "crosswalk": false,
+    "dist_signal_m": 686.25,
+    "image_id": "950162555745831"
+  },
+  {
+    "school_index": 339,
+    "school_name": "Rc School",
+    "city": "Tambaram",
+    "traffic_light": true,
+    "max_confidence": 0.304,
+    "crosswalk": false,
+    "dist_signal_m": 132.65,
+    "image_id": "950162555745831"
+  },
+  {
+    "school_index": 340,
+    "school_name": "Hindustan Institute Of Engineering Technology",
+    "city": "Tambaram",
+    "traffic_light": true,
+    "max_confidence": 0.383,
+    "crosswalk": false,
+    "dist_signal_m": 266.81,
+    "image_id": "752842652066906"
+  },
+  {
+    "school_index": 341,
+    "school_name": "Montfort Matriculation",
+    "city": "Tambaram",
+    "traffic_light": true,
+    "max_confidence": 0.304,
+    "crosswalk": false,
+    "dist_signal_m": 310.24,
+    "image_id": "950162555745831"
+  },
+  {
+    "school_index": 342,
+    "school_name": "St Helens Hss",
+    "city": "Tambaram",
+    "traffic_light": true,
+    "max_confidence": 0.259,
+    "crosswalk": false,
+    "dist_signal_m": 242.07,
+    "image_id": "161867732653616"
+  },
+  {
+    "school_index": 343,
+    "school_name": "Dominics Girls Hss",
+    "city": "Tambaram",
+    "traffic_light": true,
+    "max_confidence": 0.304,
+    "crosswalk": false,
+    "dist_signal_m": 264.65,
+    "image_id": "950162555745831"
+  },
+  {
+    "school_index": 344,
+    "school_name": "St Thomas Hss",
+    "city": "Tambaram",
+    "traffic_light": true,
+    "max_confidence": 0.259,
+    "crosswalk": false,
+    "dist_signal_m": 81.65,
+    "image_id": "161867732653616"
+  },
+  {
+    "school_index": 345,
+    "school_name": "St Joseph School",
+    "city": "Tambaram",
+    "traffic_light": true,
+    "max_confidence": 0.282,
+    "crosswalk": false,
+    "dist_signal_m": 172.54,
+    "image_id": "340030627555167"
+  },
+  {
+    "school_index": 346,
+    "school_name": "Annai Velankanni College",
+    "city": "Tambaram",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 347,
+    "school_name": "Pon Vidhyashram School",
+    "city": "Tambaram",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 348,
+    "school_name": "Mnm Jain Engineering College",
+    "city": "Tambaram",
+    "traffic_light": true,
+    "max_confidence": 0.548,
+    "crosswalk": true,
+    "dist_signal_m": 561.19,
+    "image_id": "375048370525577"
+  },
+  {
+    "school_index": 349,
+    "school_name": "Government Higher Secondary School",
+    "city": "Tambaram",
+    "traffic_light": true,
+    "max_confidence": 0.548,
+    "crosswalk": true,
+    "dist_signal_m": 127.77,
+    "image_id": "375048370525577"
+  },
+  {
+    "school_index": 350,
+    "school_name": "St George Matric Higher Secondary School",
+    "city": "Tambaram",
+    "traffic_light": true,
+    "max_confidence": 0.287,
+    "crosswalk": false,
+    "dist_signal_m": 201.01,
+    "image_id": "766205690733514"
+  },
+  {
+    "school_index": 351,
+    "school_name": "Panchayat School",
+    "city": "Tambaram",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 352,
+    "school_name": "Abacus Montessori School",
+    "city": "Tambaram",
+    "traffic_light": true,
+    "max_confidence": 0.703,
+    "crosswalk": true,
+    "dist_signal_m": 481.36,
+    "image_id": "149009243855085"
+  },
+  {
+    "school_index": 353,
+    "school_name": "Montfort Matriculation School",
+    "city": "Tambaram",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 354,
+    "school_name": "Bharath Dass Matriculation Higher Secondary School",
+    "city": "Tambaram",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 355,
+    "school_name": "Amm School",
+    "city": "Tambaram",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 356,
+    "school_name": "D A V Public School",
+    "city": "Tambaram",
+    "traffic_light": true,
+    "max_confidence": 0.283,
+    "crosswalk": false,
+    "dist_signal_m": 341.88,
+    "image_id": "526373528370651"
+  },
+  {
+    "school_index": 357,
+    "school_name": "Shri A Ganesan Matric School",
+    "city": "Tambaram",
+    "traffic_light": true,
+    "max_confidence": 0.283,
+    "crosswalk": false,
+    "dist_signal_m": 128.07,
+    "image_id": "526373528370651"
+  },
+  {
+    "school_index": 358,
+    "school_name": "Sri Chaitanya Techno School",
+    "city": "Tambaram",
+    "traffic_light": true,
+    "max_confidence": 0.286,
+    "crosswalk": false,
+    "dist_signal_m": 136.37,
+    "image_id": "899714320575527"
+  },
+  {
+    "school_index": 359,
+    "school_name": "Indian Institute Of Technology Madras",
+    "city": "Tambaram",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 360,
+    "school_name": "Bethel Matriculation Hr Sec School",
+    "city": "Tambaram",
+    "traffic_light": true,
+    "max_confidence": 0.302,
+    "crosswalk": false,
+    "dist_signal_m": 239.64,
+    "image_id": "256442126216352"
+  },
+  {
+    "school_index": 361,
+    "school_name": "St Savio Matriculation Higher Secondary School",
+    "city": "Tambaram",
+    "traffic_light": true,
+    "max_confidence": 0.494,
+    "crosswalk": true,
+    "dist_signal_m": 276.66,
+    "image_id": "303885147939615"
+  },
+  {
+    "school_index": 362,
+    "school_name": "Guru Nanak College",
+    "city": "Tambaram",
+    "traffic_light": true,
+    "max_confidence": 0.341,
+    "crosswalk": false,
+    "dist_signal_m": 209.19,
+    "image_id": "220175112868138"
+  },
+  {
+    "school_index": 363,
+    "school_name": "Guru Nanak School",
+    "city": "Tambaram",
+    "traffic_light": true,
+    "max_confidence": 0.327,
+    "crosswalk": false,
+    "dist_signal_m": 103.11,
+    "image_id": "1116704355463043"
+  },
+  {
+    "school_index": 364,
+    "school_name": "Government Higher Secondary School Velachery",
+    "city": "Tambaram",
+    "traffic_light": true,
+    "max_confidence": 0.313,
+    "crosswalk": false,
+    "dist_signal_m": 333.94,
+    "image_id": "467161331037628"
+  },
+  {
+    "school_index": 365,
+    "school_name": "Kendriya Vidyalaya Iit Chennai",
+    "city": "Tambaram",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 366,
+    "school_name": "Council Of Scientific And Industrial Research - Csir Taramani",
+    "city": "Tambaram",
+    "traffic_light": true,
+    "max_confidence": 0.353,
+    "crosswalk": false,
+    "dist_signal_m": 313.13,
+    "image_id": "351775459827894"
+  },
+  {
+    "school_index": 367,
+    "school_name": "Shri A M M Murugappa Chettiar Research Centre",
+    "city": "Tambaram",
+    "traffic_light": true,
+    "max_confidence": 0.838,
+    "crosswalk": true,
+    "dist_signal_m": 375.37,
+    "image_id": "318029926605932"
+  },
+  {
+    "school_index": 368,
+    "school_name": "Antony School",
+    "city": "Tambaram",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 369,
+    "school_name": "Ymca Boys Hss",
+    "city": "Tambaram",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 370,
+    "school_name": "University Of Madras - Taramani Campus",
+    "city": "Tambaram",
+    "traffic_light": true,
+    "max_confidence": 0.844,
+    "crosswalk": true,
+    "dist_signal_m": 392.34,
+    "image_id": "205160974752445"
+  },
+  {
+    "school_index": 371,
+    "school_name": "Govt School",
+    "city": "Tambaram",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 372,
+    "school_name": "Nellai Nadar Matric Hss",
+    "city": "Tambaram",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 373,
+    "school_name": "Sankara School",
+    "city": "Tambaram",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 374,
+    "school_name": "American International School Chennai",
+    "city": "Tambaram",
+    "traffic_light": true,
+    "max_confidence": 0.308,
+    "crosswalk": false,
+    "dist_signal_m": 372.85,
+    "image_id": "271939791302680"
+  },
+  {
+    "school_index": 375,
+    "school_name": "The Institute Of Road Transport",
+    "city": "Tambaram",
+    "traffic_light": true,
+    "max_confidence": 0.718,
+    "crosswalk": true,
+    "dist_signal_m": 160.19,
+    "image_id": "228954545671368"
+  },
+  {
+    "school_index": 376,
+    "school_name": "National Institute Of Fashion Technology - Nift Chennai",
+    "city": "Tambaram",
+    "traffic_light": true,
+    "max_confidence": 0.308,
+    "crosswalk": false,
+    "dist_signal_m": 472.21,
+    "image_id": "271939791302680"
+  },
+  {
+    "school_index": 377,
+    "school_name": "Spastic Society Of India",
+    "city": "Tambaram",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 378,
+    "school_name": "National Institute Of Technical Teachers' Training And Research",
+    "city": "Tambaram",
+    "traffic_light": true,
+    "max_confidence": 0.252,
+    "crosswalk": false,
+    "dist_signal_m": 386.58,
+    "image_id": "3022608141361798"
+  },
+  {
+    "school_index": 379,
+    "school_name": "Sacred Heart College",
+    "city": "Tambaram",
+    "traffic_light": true,
+    "max_confidence": 0.853,
+    "crosswalk": true,
+    "dist_signal_m": 450.12,
+    "image_id": "608461070698732"
+  },
+  {
+    "school_index": 380,
+    "school_name": "Corporation School",
+    "city": "Tambaram",
+    "traffic_light": true,
+    "max_confidence": 0.252,
+    "crosswalk": false,
+    "dist_signal_m": 427.27,
+    "image_id": "3022608141361798"
+  },
+  {
+    "school_index": 381,
+    "school_name": "Thiruvanmiyur Corporation School",
+    "city": "Tambaram",
+    "traffic_light": true,
+    "max_confidence": 0.853,
+    "crosswalk": true,
+    "dist_signal_m": 250.98,
+    "image_id": "608461070698732"
+  },
+  {
+    "school_index": 382,
+    "school_name": "Sri Sankara Vidyashram Hss",
+    "city": "Tambaram",
+    "traffic_light": true,
+    "max_confidence": 0.477,
+    "crosswalk": true,
+    "dist_signal_m": 343.85,
+    "image_id": "2810912075882287"
+  },
+  {
+    "school_index": 383,
+    "school_name": "Childrens Paradise",
+    "city": "Tambaram",
+    "traffic_light": true,
+    "max_confidence": 0.853,
+    "crosswalk": true,
+    "dist_signal_m": 210.89,
+    "image_id": "608461070698732"
+  },
+  {
+    "school_index": 384,
+    "school_name": "Kalakshetra School Of Fine Arts",
+    "city": "Tambaram",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 385,
+    "school_name": "Besant Theosophical High School",
+    "city": "Tambaram",
+    "traffic_light": true,
+    "max_confidence": 0.726,
+    "crosswalk": true,
+    "dist_signal_m": 603.88,
+    "image_id": "409256854460318"
+  },
+  {
+    "school_index": 386,
+    "school_name": "Secondary Block",
+    "city": "Tambaram",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 387,
+    "school_name": "Chellammal College",
+    "city": "Tambaram",
+    "traffic_light": true,
+    "max_confidence": 0.303,
+    "crosswalk": false,
+    "dist_signal_m": 149.76,
+    "image_id": "1287211895009051"
+  },
+  {
+    "school_index": 388,
+    "school_name": "Our Lady Of Health School",
+    "city": "Tambaram",
+    "traffic_light": true,
+    "max_confidence": 0.802,
+    "crosswalk": true,
+    "dist_signal_m": 518.99,
+    "image_id": "709875857753921"
+  },
+  {
+    "school_index": 389,
+    "school_name": "University Of Madras Guindy Campus",
+    "city": "Tambaram",
+    "traffic_light": true,
+    "max_confidence": 0.829,
+    "crosswalk": true,
+    "dist_signal_m": 400.64,
+    "image_id": "266400065178535"
+  },
+  {
+    "school_index": 390,
+    "school_name": "Alagappa College Of Technology",
+    "city": "Tambaram",
+    "traffic_light": true,
+    "max_confidence": 0.829,
+    "crosswalk": true,
+    "dist_signal_m": 442.22,
+    "image_id": "266400065178535"
+  },
+  {
+    "school_index": 391,
+    "school_name": "School Of Architecture And Planning",
+    "city": "Tambaram",
+    "traffic_light": true,
+    "max_confidence": 0.829,
+    "crosswalk": true,
+    "dist_signal_m": 582.14,
+    "image_id": "266400065178535"
+  },
+  {
+    "school_index": 392,
+    "school_name": "College Of Engineering Guindy",
+    "city": "Tambaram",
+    "traffic_light": true,
+    "max_confidence": 0.829,
+    "crosswalk": true,
+    "dist_signal_m": 276.47,
+    "image_id": "266400065178535"
+  },
+  {
+    "school_index": 393,
+    "school_name": "Amm School",
+    "city": "Tambaram",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 394,
+    "school_name": "Central Leather Research Institute - Clri",
+    "city": "Tambaram",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 395,
+    "school_name": "Deparment Of Infromation Technology",
+    "city": "Tambaram",
+    "traffic_light": true,
+    "max_confidence": 0.829,
+    "crosswalk": true,
+    "dist_signal_m": 249.39,
+    "image_id": "266400065178535"
+  },
+  {
+    "school_index": 396,
+    "school_name": "Anna Gem Science Park Matriculation Higher Secondary School",
+    "city": "Tambaram",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 397,
+    "school_name": "The Hindu Senior Secondary School",
+    "city": "Tambaram",
+    "traffic_light": true,
+    "max_confidence": 0.859,
+    "crosswalk": true,
+    "dist_signal_m": 550.75,
+    "image_id": "1398944917170995"
+  },
+  {
+    "school_index": 398,
+    "school_name": "Central Polytechnic College",
+    "city": "Tambaram",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 399,
+    "school_name": "Corporation High School",
+    "city": "Tambaram",
+    "traffic_light": true,
+    "max_confidence": 0.468,
+    "crosswalk": true,
+    "dist_signal_m": 364.35,
+    "image_id": "803956060306143"
+  },
+  {
+    "school_index": 400,
+    "school_name": "Sri Mylai Karpagavalli Matriculation Higher Secondary School",
+    "city": "Tambaram",
+    "traffic_light": true,
+    "max_confidence": 0.468,
+    "crosswalk": true,
+    "dist_signal_m": 225.36,
+    "image_id": "803956060306143"
+  },
+  {
+    "school_index": 401,
+    "school_name": "Anna High School",
+    "city": "Tambaram",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 402,
+    "school_name": "The School Krishnamurti Foundation India",
+    "city": "Tambaram",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 403,
+    "school_name": "Sishya",
+    "city": "Tambaram",
+    "traffic_light": true,
+    "max_confidence": 0.32,
+    "crosswalk": false,
+    "dist_signal_m": 299.39,
+    "image_id": "281645223604028"
+  },
+  {
+    "school_index": 404,
+    "school_name": "Vidya Vinaya Vinoda Matriculation Hr Sec School",
+    "city": "Tambaram",
+    "traffic_light": true,
+    "max_confidence": 0.585,
+    "crosswalk": true,
+    "dist_signal_m": 393.59,
+    "image_id": "387352810037460"
+  },
+  {
+    "school_index": 405,
+    "school_name": "Corporation Primary School",
+    "city": "Tambaram",
+    "traffic_light": true,
+    "max_confidence": 0.32,
+    "crosswalk": false,
+    "dist_signal_m": 108.3,
+    "image_id": "281645223604028"
+  },
+  {
+    "school_index": 406,
+    "school_name": "Bharath Hss",
+    "city": "Tambaram",
+    "traffic_light": true,
+    "max_confidence": 0.834,
+    "crosswalk": true,
+    "dist_signal_m": 77.6,
+    "image_id": "158004426187595"
+  },
+  {
+    "school_index": 407,
+    "school_name": "Vidya Ratna Pts Matriculation Higher Secondary School",
+    "city": "Tambaram",
+    "traffic_light": true,
+    "max_confidence": 0.834,
+    "crosswalk": true,
+    "dist_signal_m": 231.31,
+    "image_id": "158004426187595"
+  },
+  {
+    "school_index": 408,
+    "school_name": "Corporation Middle School",
+    "city": "Tambaram",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 409,
+    "school_name": "Saint Michaels Academy",
+    "city": "Tambaram",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 410,
+    "school_name": "Krmm School And Kumararani Meena Mutthaiah College",
+    "city": "Tambaram",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 411,
+    "school_name": "Bala Vidya Mandir",
+    "city": "Tambaram",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 412,
+    "school_name": "Anna Institute Of Management",
+    "city": "Tambaram",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 413,
+    "school_name": "Saint Louis School For The Deaf And Blind",
+    "city": "Tambaram",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 414,
+    "school_name": "Saint Patricks Hss",
+    "city": "Tambaram",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 415,
+    "school_name": "Advent Primary School",
+    "city": "Tambaram",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 416,
+    "school_name": "Chennai Primary School",
+    "city": "Tambaram",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 417,
+    "school_name": "Patrician College Of Arts & Science",
+    "city": "Tambaram",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 418,
+    "school_name": "Sri Sankara Senior Secondary School",
+    "city": "Tambaram",
+    "traffic_light": true,
+    "max_confidence": 0.525,
+    "crosswalk": false,
+    "dist_signal_m": 225.23,
+    "image_id": "198558785324544"
+  },
+  {
+    "school_index": 419,
+    "school_name": "Avvai Home",
+    "city": "Tambaram",
+    "traffic_light": true,
+    "max_confidence": 0.525,
+    "crosswalk": true,
+    "dist_signal_m": 300.26,
+    "image_id": "198558785324544"
+  },
+  {
+    "school_index": 420,
+    "school_name": "Rani Meyammai School",
+    "city": "Tambaram",
+    "traffic_light": true,
+    "max_confidence": 0.525,
+    "crosswalk": true,
+    "dist_signal_m": 216.16,
+    "image_id": "198558785324544"
+  },
+  {
+    "school_index": 421,
+    "school_name": "Chettinad Vidyashram School",
+    "city": "Tambaram",
+    "traffic_light": true,
+    "max_confidence": 0.364,
+    "crosswalk": false,
+    "dist_signal_m": 446.98,
+    "image_id": "306330994333825"
+  },
+  {
+    "school_index": 422,
+    "school_name": "Tamil Nadu Government College Of Classical Music",
+    "city": "Tambaram",
+    "traffic_light": true,
+    "max_confidence": 0.776,
+    "crosswalk": true,
+    "dist_signal_m": 265.39,
+    "image_id": "469176624319116"
+  },
+  {
+    "school_index": 423,
+    "school_name": "Ambedkar Law University - School Of Excellence",
+    "city": "Tambaram",
+    "traffic_light": true,
+    "max_confidence": 0.255,
+    "crosswalk": false,
+    "dist_signal_m": 302.5,
+    "image_id": "297459498496903"
+  },
+  {
+    "school_index": 424,
+    "school_name": "Corpn School",
+    "city": "Tambaram",
+    "traffic_light": true,
+    "max_confidence": 0.585,
+    "crosswalk": true,
+    "dist_signal_m": 408.2,
+    "image_id": "387352810037460"
+  },
+  {
+    "school_index": 425,
+    "school_name": "Indian Bank Management Academy For Growth And Excellence",
+    "city": "Tambaram",
+    "traffic_light": true,
+    "max_confidence": 0.252,
+    "crosswalk": false,
+    "dist_signal_m": 193.18,
+    "image_id": "207176220957232"
+  },
+  {
+    "school_index": 426,
+    "school_name": "Apollo College Of Education",
+    "city": "Tambaram",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 427,
+    "school_name": "Skr Engineering College",
+    "city": "Tambaram",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 428,
+    "school_name": "Sacred Heart Seminary",
+    "city": "Tambaram",
+    "traffic_light": true,
+    "max_confidence": 0.751,
+    "crosswalk": true,
+    "dist_signal_m": 305.76,
+    "image_id": "181017313876175"
+  },
+  {
+    "school_index": 429,
+    "school_name": "Panimalar Engineering College",
+    "city": "Tambaram",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 430,
+    "school_name": "Holy Crescent School",
+    "city": "Tambaram",
+    "traffic_light": true,
+    "max_confidence": 0.323,
+    "crosswalk": false,
+    "dist_signal_m": 80.73,
+    "image_id": "488193312258881"
+  },
+  {
+    "school_index": 431,
+    "school_name": "Sarojini Girls Hss",
+    "city": "Tambaram",
+    "traffic_light": true,
+    "max_confidence": 0.697,
+    "crosswalk": false,
+    "dist_signal_m": 199.2,
+    "image_id": "780647625980621"
+  },
+  {
+    "school_index": 432,
+    "school_name": "Poonamallee Blind School",
+    "city": "Tambaram",
+    "traffic_light": true,
+    "max_confidence": 0.351,
+    "crosswalk": false,
+    "dist_signal_m": 229.5,
+    "image_id": "240571617496029"
+  },
+  {
+    "school_index": 433,
+    "school_name": "Don Guanella Major Seminary",
+    "city": "Tambaram",
+    "traffic_light": true,
+    "max_confidence": 0.43,
+    "crosswalk": true,
+    "dist_signal_m": 125.08,
+    "image_id": "505300597453302"
+  },
+  {
+    "school_index": 434,
+    "school_name": "Poonamallee Government Hss",
+    "city": "Tambaram",
+    "traffic_light": true,
+    "max_confidence": 0.444,
+    "crosswalk": false,
+    "dist_signal_m": 248.21,
+    "image_id": "158874592842879"
+  },
+  {
+    "school_index": 435,
+    "school_name": "Porur Government High School",
+    "city": "Tambaram",
+    "traffic_light": true,
+    "max_confidence": 0.558,
+    "crosswalk": true,
+    "dist_signal_m": 50.76,
+    "image_id": "592140026182999"
+  },
+  {
+    "school_index": 436,
+    "school_name": "Saveetha University",
+    "city": "Tambaram",
+    "traffic_light": true,
+    "max_confidence": 0.34,
+    "crosswalk": false,
+    "dist_signal_m": 246.43,
+    "image_id": "4119364368185276"
+  },
+  {
+    "school_index": 437,
+    "school_name": "La Mech School",
+    "city": "Tambaram",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 438,
+    "school_name": "Army School",
+    "city": "Tambaram",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 439,
+    "school_name": "Eci Matriculation School",
+    "city": "Tambaram",
+    "traffic_light": true,
+    "max_confidence": 0.474,
+    "crosswalk": false,
+    "dist_signal_m": 26.1,
+    "image_id": "513111656790289"
+  },
+  {
+    "school_index": 440,
+    "school_name": "Govt Girls School",
+    "city": "Tambaram",
+    "traffic_light": true,
+    "max_confidence": 0.444,
+    "crosswalk": true,
+    "dist_signal_m": 332.49,
+    "image_id": "1476763526020000"
+  },
+  {
+    "school_index": 441,
+    "school_name": "Saint Mary'S School",
+    "city": "Tambaram",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 442,
+    "school_name": "M A Krishnasamy Matriculation School",
+    "city": "Tambaram",
+    "traffic_light": true,
+    "max_confidence": 0.736,
+    "crosswalk": true,
+    "dist_signal_m": 518.02,
+    "image_id": "491334758663279"
+  },
+  {
+    "school_index": 443,
+    "school_name": "Government Hss",
+    "city": "Tambaram",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 444,
+    "school_name": "Police Training College",
+    "city": "Tambaram",
+    "traffic_light": true,
+    "max_confidence": 0.511,
+    "crosswalk": true,
+    "dist_signal_m": 164.01,
+    "image_id": "722654875721004"
+  },
+  {
+    "school_index": 445,
+    "school_name": "Jawahar Higher Secondary School",
+    "city": "Tambaram",
+    "traffic_light": true,
+    "max_confidence": 0.332,
+    "crosswalk": false,
+    "dist_signal_m": 60.11,
+    "image_id": "512892256520068"
+  },
+  {
+    "school_index": 446,
+    "school_name": "Kendriya Vidyalaya",
+    "city": "Tambaram",
+    "traffic_light": true,
+    "max_confidence": 0.343,
+    "crosswalk": false,
+    "dist_signal_m": 562.29,
+    "image_id": "523307679033154"
+  },
+  {
+    "school_index": 447,
+    "school_name": "Nirmala Girls Hss",
+    "city": "Tambaram",
+    "traffic_light": true,
+    "max_confidence": 0.278,
+    "crosswalk": false,
+    "dist_signal_m": 309.13,
+    "image_id": "541428970553313"
+  },
+  {
+    "school_index": 448,
+    "school_name": "Stella Matric",
+    "city": "Tambaram",
+    "traffic_light": true,
+    "max_confidence": 0.267,
+    "crosswalk": false,
+    "dist_signal_m": 460.11,
+    "image_id": "344589946998612"
+  },
+  {
+    "school_index": 449,
+    "school_name": "Jawahar Senior Secondary School",
+    "city": "Tambaram",
+    "traffic_light": true,
+    "max_confidence": 0.835,
+    "crosswalk": true,
+    "dist_signal_m": 83.06,
+    "image_id": "583399485973911"
+  },
+  {
+    "school_index": 450,
+    "school_name": "M R Matriculation Higher Secondary School",
+    "city": "Tambaram",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 451,
+    "school_name": "Avichi School",
+    "city": "Tambaram",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 452,
+    "school_name": "Av Meiyappan Mhss",
+    "city": "Tambaram",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 453,
+    "school_name": "General Cariappa Hss",
+    "city": "Tambaram",
+    "traffic_light": true,
+    "max_confidence": 0.329,
+    "crosswalk": false,
+    "dist_signal_m": 217.62,
+    "image_id": "944297823058502"
+  },
+  {
+    "school_index": 454,
+    "school_name": "Karthikeyan Matriculation Higher Secondary School",
+    "city": "Tambaram",
+    "traffic_light": true,
+    "max_confidence": 0.329,
+    "crosswalk": false,
+    "dist_signal_m": 458.61,
+    "image_id": "944297823058502"
+  },
+  {
+    "school_index": 455,
+    "school_name": "Sri Child Fruit Matriculation School",
+    "city": "Tambaram",
+    "traffic_light": true,
+    "max_confidence": 0.329,
+    "crosswalk": false,
+    "dist_signal_m": 79.19,
+    "image_id": "944297823058502"
+  },
+  {
+    "school_index": 456,
+    "school_name": "Mogappair Goverment Primary School",
+    "city": "Tambaram",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 457,
+    "school_name": "Green Valley School",
+    "city": "Tambaram",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 458,
+    "school_name": "Mgr Adarsh School",
+    "city": "Tambaram",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 459,
+    "school_name": "Daniel Thomas Hss",
+    "city": "Tambaram",
+    "traffic_light": true,
+    "max_confidence": 0.702,
+    "crosswalk": true,
+    "dist_signal_m": 206.77,
+    "image_id": "1746129012419399"
+  },
+  {
+    "school_index": 460,
+    "school_name": "Kendriya Vidyalaya",
+    "city": "Tambaram",
+    "traffic_light": true,
+    "max_confidence": 0.42,
+    "crosswalk": true,
+    "dist_signal_m": 233.54,
+    "image_id": "457420803535010"
+  },
+  {
+    "school_index": 461,
+    "school_name": "Dg Vaishnav College",
+    "city": "Tambaram",
+    "traffic_light": true,
+    "max_confidence": 0.396,
+    "crosswalk": false,
+    "dist_signal_m": 558.99,
+    "image_id": "754642275208674"
+  },
+  {
+    "school_index": 462,
+    "school_name": "Chennai Primary School",
+    "city": "Tambaram",
+    "traffic_light": true,
+    "max_confidence": 0.279,
+    "crosswalk": false,
+    "dist_signal_m": 267.17,
+    "image_id": "325988177042311"
+  },
+  {
+    "school_index": 463,
+    "school_name": "Krinshnaswamy School",
+    "city": "Tambaram",
+    "traffic_light": true,
+    "max_confidence": 0.402,
+    "crosswalk": true,
+    "dist_signal_m": 103.55,
+    "image_id": "489180715470168"
+  },
+  {
+    "school_index": 464,
+    "school_name": "Chennai Primary School",
+    "city": "Tambaram",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 465,
+    "school_name": "C S I Middle School",
+    "city": "Tambaram",
+    "traffic_light": true,
+    "max_confidence": 0.424,
+    "crosswalk": true,
+    "dist_signal_m": 431.59,
+    "image_id": "172352631444573"
+  },
+  {
+    "school_index": 466,
+    "school_name": "Vidhya Sagara Brotherhood Aided Middle School",
+    "city": "Tambaram",
+    "traffic_light": true,
+    "max_confidence": 0.819,
+    "crosswalk": true,
+    "dist_signal_m": 299.38,
+    "image_id": "513711959991943"
+  },
+  {
+    "school_index": 467,
+    "school_name": "Chennai Boys Higher Secondary School",
+    "city": "Tambaram",
+    "traffic_light": true,
+    "max_confidence": 0.337,
+    "crosswalk": false,
+    "dist_signal_m": 634.14,
+    "image_id": "3952544438116735"
+  },
+  {
+    "school_index": 468,
+    "school_name": "Teacher Training College",
+    "city": "Tambaram",
+    "traffic_light": true,
+    "max_confidence": 0.256,
+    "crosswalk": false,
+    "dist_signal_m": 115.38,
+    "image_id": "680461700730648"
+  },
+  {
+    "school_index": 469,
+    "school_name": "Chennai Girls Higher Secondary School",
+    "city": "Tambaram",
+    "traffic_light": true,
+    "max_confidence": 0.347,
+    "crosswalk": false,
+    "dist_signal_m": 682.99,
+    "image_id": "943722506386605"
+  },
+  {
+    "school_index": 470,
+    "school_name": "Government Arts College For Men",
+    "city": "Tambaram",
+    "traffic_light": true,
+    "max_confidence": 0.313,
+    "crosswalk": false,
+    "dist_signal_m": 135.27,
+    "image_id": "751941626799988"
+  },
+  {
+    "school_index": 471,
+    "school_name": "Ymca School For Mentally Challenged",
+    "city": "Tambaram",
+    "traffic_light": true,
+    "max_confidence": 0.295,
+    "crosswalk": false,
+    "dist_signal_m": 357.83,
+    "image_id": "1013332996591782"
+  },
+  {
+    "school_index": 472,
+    "school_name": "Sri Sitaram Vidhyalaya",
+    "city": "Tambaram",
+    "traffic_light": true,
+    "max_confidence": 0.268,
+    "crosswalk": false,
+    "dist_signal_m": 41.38,
+    "image_id": "862273807658844"
+  },
+  {
+    "school_index": 473,
+    "school_name": "Sri Ahobila Math Oriental Higher Secondary School",
+    "city": "Tambaram",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 474,
+    "school_name": "Sri Narayana Mission School",
+    "city": "Tambaram",
+    "traffic_light": true,
+    "max_confidence": 0.407,
+    "crosswalk": true,
+    "dist_signal_m": 371.2,
+    "image_id": "142421671185360"
+  },
+  {
+    "school_index": 475,
+    "school_name": "Building I",
+    "city": "Tambaram",
+    "traffic_light": true,
+    "max_confidence": 0.291,
+    "crosswalk": false,
+    "dist_signal_m": 183.34,
+    "image_id": "317292863289133"
+  },
+  {
+    "school_index": 476,
+    "school_name": "Tarachand Galada Jain Matriculation School",
+    "city": "Tambaram",
+    "traffic_light": true,
+    "max_confidence": 0.291,
+    "crosswalk": false,
+    "dist_signal_m": 236.64,
+    "image_id": "317292863289133"
+  },
+  {
+    "school_index": 477,
+    "school_name": "Sri Mb Jain Higher Secondary School",
+    "city": "Tambaram",
+    "traffic_light": true,
+    "max_confidence": 0.407,
+    "crosswalk": true,
+    "dist_signal_m": 268.51,
+    "image_id": "142421671185360"
+  },
+  {
+    "school_index": 478,
+    "school_name": "Srm Nightingale Matriculation Higher Secondary School",
+    "city": "Tambaram",
+    "traffic_light": true,
+    "max_confidence": 0.49,
+    "crosswalk": false,
+    "dist_signal_m": 273.06,
+    "image_id": "268122915110357"
+  },
+  {
+    "school_index": 479,
+    "school_name": "B S Mootha Girls Senior Secondary School",
+    "city": "Tambaram",
+    "traffic_light": true,
+    "max_confidence": 0.269,
+    "crosswalk": false,
+    "dist_signal_m": 76.39,
+    "image_id": "2113390242500787"
+  },
+  {
+    "school_index": 480,
+    "school_name": "Ramakrishna Hss",
+    "city": "Tambaram",
+    "traffic_light": true,
+    "max_confidence": 0.701,
+    "crosswalk": true,
+    "dist_signal_m": 181.68,
+    "image_id": "765369467330746"
+  },
+  {
+    "school_index": 481,
+    "school_name": "Thakkar Bapa Vidyalaya",
+    "city": "Tambaram",
+    "traffic_light": true,
+    "max_confidence": 0.661,
+    "crosswalk": true,
+    "dist_signal_m": 289.26,
+    "image_id": "7659844560695738"
+  },
+  {
+    "school_index": 482,
+    "school_name": "Holy Angels Convent",
+    "city": "Tambaram",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 483,
+    "school_name": "Sarada Vidyalaya Girls",
+    "city": "Tambaram",
+    "traffic_light": true,
+    "max_confidence": 0.367,
+    "crosswalk": false,
+    "dist_signal_m": 171.48,
+    "image_id": "1788208795432474"
+  },
+  {
+    "school_index": 484,
+    "school_name": "Ramakrishna Mission Hss",
+    "city": "Tambaram",
+    "traffic_light": true,
+    "max_confidence": 0.31,
+    "crosswalk": false,
+    "dist_signal_m": 91.04,
+    "image_id": "3740444839587935"
+  },
+  {
+    "school_index": 485,
+    "school_name": "Government Hss",
+    "city": "Tambaram",
+    "traffic_light": true,
+    "max_confidence": 0.661,
+    "crosswalk": true,
+    "dist_signal_m": 612.72,
+    "image_id": "7659844560695738"
+  },
+  {
+    "school_index": 486,
+    "school_name": "Boston Matriculation",
+    "city": "Tambaram",
+    "traffic_light": true,
+    "max_confidence": 0.661,
+    "crosswalk": true,
+    "dist_signal_m": 530.01,
+    "image_id": "7659844560695738"
+  },
+  {
+    "school_index": 487,
+    "school_name": "Saint Francis Xavier",
+    "city": "Tambaram",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 488,
+    "school_name": "Bon Secours Convent",
+    "city": "Tambaram",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 489,
+    "school_name": "Harishri Vidyalayam",
+    "city": "Tambaram",
+    "traffic_light": true,
+    "max_confidence": 0.37,
+    "crosswalk": false,
+    "dist_signal_m": 87.11,
+    "image_id": "296745931931667"
+  },
+  {
+    "school_index": 490,
+    "school_name": "St Johns Matriculation School",
+    "city": "Tambaram",
+    "traffic_light": true,
+    "max_confidence": 0.417,
+    "crosswalk": true,
+    "dist_signal_m": 198.05,
+    "image_id": "1035253760338698"
+  },
+  {
+    "school_index": 491,
+    "school_name": "P S Senior Secondary School",
+    "city": "Tambaram",
+    "traffic_light": true,
+    "max_confidence": 0.33,
+    "crosswalk": false,
+    "dist_signal_m": 317.57,
+    "image_id": "940489243401485"
+  },
+  {
+    "school_index": 492,
+    "school_name": "Raja Muthiah School",
+    "city": "Tambaram",
+    "traffic_light": true,
+    "max_confidence": 0.37,
+    "crosswalk": false,
+    "dist_signal_m": 149.76,
+    "image_id": "296745931931667"
+  },
+  {
+    "school_index": 493,
+    "school_name": "St Johns Senior Secondary School",
+    "city": "Tambaram",
+    "traffic_light": true,
+    "max_confidence": 0.717,
+    "crosswalk": true,
+    "dist_signal_m": 197.14,
+    "image_id": "202371918363410"
+  },
+  {
+    "school_index": 494,
+    "school_name": "Anjuman Orphanage",
+    "city": "Tambaram",
+    "traffic_light": true,
+    "max_confidence": 0.492,
+    "crosswalk": true,
+    "dist_signal_m": 374.73,
+    "image_id": "178850694016169"
+  },
+  {
+    "school_index": 495,
+    "school_name": "Stella Maris College",
+    "city": "Tambaram",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 496,
+    "school_name": "Justice Basheer Ahmed Sayeed College For Women",
+    "city": "Tambaram",
+    "traffic_light": true,
+    "max_confidence": 0.34,
+    "crosswalk": false,
+    "dist_signal_m": 353.22,
+    "image_id": "306153260868015"
+  },
+  {
+    "school_index": 497,
+    "school_name": "Reserve Bank Staff College",
+    "city": "Tambaram",
+    "traffic_light": true,
+    "max_confidence": 0.251,
+    "crosswalk": false,
+    "dist_signal_m": 185.82,
+    "image_id": "527234575071209"
+  },
+  {
+    "school_index": 498,
+    "school_name": "Kesari Hss",
+    "city": "Tambaram",
+    "traffic_light": true,
+    "max_confidence": 0.34,
+    "crosswalk": false,
+    "dist_signal_m": 180.75,
+    "image_id": "306153260868015"
+  },
+  {
+    "school_index": 499,
+    "school_name": "Corporation School",
+    "city": "Tambaram",
+    "traffic_light": true,
+    "max_confidence": 0.34,
+    "crosswalk": false,
+    "dist_signal_m": 442.47,
+    "image_id": "306153260868015"
+  },
+  {
+    "school_index": 500,
+    "school_name": "M Ct M Chidambaram Chettyar International School",
+    "city": "Tambaram",
+    "traffic_light": true,
+    "max_confidence": 0.275,
+    "crosswalk": false,
+    "dist_signal_m": 101.97,
+    "image_id": "559470529230146"
+  },
+  {
+    "school_index": 501,
+    "school_name": "Vivekananda College",
+    "city": "Tambaram",
+    "traffic_light": true,
+    "max_confidence": 0.278,
+    "crosswalk": false,
+    "dist_signal_m": 528.67,
+    "image_id": "768894281095549"
+  },
+  {
+    "school_index": 502,
+    "school_name": "St Ebbas Girls Hs School",
+    "city": "Tambaram",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 503,
+    "school_name": "Vidya Mandir Sss",
+    "city": "Tambaram",
+    "traffic_light": true,
+    "max_confidence": 0.399,
+    "crosswalk": false,
+    "dist_signal_m": 391.06,
+    "image_id": "4681363818632420"
+  },
+  {
+    "school_index": 504,
+    "school_name": "Sanskrit College",
+    "city": "Tambaram",
+    "traffic_light": true,
+    "max_confidence": 0.399,
+    "crosswalk": false,
+    "dist_signal_m": 492.18,
+    "image_id": "4681363818632420"
+  },
+  {
+    "school_index": 505,
+    "school_name": "Kesari High School",
+    "city": "Tambaram",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 506,
+    "school_name": "Ramakrishna Mission Residential High School",
+    "city": "Tambaram",
+    "traffic_light": true,
+    "max_confidence": 0.275,
+    "crosswalk": false,
+    "dist_signal_m": 540.23,
+    "image_id": "559470529230146"
+  },
+  {
+    "school_index": 507,
+    "school_name": "Loyola And Fatima Matriculation Higher Secondary School",
+    "city": "Tambaram",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 508,
+    "school_name": "Kodambakkam Hss",
+    "city": "Tambaram",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 509,
+    "school_name": "Meenakshi College For Women",
+    "city": "Tambaram",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 510,
+    "school_name": "Meenakshi Sunderarajan College Of Engineering",
+    "city": "Tambaram",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 511,
+    "school_name": "Ramakrishna Mission Matric Hss",
+    "city": "Tambaram",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 512,
+    "school_name": "Ashar Arbol International School",
+    "city": "Tambaram",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 513,
+    "school_name": "Padma Seshadri Bala Bhavan School",
+    "city": "Tambaram",
+    "traffic_light": true,
+    "max_confidence": 0.492,
+    "crosswalk": true,
+    "dist_signal_m": 370.97,
+    "image_id": "178850694016169"
+  },
+  {
+    "school_index": 514,
+    "school_name": "Vidyodaya Girls Hss",
+    "city": "Tambaram",
+    "traffic_light": true,
+    "max_confidence": 0.759,
+    "crosswalk": true,
+    "dist_signal_m": 536.6,
+    "image_id": "790199285203418"
+  },
+  {
+    "school_index": 515,
+    "school_name": "Loyola College",
+    "city": "Tambaram",
+    "traffic_light": true,
+    "max_confidence": 0.402,
+    "crosswalk": true,
+    "dist_signal_m": 341.87,
+    "image_id": "4134976216587125"
+  },
+  {
+    "school_index": 516,
+    "school_name": "Nungambakkam Boys Hss",
+    "city": "Tambaram",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 517,
+    "school_name": "Kendriya Vidyalaya Gill Nagar",
+    "city": "Tambaram",
+    "traffic_light": true,
+    "max_confidence": 0.251,
+    "crosswalk": false,
+    "dist_signal_m": 666.31,
+    "image_id": "612263239748047"
+  },
+  {
+    "school_index": 518,
+    "school_name": "Kidzee School",
+    "city": "Tambaram",
+    "traffic_light": true,
+    "max_confidence": 0.363,
+    "crosswalk": false,
+    "dist_signal_m": 357.19,
+    "image_id": "233315041588057"
+  },
+  {
+    "school_index": 519,
+    "school_name": "Dav Primary Secondary School",
+    "city": "Tambaram",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 520,
+    "school_name": "Corporation Boys Higher Secondary School",
+    "city": "Tambaram",
+    "traffic_light": true,
+    "max_confidence": 0.363,
+    "crosswalk": false,
+    "dist_signal_m": 114.35,
+    "image_id": "233315041588057"
+  },
+  {
+    "school_index": 521,
+    "school_name": "Government Girls Higher Secondary School",
+    "city": "Tambaram",
+    "traffic_light": true,
+    "max_confidence": 0.363,
+    "crosswalk": false,
+    "dist_signal_m": 162.57,
+    "image_id": "233315041588057"
+  },
+  {
+    "school_index": 522,
+    "school_name": "Bertram Hall & Library",
+    "city": "Tambaram",
+    "traffic_light": true,
+    "max_confidence": 0.402,
+    "crosswalk": true,
+    "dist_signal_m": 424.1,
+    "image_id": "4134976216587125"
+  },
+  {
+    "school_index": 523,
+    "school_name": "Pachaiyappa'S College",
+    "city": "Tambaram",
+    "traffic_light": true,
+    "max_confidence": 0.826,
+    "crosswalk": true,
+    "dist_signal_m": 657.11,
+    "image_id": "812826519654951"
+  },
+  {
+    "school_index": 524,
+    "school_name": "Madras Christian College Higher Secondary School",
+    "city": "Tambaram",
+    "traffic_light": true,
+    "max_confidence": 0.319,
+    "crosswalk": false,
+    "dist_signal_m": 344.97,
+    "image_id": "486642012676491"
+  },
+  {
+    "school_index": 525,
+    "school_name": "Bala Mandir School",
+    "city": "Tambaram",
+    "traffic_light": true,
+    "max_confidence": 0.305,
+    "crosswalk": false,
+    "dist_signal_m": 156.48,
+    "image_id": "944118023070753"
+  },
+  {
+    "school_index": 526,
+    "school_name": "Sacred Heart Matric",
+    "city": "Tambaram",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 527,
+    "school_name": "Assumption Hss",
+    "city": "Tambaram",
+    "traffic_light": true,
+    "max_confidence": 0.305,
+    "crosswalk": false,
+    "dist_signal_m": 580.08,
+    "image_id": "944118023070753"
+  },
+  {
+    "school_index": 528,
+    "school_name": "Little Flower School For The Blind And Deaf",
+    "city": "Tambaram",
+    "traffic_light": true,
+    "max_confidence": 0.804,
+    "crosswalk": true,
+    "dist_signal_m": 133.41,
+    "image_id": "810325522909184"
+  },
+  {
+    "school_index": 529,
+    "school_name": "Mop Vaishnav College For Women",
+    "city": "Tambaram",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 530,
+    "school_name": "Gopalapuram Boys Higher Secondary School",
+    "city": "Tambaram",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 531,
+    "school_name": "Govt Hobart Girls Hss",
+    "city": "Tambaram",
+    "traffic_light": true,
+    "max_confidence": 0.791,
+    "crosswalk": true,
+    "dist_signal_m": 109.4,
+    "image_id": "1102002406977254"
+  },
+  {
+    "school_index": 532,
+    "school_name": "The New College",
+    "city": "Tambaram",
+    "traffic_light": true,
+    "max_confidence": 0.791,
+    "crosswalk": true,
+    "dist_signal_m": 590.01,
+    "image_id": "1102002406977254"
+  },
+  {
+    "school_index": 533,
+    "school_name": "Pn Dhawan Adasrsh Vidyalaya",
+    "city": "Tambaram",
+    "traffic_light": true,
+    "max_confidence": 0.331,
+    "crosswalk": false,
+    "dist_signal_m": 592.73,
+    "image_id": "816868439683818"
+  },
+  {
+    "school_index": 534,
+    "school_name": "Saint Williams High School",
+    "city": "Tambaram",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 535,
+    "school_name": "Wesley Higher Secondary School",
+    "city": "Tambaram",
+    "traffic_light": true,
+    "max_confidence": 0.331,
+    "crosswalk": false,
+    "dist_signal_m": 233.64,
+    "image_id": "816868439683818"
+  },
+  {
+    "school_index": 536,
+    "school_name": "Asan Memorial Hss",
+    "city": "Tambaram",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 537,
+    "school_name": "Good Shepherd Convent",
+    "city": "Tambaram",
+    "traffic_light": true,
+    "max_confidence": 0.25,
+    "crosswalk": false,
+    "dist_signal_m": 564.73,
+    "image_id": "520786502271092"
+  },
+  {
+    "school_index": 538,
+    "school_name": "Asan Memorial Senior Secondary School",
+    "city": "Tambaram",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 539,
+    "school_name": "Womens Christian College",
+    "city": "Tambaram",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 540,
+    "school_name": "Don Bosco Matriculation Higher Secondary School",
+    "city": "Tambaram",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 541,
+    "school_name": "Madras School Of Social Work",
+    "city": "Tambaram",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 542,
+    "school_name": "Don Bosco Primary",
+    "city": "Tambaram",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 543,
+    "school_name": "Ethiraj College For Women",
+    "city": "Tambaram",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 544,
+    "school_name": "Ethiraj Annex",
+    "city": "Tambaram",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 545,
+    "school_name": "Quaid-E-Millath College For Women",
+    "city": "Tambaram",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 546,
+    "school_name": "School Of Optometry",
+    "city": "Tambaram",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 547,
+    "school_name": "Ladies Sivasamy School",
+    "city": "Tambaram",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 548,
+    "school_name": "Saint Lazarus School",
+    "city": "Tambaram",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 549,
+    "school_name": "Sivasamy Kalyana Sss",
+    "city": "Tambaram",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 550,
+    "school_name": "Savithri Ammal Hss",
+    "city": "Tambaram",
+    "traffic_light": true,
+    "max_confidence": 0.399,
+    "crosswalk": false,
+    "dist_signal_m": 557.55,
+    "image_id": "4681363818632420"
+  },
+  {
+    "school_index": 551,
+    "school_name": "The Children'S Garden Higher Secondary School",
+    "city": "Tambaram",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 552,
+    "school_name": "Nkt National Girls Hss",
+    "city": "Tambaram",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 553,
+    "school_name": "Christ Church Anglo Indian High Secondary School",
+    "city": "Tambaram",
+    "traffic_light": true,
+    "max_confidence": 0.834,
+    "crosswalk": true,
+    "dist_signal_m": 254.31,
+    "image_id": "1153696695178616"
+  },
+  {
+    "school_index": 554,
+    "school_name": "Girls Higher Secondary School",
+    "city": "Tambaram",
+    "traffic_light": true,
+    "max_confidence": 0.431,
+    "crosswalk": true,
+    "dist_signal_m": 282.58,
+    "image_id": "1578700302916790"
+  },
+  {
+    "school_index": 555,
+    "school_name": "Chennai Middle School",
+    "city": "Tambaram",
+    "traffic_light": true,
+    "max_confidence": 0.431,
+    "crosswalk": true,
+    "dist_signal_m": 403.14,
+    "image_id": "1578700302916790"
+  },
+  {
+    "school_index": 556,
+    "school_name": "Thiru-Vi-Ka Boys Higher Secondary School",
+    "city": "Tambaram",
+    "traffic_light": true,
+    "max_confidence": 0.448,
+    "crosswalk": true,
+    "dist_signal_m": 572.09,
+    "image_id": "818904282391565"
+  },
+  {
+    "school_index": 557,
+    "school_name": "Dr B M Sundaravadanan Matriculation Higher Secondary School",
+    "city": "Tambaram",
+    "traffic_light": true,
+    "max_confidence": 0.341,
+    "crosswalk": false,
+    "dist_signal_m": 667.26,
+    "image_id": "1118743585613704"
+  },
+  {
+    "school_index": 558,
+    "school_name": "Maharishi Vidya Mandir",
+    "city": "Tambaram",
+    "traffic_light": true,
+    "max_confidence": 0.511,
+    "crosswalk": true,
+    "dist_signal_m": 162.56,
+    "image_id": "302430098042851"
+  },
+  {
+    "school_index": 559,
+    "school_name": "St George'S Anglo Indian Higher Secondary School",
+    "city": "Tambaram",
+    "traffic_light": true,
+    "max_confidence": 0.449,
+    "crosswalk": true,
+    "dist_signal_m": 246.69,
+    "image_id": "826640508206433"
+  },
+  {
+    "school_index": 560,
+    "school_name": "Bhavans",
+    "city": "Tambaram",
+    "traffic_light": true,
+    "max_confidence": 0.416,
+    "crosswalk": true,
+    "dist_signal_m": 80.27,
+    "image_id": "1408029266231884"
+  },
+  {
+    "school_index": 561,
+    "school_name": "Chinmaya Vidyalaya Tapovanam",
+    "city": "Tambaram",
+    "traffic_light": true,
+    "max_confidence": 0.307,
+    "crosswalk": false,
+    "dist_signal_m": 288.71,
+    "image_id": "319194466309157"
+  },
+  {
+    "school_index": 562,
+    "school_name": "Presidency Girls Hss",
+    "city": "Tambaram",
+    "traffic_light": true,
+    "max_confidence": 0.325,
+    "crosswalk": false,
+    "dist_signal_m": 484.25,
+    "image_id": "1407670580367143"
+  },
+  {
+    "school_index": 563,
+    "school_name": "Kalki Saraswathi Hss",
+    "city": "Tambaram",
+    "traffic_light": true,
+    "max_confidence": 0.398,
+    "crosswalk": false,
+    "dist_signal_m": 629.68,
+    "image_id": "181011463904128"
+  },
+  {
+    "school_index": 564,
+    "school_name": "Csi Bains School",
+    "city": "Tambaram",
+    "traffic_light": true,
+    "max_confidence": 0.278,
+    "crosswalk": false,
+    "dist_signal_m": 181.77,
+    "image_id": "1095911880918677"
+  },
+  {
+    "school_index": 565,
+    "school_name": "Sir M Ct Muthiah Chettiar Boys Higher Secondary School",
+    "city": "Tambaram",
+    "traffic_light": true,
+    "max_confidence": 0.252,
+    "crosswalk": false,
+    "dist_signal_m": 240.07,
+    "image_id": "2133290087083798"
+  },
+  {
+    "school_index": 566,
+    "school_name": "St Anthony'S Anglo Indian Hss",
+    "city": "Tambaram",
+    "traffic_light": true,
+    "max_confidence": 0.278,
+    "crosswalk": false,
+    "dist_signal_m": 401.04,
+    "image_id": "24163636329907684"
+  },
+  {
+    "school_index": 567,
+    "school_name": "Csi Ewarts School",
+    "city": "Tambaram",
+    "traffic_light": true,
+    "max_confidence": 0.32,
+    "crosswalk": false,
+    "dist_signal_m": 555.71,
+    "image_id": "1390815338912100"
+  },
+  {
+    "school_index": 568,
+    "school_name": "Government College Of Arts And Crafts",
+    "city": "Tambaram",
+    "traffic_light": true,
+    "max_confidence": 0.366,
+    "crosswalk": false,
+    "dist_signal_m": 117.27,
+    "image_id": "719931427384515"
+  },
+  {
+    "school_index": 569,
+    "school_name": "Indian Maritime University Chennai Campus",
+    "city": "Tambaram",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 570,
+    "school_name": "Christ King Girls Higher Secondary School",
+    "city": "Tambaram",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 571,
+    "school_name": "College Of Engineering",
+    "city": "Tambaram",
+    "traffic_light": true,
+    "max_confidence": 0.829,
+    "crosswalk": true,
+    "dist_signal_m": 36.53,
+    "image_id": "266400065178535"
+  },
+  {
+    "school_index": 572,
+    "school_name": "Madras Medical College",
+    "city": "Tambaram",
+    "traffic_light": true,
+    "max_confidence": 0.601,
+    "crosswalk": true,
+    "dist_signal_m": 249.43,
+    "image_id": "3577755385840343"
+  }
+]

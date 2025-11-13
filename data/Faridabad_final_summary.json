@@ -1,0 +1,2972 @@
+[
+  {
+    "school_index": 0,
+    "school_name": "Heritage International School",
+    "city": "Faridabad",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 1,
+    "school_name": "Deep Public School",
+    "city": "Faridabad",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 2,
+    "school_name": "Bhatnagar International School",
+    "city": "Faridabad",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 3,
+    "school_name": "School Of Social Sciences1",
+    "city": "Faridabad",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 4,
+    "school_name": "St Peters School",
+    "city": "Faridabad",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 5,
+    "school_name": "Ss Kindergarten",
+    "city": "Faridabad",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 6,
+    "school_name": "Tender Heart Ngo",
+    "city": "Faridabad",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 7,
+    "school_name": "Shemrock Little Orchids 2",
+    "city": "Faridabad",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 8,
+    "school_name": "Modern Delhi International School",
+    "city": "Faridabad",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 9,
+    "school_name": "Amrita Vishwa Vidyapeetham",
+    "city": "Faridabad",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 10,
+    "school_name": "Government Sarvodaya Vidyalaya",
+    "city": "Faridabad",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 11,
+    "school_name": "Center For Knowledge Societies",
+    "city": "Faridabad",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 12,
+    "school_name": "Surjit Wasu Memorial Charitable School",
+    "city": "Faridabad",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 13,
+    "school_name": "Modern Green Valley Public School",
+    "city": "Faridabad",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 14,
+    "school_name": "Saint Mary'S School",
+    "city": "Faridabad",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 15,
+    "school_name": "Ramanujan Sarvodaya Kanya Vidyalaya",
+    "city": "Faridabad",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 16,
+    "school_name": "Baba Banda Singh Bahadur Memorial Secondary School",
+    "city": "Faridabad",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 17,
+    "school_name": "Fore School Of Management",
+    "city": "Faridabad",
+    "traffic_light": true,
+    "max_confidence": 0.3,
+    "crosswalk": false,
+    "dist_signal_m": 485.8,
+    "image_id": "1249227593233392"
+  },
+  {
+    "school_index": 18,
+    "school_name": "Saint Mary'S Junior School",
+    "city": "Faridabad",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 19,
+    "school_name": "Little Millennium",
+    "city": "Faridabad",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 20,
+    "school_name": "Little Ones Public School",
+    "city": "Faridabad",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 21,
+    "school_name": "Kendriya Vidyalaya",
+    "city": "Faridabad",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 22,
+    "school_name": "Darul Qur'An Madrasa Abdurrahman Tahfizul Qur'An",
+    "city": "Faridabad",
+    "traffic_light": true,
+    "max_confidence": 0.551,
+    "crosswalk": true,
+    "dist_signal_m": 51.7,
+    "image_id": "172388384667420"
+  },
+  {
+    "school_index": 23,
+    "school_name": "Sri Aurobindo College",
+    "city": "Faridabad",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 24,
+    "school_name": "Sdmc Pratibha Vidyalaya Kanya",
+    "city": "Faridabad",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 25,
+    "school_name": "S6 Bhim Singh Ni Was",
+    "city": "Faridabad",
+    "traffic_light": true,
+    "max_confidence": 0.281,
+    "crosswalk": false,
+    "dist_signal_m": 70.27,
+    "image_id": "2950914958563536"
+  },
+  {
+    "school_index": 26,
+    "school_name": "Sh Computer Education",
+    "city": "Faridabad",
+    "traffic_light": true,
+    "max_confidence": 0.281,
+    "crosswalk": false,
+    "dist_signal_m": 31.39,
+    "image_id": "2950914958563536"
+  },
+  {
+    "school_index": 27,
+    "school_name": "Todllers Townn",
+    "city": "Faridabad",
+    "traffic_light": true,
+    "max_confidence": 0.281,
+    "crosswalk": false,
+    "dist_signal_m": 479.58,
+    "image_id": "2950914958563536"
+  },
+  {
+    "school_index": 28,
+    "school_name": "Sant Nirankari",
+    "city": "Faridabad",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 29,
+    "school_name": "Swarn Public School",
+    "city": "Faridabad",
+    "traffic_light": true,
+    "max_confidence": 0.281,
+    "crosswalk": false,
+    "dist_signal_m": 252.61,
+    "image_id": "2950914958563536"
+  },
+  {
+    "school_index": 30,
+    "school_name": "Swarn Public School",
+    "city": "Faridabad",
+    "traffic_light": true,
+    "max_confidence": 0.281,
+    "crosswalk": false,
+    "dist_signal_m": 326.84,
+    "image_id": "2950914958563536"
+  },
+  {
+    "school_index": 31,
+    "school_name": "New Suriya Public School",
+    "city": "Faridabad",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 32,
+    "school_name": "K S K Academy",
+    "city": "Faridabad",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 33,
+    "school_name": "Jamia Hamdard",
+    "city": "Faridabad",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 34,
+    "school_name": "Mcd Primary School No 2",
+    "city": "Faridabad",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 35,
+    "school_name": "Don Bosco School",
+    "city": "Faridabad",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 36,
+    "school_name": "Delhi Institute Of Tool Engineering",
+    "city": "Faridabad",
+    "traffic_light": true,
+    "max_confidence": 0.812,
+    "crosswalk": true,
+    "dist_signal_m": 295.03,
+    "image_id": "4240893572611784"
+  },
+  {
+    "school_index": 37,
+    "school_name": "Moon Champs Play School",
+    "city": "Faridabad",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 38,
+    "school_name": "Government School",
+    "city": "Faridabad",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 39,
+    "school_name": "Manav Mangal Public School",
+    "city": "Faridabad",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 40,
+    "school_name": "Govt Girls Senior Secondary School No 3",
+    "city": "Faridabad",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 41,
+    "school_name": "New Bal Vaishali Public School",
+    "city": "Faridabad",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 42,
+    "school_name": "Echelon",
+    "city": "Faridabad",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 43,
+    "school_name": "Jbkp",
+    "city": "Faridabad",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 44,
+    "school_name": "Indraprastha Global School",
+    "city": "Faridabad",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 45,
+    "school_name": "Noble High School",
+    "city": "Faridabad",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 46,
+    "school_name": "Kendriya Vidyalaya",
+    "city": "Faridabad",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 47,
+    "school_name": "International Institute Of Culinary Arts",
+    "city": "Faridabad",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 48,
+    "school_name": "Sahoday Senior Secondary School",
+    "city": "Faridabad",
+    "traffic_light": true,
+    "max_confidence": 0.551,
+    "crosswalk": true,
+    "dist_signal_m": 411.38,
+    "image_id": "204261401354706"
+  },
+  {
+    "school_index": 49,
+    "school_name": "Begumpur Government School",
+    "city": "Faridabad",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 50,
+    "school_name": "Kingdom Of Kids",
+    "city": "Faridabad",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 51,
+    "school_name": "Soami Nagar Model School",
+    "city": "Faridabad",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 52,
+    "school_name": "Soami Nagar Pre-Primary School",
+    "city": "Faridabad",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 53,
+    "school_name": "Bright Future Point",
+    "city": "Faridabad",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 54,
+    "school_name": "Learning Matters",
+    "city": "Faridabad",
+    "traffic_light": true,
+    "max_confidence": 0.782,
+    "crosswalk": true,
+    "dist_signal_m": 564.03,
+    "image_id": "494579808402010"
+  },
+  {
+    "school_index": 55,
+    "school_name": "Kendriya Vidyalaya",
+    "city": "Faridabad",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 56,
+    "school_name": "The Pinnacle School",
+    "city": "Faridabad",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 57,
+    "school_name": "Early Years",
+    "city": "Faridabad",
+    "traffic_light": true,
+    "max_confidence": 0.45,
+    "crosswalk": false,
+    "dist_signal_m": 113.23,
+    "image_id": "485588292867793"
+  },
+  {
+    "school_index": 58,
+    "school_name": "Mother'S Pride",
+    "city": "Faridabad",
+    "traffic_light": true,
+    "max_confidence": 0.288,
+    "crosswalk": false,
+    "dist_signal_m": 108.44,
+    "image_id": "977887733019917"
+  },
+  {
+    "school_index": 59,
+    "school_name": "Madarasa Millat-Ul-Islam",
+    "city": "Faridabad",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 60,
+    "school_name": "Jaganath Intl Mngt School",
+    "city": "Faridabad",
+    "traffic_light": true,
+    "max_confidence": 0.413,
+    "crosswalk": true,
+    "dist_signal_m": 160.87,
+    "image_id": "1932721376903340"
+  },
+  {
+    "school_index": 61,
+    "school_name": "Niit - New Friends Colony South Delhi",
+    "city": "Faridabad",
+    "traffic_light": true,
+    "max_confidence": 0.639,
+    "crosswalk": true,
+    "dist_signal_m": 95.45,
+    "image_id": "3026555397566140"
+  },
+  {
+    "school_index": 62,
+    "school_name": "Indraprastha Institute Of Science And Technology",
+    "city": "Faridabad",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 63,
+    "school_name": "The Ardee School",
+    "city": "Faridabad",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 64,
+    "school_name": "Indian School Of Business And Finance",
+    "city": "Faridabad",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 65,
+    "school_name": "New Ideal Public School",
+    "city": "Faridabad",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 66,
+    "school_name": "Disha Public School",
+    "city": "Faridabad",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 67,
+    "school_name": "Sanskar Pre School And Day Care",
+    "city": "Faridabad",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 68,
+    "school_name": "Jaishankar Memorial Centre",
+    "city": "Faridabad",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 69,
+    "school_name": "Mcd Public School",
+    "city": "Faridabad",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 70,
+    "school_name": "Polytechnic Ground",
+    "city": "Faridabad",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 71,
+    "school_name": "F-3 Block",
+    "city": "Faridabad",
+    "traffic_light": true,
+    "max_confidence": 0.391,
+    "crosswalk": false,
+    "dist_signal_m": 559.43,
+    "image_id": "800786963747655"
+  },
+  {
+    "school_index": 72,
+    "school_name": "I-1 Block",
+    "city": "Faridabad",
+    "traffic_light": true,
+    "max_confidence": 0.391,
+    "crosswalk": false,
+    "dist_signal_m": 513.99,
+    "image_id": "800786963747655"
+  },
+  {
+    "school_index": 73,
+    "school_name": "1-2 Block",
+    "city": "Faridabad",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 74,
+    "school_name": "F-1 Block",
+    "city": "Faridabad",
+    "traffic_light": true,
+    "max_confidence": 0.391,
+    "crosswalk": false,
+    "dist_signal_m": 475.47,
+    "image_id": "800786963747655"
+  },
+  {
+    "school_index": 75,
+    "school_name": "J-3 Block",
+    "city": "Faridabad",
+    "traffic_light": true,
+    "max_confidence": 0.391,
+    "crosswalk": false,
+    "dist_signal_m": 465.13,
+    "image_id": "800786963747655"
+  },
+  {
+    "school_index": 76,
+    "school_name": "E2- Block",
+    "city": "Faridabad",
+    "traffic_light": true,
+    "max_confidence": 0.391,
+    "crosswalk": false,
+    "dist_signal_m": 351.06,
+    "image_id": "800786963747655"
+  },
+  {
+    "school_index": 77,
+    "school_name": "E-1 Block",
+    "city": "Faridabad",
+    "traffic_light": true,
+    "max_confidence": 0.391,
+    "crosswalk": false,
+    "dist_signal_m": 274.13,
+    "image_id": "800786963747655"
+  },
+  {
+    "school_index": 78,
+    "school_name": "E-3 Block",
+    "city": "Faridabad",
+    "traffic_light": true,
+    "max_confidence": 0.391,
+    "crosswalk": false,
+    "dist_signal_m": 397.38,
+    "image_id": "800786963747655"
+  },
+  {
+    "school_index": 79,
+    "school_name": "K-1 Block",
+    "city": "Faridabad",
+    "traffic_light": true,
+    "max_confidence": 0.391,
+    "crosswalk": false,
+    "dist_signal_m": 193.23,
+    "image_id": "800786963747655"
+  },
+  {
+    "school_index": 80,
+    "school_name": "K-2 Block",
+    "city": "Faridabad",
+    "traffic_light": true,
+    "max_confidence": 0.391,
+    "crosswalk": false,
+    "dist_signal_m": 247.44,
+    "image_id": "800786963747655"
+  },
+  {
+    "school_index": 81,
+    "school_name": "K-3 Block",
+    "city": "Faridabad",
+    "traffic_light": true,
+    "max_confidence": 0.391,
+    "crosswalk": false,
+    "dist_signal_m": 320.16,
+    "image_id": "800786963747655"
+  },
+  {
+    "school_index": 82,
+    "school_name": "J-1 Block",
+    "city": "Faridabad",
+    "traffic_light": true,
+    "max_confidence": 0.391,
+    "crosswalk": false,
+    "dist_signal_m": 339.34,
+    "image_id": "800786963747655"
+  },
+  {
+    "school_index": 83,
+    "school_name": "Kids Campus School",
+    "city": "Faridabad",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 84,
+    "school_name": "Jagran Public School",
+    "city": "Faridabad",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 85,
+    "school_name": "Prince Public School",
+    "city": "Faridabad",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 86,
+    "school_name": "G D Goenka World School",
+    "city": "Faridabad",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 87,
+    "school_name": "Gd Goenka Public School Junior Wing",
+    "city": "Faridabad",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 88,
+    "school_name": "School Of Computional And Integrative Sciences",
+    "city": "Faridabad",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 89,
+    "school_name": "Kendriya Vidhyalaya Jr School",
+    "city": "Faridabad",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 90,
+    "school_name": "Kendriya Vidhyalaya Jnu",
+    "city": "Faridabad",
+    "traffic_light": true,
+    "max_confidence": 0.462,
+    "crosswalk": true,
+    "dist_signal_m": 259.77,
+    "image_id": "1426073131686309"
+  },
+  {
+    "school_index": 91,
+    "school_name": "Modern School",
+    "city": "Faridabad",
+    "traffic_light": true,
+    "max_confidence": 0.326,
+    "crosswalk": false,
+    "dist_signal_m": 458.88,
+    "image_id": "322308737006196"
+  },
+  {
+    "school_index": 92,
+    "school_name": "Sarvodaya Co-Ed Senior Secondary School",
+    "city": "Faridabad",
+    "traffic_light": true,
+    "max_confidence": 0.5,
+    "crosswalk": true,
+    "dist_signal_m": 105.1,
+    "image_id": "466314337776273"
+  },
+  {
+    "school_index": 93,
+    "school_name": "Jd Tytler School",
+    "city": "Faridabad",
+    "traffic_light": true,
+    "max_confidence": 0.642,
+    "crosswalk": false,
+    "dist_signal_m": 359.78,
+    "image_id": "461669551788635"
+  },
+  {
+    "school_index": 94,
+    "school_name": "Regional Centre For Biotechnology",
+    "city": "Faridabad",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 95,
+    "school_name": "A D Sr Sec School",
+    "city": "Faridabad",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 96,
+    "school_name": "National Institute Of Financial Management",
+    "city": "Faridabad",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 97,
+    "school_name": "Aggarwal Public School",
+    "city": "Faridabad",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 98,
+    "school_name": "Goverment Girls School",
+    "city": "Faridabad",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 99,
+    "school_name": "Young Man'S Christian Association Institute Of Engineering",
+    "city": "Faridabad",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 100,
+    "school_name": "Nalanda Vidyalaya",
+    "city": "Faridabad",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 101,
+    "school_name": "K L Mehta Dayanand Public School",
+    "city": "Faridabad",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 102,
+    "school_name": "Goverment School",
+    "city": "Faridabad",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 103,
+    "school_name": "Goverment Senior Secondary School",
+    "city": "Faridabad",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 104,
+    "school_name": "St John School",
+    "city": "Faridabad",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 105,
+    "school_name": "Karmvir Public School",
+    "city": "Faridabad",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 106,
+    "school_name": "Oriental Staff Training College",
+    "city": "Faridabad",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 107,
+    "school_name": "Aashirwaad Hospital",
+    "city": "Faridabad",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 108,
+    "school_name": "Divine Public School",
+    "city": "Faridabad",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 109,
+    "school_name": "Aggarwal Hospital",
+    "city": "Faridabad",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 110,
+    "school_name": "Nav Jivan Public School",
+    "city": "Faridabad",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 111,
+    "school_name": "Tagore Academy",
+    "city": "Faridabad",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 112,
+    "school_name": "Taksh Shila Model School",
+    "city": "Faridabad",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 113,
+    "school_name": "Government Inter College",
+    "city": "Faridabad",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 114,
+    "school_name": "Womens Polytechnic College",
+    "city": "Faridabad",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 115,
+    "school_name": "St Anthony'S Secondary School",
+    "city": "Faridabad",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 116,
+    "school_name": "Govt Girls School",
+    "city": "Faridabad",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 117,
+    "school_name": "Govr Boys School",
+    "city": "Faridabad",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 118,
+    "school_name": "Vidya Niketan School",
+    "city": "Faridabad",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 119,
+    "school_name": "Gita Bal Niketan School",
+    "city": "Faridabad",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 120,
+    "school_name": "Govt Boys Higher Secondary School",
+    "city": "Faridabad",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 121,
+    "school_name": "Government Girls Senior Secondary School",
+    "city": "Faridabad",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 122,
+    "school_name": "Senior Secondary School",
+    "city": "Faridabad",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 123,
+    "school_name": "Harscwitec Computer Education Center",
+    "city": "Faridabad",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 124,
+    "school_name": "Metro Govt Girls Senior Secondary School",
+    "city": "Faridabad",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 125,
+    "school_name": "Kl Mehta Dayanand Public School",
+    "city": "Faridabad",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 126,
+    "school_name": "Govt School Nit 3",
+    "city": "Faridabad",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 127,
+    "school_name": "Dav Centenary College",
+    "city": "Faridabad",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 128,
+    "school_name": "Shaheed Bhagat Singh Post Graduate Institute Of Mangaement",
+    "city": "Faridabad",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 129,
+    "school_name": "Kl Mehta Dayanand Women'S College",
+    "city": "Faridabad",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 130,
+    "school_name": "St Joseph'S Convent School",
+    "city": "Faridabad",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 131,
+    "school_name": "Apeejay School",
+    "city": "Faridabad",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 132,
+    "school_name": "Blooming Blossoms",
+    "city": "Faridabad",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 133,
+    "school_name": "Kendriya Vidyalaya No 1 Faridabad",
+    "city": "Faridabad",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 134,
+    "school_name": "Jiva Public School",
+    "city": "Faridabad",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 135,
+    "school_name": "Ryan International School",
+    "city": "Faridabad",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 136,
+    "school_name": "Gold Field Public School",
+    "city": "Faridabad",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 137,
+    "school_name": "Hommerton Grammar High School",
+    "city": "Faridabad",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 138,
+    "school_name": "Mahadav Desai Senior Secondary School",
+    "city": "Faridabad",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 139,
+    "school_name": "Delhi Public School",
+    "city": "Faridabad",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 140,
+    "school_name": "Modern Vidya Niketan",
+    "city": "Faridabad",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 141,
+    "school_name": "Avn Secondary School",
+    "city": "Faridabad",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 142,
+    "school_name": "Dynasty International School",
+    "city": "Faridabad",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 143,
+    "school_name": "Center School",
+    "city": "Faridabad",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 144,
+    "school_name": "Delhi Public School",
+    "city": "Faridabad",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 145,
+    "school_name": "Shiv Nadar School Ground",
+    "city": "Faridabad",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 146,
+    "school_name": "Shiv Nadar School",
+    "city": "Faridabad",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 147,
+    "school_name": "Paramhansa Sr Sec School",
+    "city": "Faridabad",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 148,
+    "school_name": "Modern Delhi International School Ground",
+    "city": "Faridabad",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 149,
+    "school_name": "St Peters School",
+    "city": "Faridabad",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 150,
+    "school_name": "Kr Mangalam World School",
+    "city": "Faridabad",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 151,
+    "school_name": "Govt Sr Sec School",
+    "city": "Faridabad",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 152,
+    "school_name": "South Asian University",
+    "city": "Faridabad",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 153,
+    "school_name": "Indira Gandhi National Open University",
+    "city": "Faridabad",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 154,
+    "school_name": "Shivani Vidya Niketan",
+    "city": "Faridabad",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 155,
+    "school_name": "Master Mind Public School",
+    "city": "Faridabad",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 156,
+    "school_name": "South Delhi Muncipal Corporation Nigam Pratibha Vidyalaya",
+    "city": "Faridabad",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 157,
+    "school_name": "Karmapa International Buddhist Institute",
+    "city": "Faridabad",
+    "traffic_light": true,
+    "max_confidence": 0.3,
+    "crosswalk": false,
+    "dist_signal_m": 540.89,
+    "image_id": "1249227593233392"
+  },
+  {
+    "school_index": 158,
+    "school_name": "New Green Field School",
+    "city": "Faridabad",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 159,
+    "school_name": "Amity International School",
+    "city": "Faridabad",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 160,
+    "school_name": "Red Rose Public School",
+    "city": "Faridabad",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 161,
+    "school_name": "Vidya Niketan Senior Secondary School",
+    "city": "Faridabad",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 162,
+    "school_name": "Government School",
+    "city": "Faridabad",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 163,
+    "school_name": "Apeejay School Saket",
+    "city": "Faridabad",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 164,
+    "school_name": "Green Field School",
+    "city": "Faridabad",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 165,
+    "school_name": "Government School",
+    "city": "Faridabad",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 166,
+    "school_name": "Delhi Institute Of Pharmaceutical Sciences And Research",
+    "city": "Faridabad",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 167,
+    "school_name": "Radha Krishna Vidya Niketan",
+    "city": "Faridabad",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 168,
+    "school_name": "Skv Raja Ram Mohan Roy School",
+    "city": "Faridabad",
+    "traffic_light": true,
+    "max_confidence": 0.551,
+    "crosswalk": true,
+    "dist_signal_m": 198.37,
+    "image_id": "172388384667420"
+  },
+  {
+    "school_index": 169,
+    "school_name": "Gyan Bharati School",
+    "city": "Faridabad",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 170,
+    "school_name": "Government Boys Senior Secondary School",
+    "city": "Faridabad",
+    "traffic_light": true,
+    "max_confidence": 0.281,
+    "crosswalk": false,
+    "dist_signal_m": 592.58,
+    "image_id": "2950914958563536"
+  },
+  {
+    "school_index": 171,
+    "school_name": "Industrial Training Institute",
+    "city": "Faridabad",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 172,
+    "school_name": "Sarvodaya Kanya Vidyalaya",
+    "city": "Faridabad",
+    "traffic_light": true,
+    "max_confidence": 0.281,
+    "crosswalk": false,
+    "dist_signal_m": 524.13,
+    "image_id": "2950914958563536"
+  },
+  {
+    "school_index": 173,
+    "school_name": "Delhi Public School International",
+    "city": "Faridabad",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 174,
+    "school_name": "College Of Vocational Studies",
+    "city": "Faridabad",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 175,
+    "school_name": "Shaheed Bhagat Singh College",
+    "city": "Faridabad",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 176,
+    "school_name": "Apeejay School",
+    "city": "Faridabad",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 177,
+    "school_name": "Hari Vidya Bhawan",
+    "city": "Faridabad",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 178,
+    "school_name": "Block A",
+    "city": "Faridabad",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 179,
+    "school_name": "Bachchan Prasad Sarvodaya Kanya Vidyalaya",
+    "city": "Faridabad",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 180,
+    "school_name": "Hamdarad Public School",
+    "city": "Faridabad",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 181,
+    "school_name": "Kendriya Vidyalaya",
+    "city": "Faridabad",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 182,
+    "school_name": "Carmel Community Church",
+    "city": "Faridabad",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 183,
+    "school_name": "Skv Tughlakabad Village",
+    "city": "Faridabad",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 184,
+    "school_name": "Sdmc Primary School",
+    "city": "Faridabad",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 185,
+    "school_name": "Sdmc Primary School",
+    "city": "Faridabad",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 186,
+    "school_name": "Birla Vidya Niketan",
+    "city": "Faridabad",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 187,
+    "school_name": "Balvantray Mehta Vidya Bhawan",
+    "city": "Faridabad",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 188,
+    "school_name": "St John'S School",
+    "city": "Faridabad",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 189,
+    "school_name": "Kalka Public School",
+    "city": "Faridabad",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 190,
+    "school_name": "Paul George Global School",
+    "city": "Faridabad",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 191,
+    "school_name": "St George'S School",
+    "city": "Faridabad",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 192,
+    "school_name": "Raisina Bengali School Secondary School",
+    "city": "Faridabad",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 193,
+    "school_name": "Kumar Mangalam School",
+    "city": "Faridabad",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 194,
+    "school_name": "Govt Secondary School",
+    "city": "Faridabad",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 195,
+    "school_name": "New Green Field School",
+    "city": "Faridabad",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 196,
+    "school_name": "Shri Satya Sai Vidya Vihar School",
+    "city": "Faridabad",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 197,
+    "school_name": "Deepalaya",
+    "city": "Faridabad",
+    "traffic_light": true,
+    "max_confidence": 0.844,
+    "crosswalk": true,
+    "dist_signal_m": 380.77,
+    "image_id": "5345642688843257"
+  },
+  {
+    "school_index": 198,
+    "school_name": "Aravali International School",
+    "city": "Faridabad",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 199,
+    "school_name": "Eicher School",
+    "city": "Faridabad",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 200,
+    "school_name": "Moden Vidya Niketan",
+    "city": "Faridabad",
+    "traffic_light": true,
+    "max_confidence": 0.315,
+    "crosswalk": false,
+    "dist_signal_m": 414.56,
+    "image_id": "1103359048325229"
+  },
+  {
+    "school_index": 201,
+    "school_name": "Manav Rachna",
+    "city": "Faridabad",
+    "traffic_light": true,
+    "max_confidence": 0.269,
+    "crosswalk": false,
+    "dist_signal_m": 319.76,
+    "image_id": "1018276000119316"
+  },
+  {
+    "school_index": 202,
+    "school_name": "Sos Hermann Gmeiner School",
+    "city": "Faridabad",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 203,
+    "school_name": "Holy Child Public School",
+    "city": "Faridabad",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 204,
+    "school_name": "Kalka Public School",
+    "city": "Faridabad",
+    "traffic_light": true,
+    "max_confidence": 0.667,
+    "crosswalk": true,
+    "dist_signal_m": 33.13,
+    "image_id": "737123595359781"
+  },
+  {
+    "school_index": 205,
+    "school_name": "Sos Children'S Village - Greenfields",
+    "city": "Faridabad",
+    "traffic_light": true,
+    "max_confidence": 0.292,
+    "crosswalk": false,
+    "dist_signal_m": 91.3,
+    "image_id": "1064101638551301"
+  },
+  {
+    "school_index": 206,
+    "school_name": "Surya Modern Public School",
+    "city": "Faridabad",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 207,
+    "school_name": "Ideal Public School",
+    "city": "Faridabad",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 208,
+    "school_name": "Saffron Public School",
+    "city": "Faridabad",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 209,
+    "school_name": "Manav Rachna International School",
+    "city": "Faridabad",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 210,
+    "school_name": "St Columbus School",
+    "city": "Faridabad",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 211,
+    "school_name": "Surajkund International School",
+    "city": "Faridabad",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 212,
+    "school_name": "Surajkund International",
+    "city": "Faridabad",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 213,
+    "school_name": "Blind School",
+    "city": "Faridabad",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 214,
+    "school_name": "Kendriya Vidyalaya",
+    "city": "Faridabad",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 215,
+    "school_name": "Green Valley Public School",
+    "city": "Faridabad",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 216,
+    "school_name": "Panchsheel Public School",
+    "city": "Faridabad",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 217,
+    "school_name": "Cricket Ground",
+    "city": "Faridabad",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 218,
+    "school_name": "S T Giri School",
+    "city": "Faridabad",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 219,
+    "school_name": "School Of Excellence Madanpur Khadar",
+    "city": "Faridabad",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 220,
+    "school_name": "Real View Public School",
+    "city": "Faridabad",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 221,
+    "school_name": "Step By Step School",
+    "city": "Faridabad",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 222,
+    "school_name": "Genesis Global School",
+    "city": "Faridabad",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 223,
+    "school_name": "Jbm Global School",
+    "city": "Faridabad",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 224,
+    "school_name": "Somerville School",
+    "city": "Faridabad",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 225,
+    "school_name": "Lotus Valley International School",
+    "city": "Faridabad",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 226,
+    "school_name": "Gyanshree School",
+    "city": "Faridabad",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 227,
+    "school_name": "Jaypee Public School",
+    "city": "Faridabad",
+    "traffic_light": true,
+    "max_confidence": 0.306,
+    "crosswalk": false,
+    "dist_signal_m": 459.16,
+    "image_id": "310984370476518"
+  },
+  {
+    "school_index": 228,
+    "school_name": "Delhi Public School",
+    "city": "Faridabad",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 229,
+    "school_name": "Lingaya'S University Faridabad",
+    "city": "Faridabad",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 230,
+    "school_name": "The Shriram Millennium School",
+    "city": "Faridabad",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 231,
+    "school_name": "Shiv Nadar School Noida",
+    "city": "Faridabad",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 232,
+    "school_name": "Panchsheel Balak Inter College",
+    "city": "Faridabad",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 233,
+    "school_name": "Shanti International School",
+    "city": "Faridabad",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 234,
+    "school_name": "Indian Statistical Institute Delhi",
+    "city": "Faridabad",
+    "traffic_light": true,
+    "max_confidence": 0.492,
+    "crosswalk": true,
+    "dist_signal_m": 314.19,
+    "image_id": "959629699343913"
+  },
+  {
+    "school_index": 235,
+    "school_name": "Kendriya Vidhyalaya Jnu",
+    "city": "Faridabad",
+    "traffic_light": true,
+    "max_confidence": 0.747,
+    "crosswalk": true,
+    "dist_signal_m": 183.11,
+    "image_id": "1963800950705390"
+  },
+  {
+    "school_index": 236,
+    "school_name": "Kendriya Vidyalaya",
+    "city": "Faridabad",
+    "traffic_light": true,
+    "max_confidence": 0.612,
+    "crosswalk": true,
+    "dist_signal_m": 686.67,
+    "image_id": "1030727592194287"
+  },
+  {
+    "school_index": 237,
+    "school_name": "The Mother'S International School",
+    "city": "Faridabad",
+    "traffic_light": true,
+    "max_confidence": 0.504,
+    "crosswalk": true,
+    "dist_signal_m": 633.5,
+    "image_id": "151739396823272"
+  },
+  {
+    "school_index": 238,
+    "school_name": "Kusuma School Of Biological Sciences",
+    "city": "Faridabad",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 239,
+    "school_name": "St Paul'S School",
+    "city": "Faridabad",
+    "traffic_light": true,
+    "max_confidence": 0.544,
+    "crosswalk": true,
+    "dist_signal_m": 543.17,
+    "image_id": "128904959202373"
+  },
+  {
+    "school_index": 240,
+    "school_name": "Saksham Pre School",
+    "city": "Faridabad",
+    "traffic_light": true,
+    "max_confidence": 0.353,
+    "crosswalk": false,
+    "dist_signal_m": 73.72,
+    "image_id": "1176482770224263"
+  },
+  {
+    "school_index": 241,
+    "school_name": "Sri Ram School Rk Puram",
+    "city": "Faridabad",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 242,
+    "school_name": "Kendriya Vidyalaya Rk Puram Sector-2",
+    "city": "Faridabad",
+    "traffic_light": true,
+    "max_confidence": 0.621,
+    "crosswalk": true,
+    "dist_signal_m": 298.91,
+    "image_id": "180880837219111"
+  },
+  {
+    "school_index": 243,
+    "school_name": "Gargi Sarvodaya Kanya Vidyalaya",
+    "city": "Faridabad",
+    "traffic_light": true,
+    "max_confidence": 0.735,
+    "crosswalk": true,
+    "dist_signal_m": 613.74,
+    "image_id": "1123682364796698"
+  },
+  {
+    "school_index": 244,
+    "school_name": "Mirambika",
+    "city": "Faridabad",
+    "traffic_light": true,
+    "max_confidence": 0.734,
+    "crosswalk": true,
+    "dist_signal_m": 443.84,
+    "image_id": "2371480276542277"
+  },
+  {
+    "school_index": 245,
+    "school_name": "Government Senior Secondary Schools",
+    "city": "Faridabad",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 246,
+    "school_name": "Mcd Primary Co-Educational School",
+    "city": "Faridabad",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 247,
+    "school_name": "Manava Bharti India International School",
+    "city": "Faridabad",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 248,
+    "school_name": "Step By Step Nursery School",
+    "city": "Faridabad",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 249,
+    "school_name": "Sarvodaya Kanya Vidhyalaya - Hauz Khas 1",
+    "city": "Faridabad",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 250,
+    "school_name": "Father Agnel School",
+    "city": "Faridabad",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 251,
+    "school_name": "National Institute Of Fashion Technology",
+    "city": "Faridabad",
+    "traffic_light": true,
+    "max_confidence": 0.82,
+    "crosswalk": true,
+    "dist_signal_m": 268.02,
+    "image_id": "1073160673212439"
+  },
+  {
+    "school_index": 252,
+    "school_name": "Gargi College",
+    "city": "Faridabad",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 253,
+    "school_name": "Kamala Nehru College",
+    "city": "Faridabad",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 254,
+    "school_name": "The Indian School",
+    "city": "Faridabad",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 255,
+    "school_name": "M C D Primary School C R Park",
+    "city": "Faridabad",
+    "traffic_light": true,
+    "max_confidence": 0.288,
+    "crosswalk": false,
+    "dist_signal_m": 635.88,
+    "image_id": "977887733019917"
+  },
+  {
+    "school_index": 256,
+    "school_name": "Shyama Prasad Mukherjee Sarvodaya Coeducational Vidyalaya",
+    "city": "Faridabad",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 257,
+    "school_name": "Sdmc Pratibha School",
+    "city": "Faridabad",
+    "traffic_light": true,
+    "max_confidence": 0.269,
+    "crosswalk": false,
+    "dist_signal_m": 390.42,
+    "image_id": "274224914356546"
+  },
+  {
+    "school_index": 258,
+    "school_name": "Deshbandhu College",
+    "city": "Faridabad",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 259,
+    "school_name": "Kautilya Government Sarvodaya Coeducational Vidyalaya",
+    "city": "Faridabad",
+    "traffic_light": true,
+    "max_confidence": 0.735,
+    "crosswalk": true,
+    "dist_signal_m": 472.74,
+    "image_id": "221270659358526"
+  },
+  {
+    "school_index": 260,
+    "school_name": "Guru Harkrishan Public School",
+    "city": "Faridabad",
+    "traffic_light": true,
+    "max_confidence": 0.363,
+    "crosswalk": false,
+    "dist_signal_m": 264.76,
+    "image_id": "287394253037044"
+  },
+  {
+    "school_index": 261,
+    "school_name": "Veer Savarkar Sarvodaya Kanya Vidyalaya Number 1",
+    "city": "Faridabad",
+    "traffic_light": true,
+    "max_confidence": 0.288,
+    "crosswalk": false,
+    "dist_signal_m": 209.75,
+    "image_id": "977887733019917"
+  },
+  {
+    "school_index": 262,
+    "school_name": "Mata Gujri Public School",
+    "city": "Faridabad",
+    "traffic_light": true,
+    "max_confidence": 0.642,
+    "crosswalk": true,
+    "dist_signal_m": 603.28,
+    "image_id": "290376309222967"
+  },
+  {
+    "school_index": 263,
+    "school_name": "Kendriya Vidyalaya",
+    "city": "Faridabad",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 264,
+    "school_name": "Rajkumari Amrit Kaur College Of Nursing",
+    "city": "Faridabad",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 265,
+    "school_name": "Ss Khalsa Senior Secondary School",
+    "city": "Faridabad",
+    "traffic_light": true,
+    "max_confidence": 0.382,
+    "crosswalk": false,
+    "dist_signal_m": 453.35,
+    "image_id": "216253339952708"
+  },
+  {
+    "school_index": 266,
+    "school_name": "Frank Anthony Public School",
+    "city": "Faridabad",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 267,
+    "school_name": "Oxford Kids",
+    "city": "Faridabad",
+    "traffic_light": true,
+    "max_confidence": 0.312,
+    "crosswalk": false,
+    "dist_signal_m": 214.55,
+    "image_id": "3901481606573888"
+  },
+  {
+    "school_index": 268,
+    "school_name": "Sarvodaya Kanya Vidyalaya No 2",
+    "city": "Faridabad",
+    "traffic_light": true,
+    "max_confidence": 0.312,
+    "crosswalk": false,
+    "dist_signal_m": 292.31,
+    "image_id": "3901481606573888"
+  },
+  {
+    "school_index": 269,
+    "school_name": "The Study School",
+    "city": "Faridabad",
+    "traffic_light": true,
+    "max_confidence": 0.312,
+    "crosswalk": false,
+    "dist_signal_m": 314.65,
+    "image_id": "3901481606573888"
+  },
+  {
+    "school_index": 270,
+    "school_name": "Tagore International School",
+    "city": "Faridabad",
+    "traffic_light": true,
+    "max_confidence": 0.312,
+    "crosswalk": false,
+    "dist_signal_m": 496.02,
+    "image_id": "3901481606573888"
+  },
+  {
+    "school_index": 271,
+    "school_name": "Daisy Dales School",
+    "city": "Faridabad",
+    "traffic_light": true,
+    "max_confidence": 0.312,
+    "crosswalk": false,
+    "dist_signal_m": 371.62,
+    "image_id": "3901481606573888"
+  },
+  {
+    "school_index": 272,
+    "school_name": "Acharya Narendra Dev College",
+    "city": "Faridabad",
+    "traffic_light": true,
+    "max_confidence": 0.351,
+    "crosswalk": false,
+    "dist_signal_m": 282.61,
+    "image_id": "213775050203326"
+  },
+  {
+    "school_index": 273,
+    "school_name": "School Of Excellence",
+    "city": "Faridabad",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 274,
+    "school_name": "Government Boys Girls Senior Secondary School",
+    "city": "Faridabad",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 275,
+    "school_name": "South Delhi Public School",
+    "city": "Faridabad",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 276,
+    "school_name": "Sarvodaya Kanya Vidyalaya",
+    "city": "Faridabad",
+    "traffic_light": true,
+    "max_confidence": 0.639,
+    "crosswalk": true,
+    "dist_signal_m": 631.2,
+    "image_id": "3026555397566140"
+  },
+  {
+    "school_index": 277,
+    "school_name": "Jamia Millia Islamia",
+    "city": "Faridabad",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 278,
+    "school_name": "Don Bosco Technical Institute",
+    "city": "Faridabad",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 279,
+    "school_name": "Good Samaritan School",
+    "city": "Faridabad",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 280,
+    "school_name": "Rahman Public School",
+    "city": "Faridabad",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 281,
+    "school_name": "Sarvodaya Kanya Vidayalya Noor Nagar",
+    "city": "Faridabad",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 282,
+    "school_name": "Smart Kids Public School",
+    "city": "Faridabad",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 283,
+    "school_name": "Amity School",
+    "city": "Faridabad",
+    "traffic_light": true,
+    "max_confidence": 0.31,
+    "crosswalk": false,
+    "dist_signal_m": 276.86,
+    "image_id": "338448867863335"
+  },
+  {
+    "school_index": 284,
+    "school_name": "Amity International School Primary Wing",
+    "city": "Faridabad",
+    "traffic_light": true,
+    "max_confidence": 0.545,
+    "crosswalk": true,
+    "dist_signal_m": 321.3,
+    "image_id": "187632923217281"
+  },
+  {
+    "school_index": 285,
+    "school_name": "Amity International School Aice",
+    "city": "Faridabad",
+    "traffic_light": true,
+    "max_confidence": 0.289,
+    "crosswalk": false,
+    "dist_signal_m": 465.91,
+    "image_id": "205271624739293"
+  },
+  {
+    "school_index": 286,
+    "school_name": "Amity Global School",
+    "city": "Faridabad",
+    "traffic_light": true,
+    "max_confidence": 0.289,
+    "crosswalk": false,
+    "dist_signal_m": 448.0,
+    "image_id": "205271624739293"
+  },
+  {
+    "school_index": 287,
+    "school_name": "Mayur School",
+    "city": "Faridabad",
+    "traffic_light": true,
+    "max_confidence": 0.391,
+    "crosswalk": false,
+    "dist_signal_m": 487.19,
+    "image_id": "800786963747655"
+  },
+  {
+    "school_index": 288,
+    "school_name": "Womens Polytechnic College",
+    "city": "Faridabad",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 289,
+    "school_name": "Dayyanand Public School No-1",
+    "city": "Faridabad",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 290,
+    "school_name": "Sarvodaya Bal Senior Secondary Vidyalaya",
+    "city": "Faridabad",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 291,
+    "school_name": "Hamdard Nagar",
+    "city": "Faridabad",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 292,
+    "school_name": "Dav Public School",
+    "city": "Faridabad",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 293,
+    "school_name": "G D Goenka Public School",
+    "city": "Faridabad",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 294,
+    "school_name": "Manava Bharati India International School",
+    "city": "Faridabad",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 295,
+    "school_name": "Jamia Millia Islamia",
+    "city": "Faridabad",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 296,
+    "school_name": "Guru Harkrishan Public School",
+    "city": "Faridabad",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  }
+]

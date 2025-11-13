@@ -1,0 +1,2632 @@
+[
+  {
+    "school_index": 0,
+    "school_name": "Podra Mahakali Vidyalaya",
+    "city": "Kolkata",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 1,
+    "school_name": "Purba Barisha High School",
+    "city": "Kolkata",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 2,
+    "school_name": "National Gems Higher Secoundry School",
+    "city": "Kolkata",
+    "traffic_light": true,
+    "max_confidence": 0.46,
+    "crosswalk": false,
+    "dist_signal_m": 400.59,
+    "image_id": "159982732748988"
+  },
+  {
+    "school_index": 3,
+    "school_name": "Behla Blind School",
+    "city": "Kolkata",
+    "traffic_light": true,
+    "max_confidence": 0.395,
+    "crosswalk": false,
+    "dist_signal_m": 420.14,
+    "image_id": "376033737131106"
+  },
+  {
+    "school_index": 4,
+    "school_name": "Shaw Public Girls High School",
+    "city": "Kolkata",
+    "traffic_light": true,
+    "max_confidence": 0.46,
+    "crosswalk": false,
+    "dist_signal_m": 450.63,
+    "image_id": "159982732748988"
+  },
+  {
+    "school_index": 5,
+    "school_name": "Mbc Behala College",
+    "city": "Kolkata",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 6,
+    "school_name": "Swami Pranabananda School",
+    "city": "Kolkata",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 7,
+    "school_name": "Nshm Knowledge Campus",
+    "city": "Kolkata",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 8,
+    "school_name": "Southend School",
+    "city": "Kolkata",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 9,
+    "school_name": "Netaji Nagar College",
+    "city": "Kolkata",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 10,
+    "school_name": "Netaji Nagar Women S College",
+    "city": "Kolkata",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 11,
+    "school_name": "Dinbandhu Andrews College",
+    "city": "Kolkata",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 12,
+    "school_name": "Bd Memorial Primary School",
+    "city": "Kolkata",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 13,
+    "school_name": "Sb Girls High School",
+    "city": "Kolkata",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 14,
+    "school_name": "Garia Barada Prasad Uchcha Vidyalaya Estd -1919",
+    "city": "Kolkata",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 15,
+    "school_name": "Kendua Mahendragarh High School",
+    "city": "Kolkata",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 16,
+    "school_name": "Pluto Play School",
+    "city": "Kolkata",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 17,
+    "school_name": "Welland Gouldsmith School",
+    "city": "Kolkata",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 18,
+    "school_name": "Iti Tollygunge",
+    "city": "Kolkata",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 19,
+    "school_name": "Iti",
+    "city": "Kolkata",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 20,
+    "school_name": "South City International School",
+    "city": "Kolkata",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 21,
+    "school_name": "Sammilani Mahavidyalaya",
+    "city": "Kolkata",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 22,
+    "school_name": "Electrical Engineering Department",
+    "city": "Kolkata",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 23,
+    "school_name": "Jadavpur N K Pal Adarsha Sikshayatan",
+    "city": "Kolkata",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 24,
+    "school_name": "Adarsha Balika Shikshayatan",
+    "city": "Kolkata",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 25,
+    "school_name": "Jadavpur Vidyapith",
+    "city": "Kolkata",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 26,
+    "school_name": "Shishu Siksha Niketan",
+    "city": "Kolkata",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 27,
+    "school_name": "Jadavpur University",
+    "city": "Kolkata",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 28,
+    "school_name": "Jadavpur University Gate 3",
+    "city": "Kolkata",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 29,
+    "school_name": "Indian Association For The Cultivation Of Science Main Gate Raman Gate",
+    "city": "Kolkata",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 30,
+    "school_name": "Rd Memorial School",
+    "city": "Kolkata",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 31,
+    "school_name": "Punjab National Bank Staff Training College",
+    "city": "Kolkata",
+    "traffic_light": true,
+    "max_confidence": 0.73,
+    "crosswalk": true,
+    "dist_signal_m": 68.95,
+    "image_id": "309224957328794"
+  },
+  {
+    "school_index": 32,
+    "school_name": "Birla Academy Of Fine Arts",
+    "city": "Kolkata",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 33,
+    "school_name": "Basanti Devi College",
+    "city": "Kolkata",
+    "traffic_light": true,
+    "max_confidence": 0.251,
+    "crosswalk": false,
+    "dist_signal_m": 307.96,
+    "image_id": "454714885820313"
+  },
+  {
+    "school_index": 34,
+    "school_name": "Nava Nalanda High School",
+    "city": "Kolkata",
+    "traffic_light": true,
+    "max_confidence": 0.251,
+    "crosswalk": false,
+    "dist_signal_m": 360.33,
+    "image_id": "454714885820313"
+  },
+  {
+    "school_index": 35,
+    "school_name": "The New Horizon High School",
+    "city": "Kolkata",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 36,
+    "school_name": "Asutosh College",
+    "city": "Kolkata",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 37,
+    "school_name": "College Ground",
+    "city": "Kolkata",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 38,
+    "school_name": "University Of Calcutta Ballygunge Science College Campus",
+    "city": "Kolkata",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 39,
+    "school_name": "Gariahat Iti College",
+    "city": "Kolkata",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 40,
+    "school_name": "M G Rungta Academy",
+    "city": "Kolkata",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 41,
+    "school_name": "Patha Bhavan High School",
+    "city": "Kolkata",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 42,
+    "school_name": "Silver Point School",
+    "city": "Kolkata",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 43,
+    "school_name": "Patha Bhavan Higher Secondary School",
+    "city": "Kolkata",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 44,
+    "school_name": "Ballygunge Vidyalaya & Silpa Sikshayatana",
+    "city": "Kolkata",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 45,
+    "school_name": "Academy Of Finr Arts",
+    "city": "Kolkata",
+    "traffic_light": true,
+    "max_confidence": 0.262,
+    "crosswalk": false,
+    "dist_signal_m": 330.63,
+    "image_id": "283400050076321"
+  },
+  {
+    "school_index": 46,
+    "school_name": "Jewish Girls' School",
+    "city": "Kolkata",
+    "traffic_light": true,
+    "max_confidence": 0.383,
+    "crosswalk": false,
+    "dist_signal_m": 175.81,
+    "image_id": "198014035368615"
+  },
+  {
+    "school_index": 47,
+    "school_name": "Loreto School",
+    "city": "Kolkata",
+    "traffic_light": true,
+    "max_confidence": 0.428,
+    "crosswalk": true,
+    "dist_signal_m": 231.07,
+    "image_id": "914563605996674"
+  },
+  {
+    "school_index": 48,
+    "school_name": "St Augustine'S Day School",
+    "city": "Kolkata",
+    "traffic_light": true,
+    "max_confidence": 0.297,
+    "crosswalk": false,
+    "dist_signal_m": 580.52,
+    "image_id": "327105135426591"
+  },
+  {
+    "school_index": 49,
+    "school_name": "The Assembly Of God Church School Senior Section Park Street",
+    "city": "Kolkata",
+    "traffic_light": true,
+    "max_confidence": 0.388,
+    "crosswalk": false,
+    "dist_signal_m": 126.94,
+    "image_id": "293214808943523"
+  },
+  {
+    "school_index": 50,
+    "school_name": "Loreto Convent",
+    "city": "Kolkata",
+    "traffic_light": true,
+    "max_confidence": 0.612,
+    "crosswalk": true,
+    "dist_signal_m": 430.51,
+    "image_id": "1464518107213189"
+  },
+  {
+    "school_index": 51,
+    "school_name": "Biswabani School",
+    "city": "Kolkata",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 52,
+    "school_name": "Bengal Institute Of Technology Main Building",
+    "city": "Kolkata",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 53,
+    "school_name": "Bengal Institute Of Technology",
+    "city": "Kolkata",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 54,
+    "school_name": "Loreto Girls School Sealdah",
+    "city": "Kolkata",
+    "traffic_light": true,
+    "max_confidence": 0.309,
+    "crosswalk": false,
+    "dist_signal_m": 39.57,
+    "image_id": "1587269925222481"
+  },
+  {
+    "school_index": 55,
+    "school_name": "Md Jan Higher Secondary School",
+    "city": "Kolkata",
+    "traffic_light": true,
+    "max_confidence": 0.564,
+    "crosswalk": true,
+    "dist_signal_m": 284.58,
+    "image_id": "490642858847974"
+  },
+  {
+    "school_index": 56,
+    "school_name": "Shree Vishudhanand Saraswati Vidyalay School",
+    "city": "Kolkata",
+    "traffic_light": true,
+    "max_confidence": 0.268,
+    "crosswalk": false,
+    "dist_signal_m": 104.21,
+    "image_id": "314356413497777"
+  },
+  {
+    "school_index": 57,
+    "school_name": "Pw Govt Exam Wallah Kolkata",
+    "city": "Kolkata",
+    "traffic_light": true,
+    "max_confidence": 0.352,
+    "crosswalk": false,
+    "dist_signal_m": 61.15,
+    "image_id": "606365791906626"
+  },
+  {
+    "school_index": 58,
+    "school_name": "Beleghata Deshabandhu High School Main",
+    "city": "Kolkata",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 59,
+    "school_name": "Govt College Of Engineering And Ceramic Technology",
+    "city": "Kolkata",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 60,
+    "school_name": "Gurudas College",
+    "city": "Kolkata",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 61,
+    "school_name": "Bose Institute",
+    "city": "Kolkata",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 62,
+    "school_name": "Deshabandhu Vidyapith",
+    "city": "Kolkata",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 63,
+    "school_name": "Purwanchal Vidyamandir",
+    "city": "Kolkata",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 64,
+    "school_name": "Bose Institute Research",
+    "city": "Kolkata",
+    "traffic_light": true,
+    "max_confidence": 0.319,
+    "crosswalk": false,
+    "dist_signal_m": 436.48,
+    "image_id": "817577649172783"
+  },
+  {
+    "school_index": 65,
+    "school_name": "Arth Early Learning Spaces",
+    "city": "Kolkata",
+    "traffic_light": true,
+    "max_confidence": 0.799,
+    "crosswalk": true,
+    "dist_signal_m": 464.07,
+    "image_id": "503739254097313"
+  },
+  {
+    "school_index": 66,
+    "school_name": "Scc - Main Building",
+    "city": "Kolkata",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 67,
+    "school_name": "Holy Child School",
+    "city": "Kolkata",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 68,
+    "school_name": "Duff Building",
+    "city": "Kolkata",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 69,
+    "school_name": "Sarada Prasad Institution For Boys",
+    "city": "Kolkata",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 70,
+    "school_name": "Belgachia Muslim High School",
+    "city": "Kolkata",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 71,
+    "school_name": "Belgachia Urdu High School Co-Ed",
+    "city": "Kolkata",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 72,
+    "school_name": "Iqra Assembly School",
+    "city": "Kolkata",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 73,
+    "school_name": "Blue Bell Day School",
+    "city": "Kolkata",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 74,
+    "school_name": "Kona High School",
+    "city": "Kolkata",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 75,
+    "school_name": "Taradevi Harak Chand Kankaria Jain College",
+    "city": "Kolkata",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 76,
+    "school_name": "Prachya Bani Mondir For Boys",
+    "city": "Kolkata",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 77,
+    "school_name": "St Francis Xavier School",
+    "city": "Kolkata",
+    "traffic_light": true,
+    "max_confidence": 0.811,
+    "crosswalk": true,
+    "dist_signal_m": 320.72,
+    "image_id": "890422221516523"
+  },
+  {
+    "school_index": 78,
+    "school_name": "National Institute Of Fashion Technology",
+    "city": "Kolkata",
+    "traffic_light": true,
+    "max_confidence": 0.323,
+    "crosswalk": false,
+    "dist_signal_m": 179.54,
+    "image_id": "197660188861155"
+  },
+  {
+    "school_index": 79,
+    "school_name": "Maulana Abul Kalam Azad Institute Of Asian Studies",
+    "city": "Kolkata",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 80,
+    "school_name": "Bidhannagar College",
+    "city": "Kolkata",
+    "traffic_light": true,
+    "max_confidence": 0.504,
+    "crosswalk": true,
+    "dist_signal_m": 87.68,
+    "image_id": "274377164369476"
+  },
+  {
+    "school_index": 81,
+    "school_name": "St Joan'S School",
+    "city": "Kolkata",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 82,
+    "school_name": "Institute Of Engeneering & Management Business School Ashram Campus",
+    "city": "Kolkata",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 83,
+    "school_name": "Globsyn Business School",
+    "city": "Kolkata",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 84,
+    "school_name": "B P Poddar Institute Of Management & Technology",
+    "city": "Kolkata",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 85,
+    "school_name": "Chandigarh University",
+    "city": "Kolkata",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 86,
+    "school_name": "Iemlabs - Cyber Security & Ethical Hacking Course In Kolkata",
+    "city": "Kolkata",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 87,
+    "school_name": "International Institute Of Photography",
+    "city": "Kolkata",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 88,
+    "school_name": "International Institute Of Hotel Management",
+    "city": "Kolkata",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 89,
+    "school_name": "Webel- Acharya Academy Of Advanced Animation",
+    "city": "Kolkata",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 90,
+    "school_name": "Techno Main Salt Lake",
+    "city": "Kolkata",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 91,
+    "school_name": "Nitttr Residential Campus",
+    "city": "Kolkata",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 92,
+    "school_name": "Aliah University",
+    "city": "Kolkata",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 93,
+    "school_name": "Techno India University",
+    "city": "Kolkata",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 94,
+    "school_name": "Bng Hotel Management Institute",
+    "city": "Kolkata",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 95,
+    "school_name": "Satyapriya Roy College Of Education",
+    "city": "Kolkata",
+    "traffic_light": true,
+    "max_confidence": 0.461,
+    "crosswalk": true,
+    "dist_signal_m": 97.61,
+    "image_id": "1393990770968441"
+  },
+  {
+    "school_index": 96,
+    "school_name": "Salt Lake Indira Gandhi Girls Sr Secondary School",
+    "city": "Kolkata",
+    "traffic_light": true,
+    "max_confidence": 0.307,
+    "crosswalk": false,
+    "dist_signal_m": 89.42,
+    "image_id": "1182373842192495"
+  },
+  {
+    "school_index": 97,
+    "school_name": "Kidzee School",
+    "city": "Kolkata",
+    "traffic_light": true,
+    "max_confidence": 0.877,
+    "crosswalk": true,
+    "dist_signal_m": 275.79,
+    "image_id": "1237012376754165"
+  },
+  {
+    "school_index": 98,
+    "school_name": "Aliah University",
+    "city": "Kolkata",
+    "traffic_light": true,
+    "max_confidence": 0.481,
+    "crosswalk": true,
+    "dist_signal_m": 622.46,
+    "image_id": "460098661945415"
+  },
+  {
+    "school_index": 99,
+    "school_name": "Salt Lake Collegiate School",
+    "city": "Kolkata",
+    "traffic_light": true,
+    "max_confidence": 0.301,
+    "crosswalk": false,
+    "dist_signal_m": 278.88,
+    "image_id": "2931438087072149"
+  },
+  {
+    "school_index": 100,
+    "school_name": "Maulana Abul Kalam Azad University Of Technology",
+    "city": "Kolkata",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 101,
+    "school_name": "Prafulla Kanan Deshapriya Balika Vidyamandir",
+    "city": "Kolkata",
+    "traffic_light": true,
+    "max_confidence": 0.342,
+    "crosswalk": false,
+    "dist_signal_m": 92.36,
+    "image_id": "1308211699581641"
+  },
+  {
+    "school_index": 102,
+    "school_name": "Calcutta Public School",
+    "city": "Kolkata",
+    "traffic_light": true,
+    "max_confidence": 0.301,
+    "crosswalk": false,
+    "dist_signal_m": 519.83,
+    "image_id": "229424475610364"
+  },
+  {
+    "school_index": 103,
+    "school_name": "Sarada Vidyapith",
+    "city": "Kolkata",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 104,
+    "school_name": "Mohiary Kundu Chaudhury Institution",
+    "city": "Kolkata",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 105,
+    "school_name": "Podra G S F P School",
+    "city": "Kolkata",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 106,
+    "school_name": "Kendra Vidalaya School",
+    "city": "Kolkata",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 107,
+    "school_name": "Barisha Sashibhusan Janakalyan Vidyapith",
+    "city": "Kolkata",
+    "traffic_light": true,
+    "max_confidence": 0.591,
+    "crosswalk": true,
+    "dist_signal_m": 58.09,
+    "image_id": "534220087603048"
+  },
+  {
+    "school_index": 108,
+    "school_name": "Behala Blind School",
+    "city": "Kolkata",
+    "traffic_light": true,
+    "max_confidence": 0.395,
+    "crosswalk": false,
+    "dist_signal_m": 474.33,
+    "image_id": "376033737131106"
+  },
+  {
+    "school_index": 109,
+    "school_name": "Mp Birla Foundation Higher Secondary School",
+    "city": "Kolkata",
+    "traffic_light": true,
+    "max_confidence": 0.395,
+    "crosswalk": false,
+    "dist_signal_m": 374.31,
+    "image_id": "376033737131106"
+  },
+  {
+    "school_index": 110,
+    "school_name": "National Gems Higher Secondary School",
+    "city": "Kolkata",
+    "traffic_light": true,
+    "max_confidence": 0.46,
+    "crosswalk": true,
+    "dist_signal_m": 454.49,
+    "image_id": "159982732748988"
+  },
+  {
+    "school_index": 111,
+    "school_name": "Shri Ritam Vidyapith Building",
+    "city": "Kolkata",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 112,
+    "school_name": "Calcutta Institute Of Engineering And Management",
+    "city": "Kolkata",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 113,
+    "school_name": "Niva Ananda Vidyalaya",
+    "city": "Kolkata",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 114,
+    "school_name": "National Instute Of Research On Jute And Allied Fibre Technology",
+    "city": "Kolkata",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 115,
+    "school_name": "Montclair School",
+    "city": "Kolkata",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 116,
+    "school_name": "Itc Sangeet Research Academy",
+    "city": "Kolkata",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 117,
+    "school_name": "Bijoygarh Girls School",
+    "city": "Kolkata",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 118,
+    "school_name": "Gandhi Colony High School",
+    "city": "Kolkata",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 119,
+    "school_name": "Bijoygarh College",
+    "city": "Kolkata",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 120,
+    "school_name": "Jadavpur Girls High School",
+    "city": "Kolkata",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 121,
+    "school_name": "Womens Polytechnic",
+    "city": "Kolkata",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 122,
+    "school_name": "Jodhpur Park Girls High School",
+    "city": "Kolkata",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 123,
+    "school_name": "Jodhpur Park Boys School",
+    "city": "Kolkata",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 124,
+    "school_name": "Alipore Multipurpose Government Girls School",
+    "city": "Kolkata",
+    "traffic_light": true,
+    "max_confidence": 0.723,
+    "crosswalk": true,
+    "dist_signal_m": 667.44,
+    "image_id": "579644836357231"
+  },
+  {
+    "school_index": 125,
+    "school_name": "Sri Sri Academy",
+    "city": "Kolkata",
+    "traffic_light": true,
+    "max_confidence": 0.588,
+    "crosswalk": true,
+    "dist_signal_m": 496.53,
+    "image_id": "535842141102765"
+  },
+  {
+    "school_index": 126,
+    "school_name": "Chetla Girls' School",
+    "city": "Kolkata",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 127,
+    "school_name": "International Management Institute",
+    "city": "Kolkata",
+    "traffic_light": true,
+    "max_confidence": 0.777,
+    "crosswalk": true,
+    "dist_signal_m": 549.15,
+    "image_id": "227806435348781"
+  },
+  {
+    "school_index": 128,
+    "school_name": "St Paul'S Boarding And Day School",
+    "city": "Kolkata",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 129,
+    "school_name": "Jnan Chandra Ghosh Polytechnic",
+    "city": "Kolkata",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 130,
+    "school_name": "Army Institute Of Management",
+    "city": "Kolkata",
+    "traffic_light": true,
+    "max_confidence": 0.404,
+    "crosswalk": true,
+    "dist_signal_m": 358.36,
+    "image_id": "306869724234914"
+  },
+  {
+    "school_index": 131,
+    "school_name": "Kendriya Vidyalaya",
+    "city": "Kolkata",
+    "traffic_light": true,
+    "max_confidence": 0.404,
+    "crosswalk": true,
+    "dist_signal_m": 536.85,
+    "image_id": "306869724234914"
+  },
+  {
+    "school_index": 132,
+    "school_name": "Loyola High School",
+    "city": "Kolkata",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 133,
+    "school_name": "Lakshmipat Singhania Academy",
+    "city": "Kolkata",
+    "traffic_light": true,
+    "max_confidence": 0.404,
+    "crosswalk": false,
+    "dist_signal_m": 62.14,
+    "image_id": "306869724234914"
+  },
+  {
+    "school_index": 134,
+    "school_name": "Calcutta University Alipore Campus",
+    "city": "Kolkata",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 135,
+    "school_name": "Sanghamitra Vidyalaya",
+    "city": "Kolkata",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 136,
+    "school_name": "School For The Handicapped",
+    "city": "Kolkata",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 137,
+    "school_name": "Indian Institute Of Engineering Science And Technology Shibpur",
+    "city": "Kolkata",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 138,
+    "school_name": "Be College Model School",
+    "city": "Kolkata",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 139,
+    "school_name": "Be College Model School",
+    "city": "Kolkata",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 140,
+    "school_name": "Pajnanananda Vidyalaya Ground",
+    "city": "Kolkata",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 141,
+    "school_name": "St Thomas College Of Engineering And Technology",
+    "city": "Kolkata",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 142,
+    "school_name": "St Paul'S High School",
+    "city": "Kolkata",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 143,
+    "school_name": "St Teresa'S Secondary School",
+    "city": "Kolkata",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 144,
+    "school_name": "St Thomas Girls School",
+    "city": "Kolkata",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 145,
+    "school_name": "Kolkata Police Training School",
+    "city": "Kolkata",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 146,
+    "school_name": "Tirthapati Institution",
+    "city": "Kolkata",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 147,
+    "school_name": "Jagadbandhu Institution",
+    "city": "Kolkata",
+    "traffic_light": true,
+    "max_confidence": 0.251,
+    "crosswalk": false,
+    "dist_signal_m": 345.85,
+    "image_id": "454714885820313"
+  },
+  {
+    "school_index": 148,
+    "school_name": "Kamala Chatterjee Girls School",
+    "city": "Kolkata",
+    "traffic_light": true,
+    "max_confidence": 0.251,
+    "crosswalk": false,
+    "dist_signal_m": 264.51,
+    "image_id": "454714885820313"
+  },
+  {
+    "school_index": 149,
+    "school_name": "St Lawrence High School",
+    "city": "Kolkata",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 150,
+    "school_name": "David Hare Training College",
+    "city": "Kolkata",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 151,
+    "school_name": "Mitra Institution Bhowanipore Branch",
+    "city": "Kolkata",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 152,
+    "school_name": "South Subarban School",
+    "city": "Kolkata",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 153,
+    "school_name": "Ballygunge Government High School",
+    "city": "Kolkata",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 154,
+    "school_name": "Ballygunge Siksha Sadan",
+    "city": "Kolkata",
+    "traffic_light": true,
+    "max_confidence": 0.251,
+    "crosswalk": false,
+    "dist_signal_m": 466.74,
+    "image_id": "454714885820313"
+  },
+  {
+    "school_index": 155,
+    "school_name": "Surendra Chakravorty Institution",
+    "city": "Kolkata",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 156,
+    "school_name": "University Of Calcutta Law College Campus",
+    "city": "Kolkata",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 157,
+    "school_name": "Modern High School For Girls",
+    "city": "Kolkata",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 158,
+    "school_name": "Kendriya Vidyalaya",
+    "city": "Kolkata",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 159,
+    "school_name": "Army Public School",
+    "city": "Kolkata",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 160,
+    "school_name": "Calcutta School Of Music",
+    "city": "Kolkata",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 161,
+    "school_name": "Delhi Public School - Dps",
+    "city": "Kolkata",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 162,
+    "school_name": "Chittaranjan Girls High School",
+    "city": "Kolkata",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 163,
+    "school_name": "Chittaranjan Boys High School",
+    "city": "Kolkata",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 164,
+    "school_name": "Garden High School",
+    "city": "Kolkata",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 165,
+    "school_name": "Iiswbm",
+    "city": "Kolkata",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 166,
+    "school_name": "South Point High School",
+    "city": "Kolkata",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 167,
+    "school_name": "United Missionary Girls High School",
+    "city": "Kolkata",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 168,
+    "school_name": "St Johns Diocesan Girls Higher Secondary",
+    "city": "Kolkata",
+    "traffic_light": true,
+    "max_confidence": 0.291,
+    "crosswalk": false,
+    "dist_signal_m": 502.46,
+    "image_id": "154057110054961"
+  },
+  {
+    "school_index": 169,
+    "school_name": "Cathedral Mission High School",
+    "city": "Kolkata",
+    "traffic_light": true,
+    "max_confidence": 0.617,
+    "crosswalk": false,
+    "dist_signal_m": 507.81,
+    "image_id": "516482822703797"
+  },
+  {
+    "school_index": 170,
+    "school_name": "Saint Xavier'S College Autonomous",
+    "city": "Kolkata",
+    "traffic_light": true,
+    "max_confidence": 0.428,
+    "crosswalk": false,
+    "dist_signal_m": 168.74,
+    "image_id": "914563605996674"
+  },
+  {
+    "school_index": 171,
+    "school_name": "St Xavier'S Collegiate School Primary Section",
+    "city": "Kolkata",
+    "traffic_light": true,
+    "max_confidence": 0.322,
+    "crosswalk": false,
+    "dist_signal_m": 242.24,
+    "image_id": "293596715717643"
+  },
+  {
+    "school_index": 172,
+    "school_name": "Sakhawat Memorial Govt Girls' High School",
+    "city": "Kolkata",
+    "traffic_light": true,
+    "max_confidence": 0.262,
+    "crosswalk": false,
+    "dist_signal_m": 546.98,
+    "image_id": "283400050076321"
+  },
+  {
+    "school_index": 173,
+    "school_name": "Birla High School",
+    "city": "Kolkata",
+    "traffic_light": true,
+    "max_confidence": 0.291,
+    "crosswalk": false,
+    "dist_signal_m": 225.08,
+    "image_id": "154057110054961"
+  },
+  {
+    "school_index": 174,
+    "school_name": "Bishops College",
+    "city": "Kolkata",
+    "traffic_light": true,
+    "max_confidence": 0.609,
+    "crosswalk": true,
+    "dist_signal_m": 136.93,
+    "image_id": "274111224380100"
+  },
+  {
+    "school_index": 175,
+    "school_name": "Lady Brabourne College",
+    "city": "Kolkata",
+    "traffic_light": true,
+    "max_confidence": 0.37,
+    "crosswalk": false,
+    "dist_signal_m": 344.25,
+    "image_id": "301401118110100"
+  },
+  {
+    "school_index": 176,
+    "school_name": "La Martinere For Girls",
+    "city": "Kolkata",
+    "traffic_light": true,
+    "max_confidence": 0.319,
+    "crosswalk": false,
+    "dist_signal_m": 86.6,
+    "image_id": "1383045528710030"
+  },
+  {
+    "school_index": 177,
+    "school_name": "Harrow Hall",
+    "city": "Kolkata",
+    "traffic_light": true,
+    "max_confidence": 0.3,
+    "crosswalk": false,
+    "dist_signal_m": 164.64,
+    "image_id": "473510807063980"
+  },
+  {
+    "school_index": 178,
+    "school_name": "Armenian College",
+    "city": "Kolkata",
+    "traffic_light": true,
+    "max_confidence": 0.317,
+    "crosswalk": false,
+    "dist_signal_m": 253.24,
+    "image_id": "215520700075728"
+  },
+  {
+    "school_index": 179,
+    "school_name": "Saint Anthony'S High School",
+    "city": "Kolkata",
+    "traffic_light": true,
+    "max_confidence": 0.312,
+    "crosswalk": false,
+    "dist_signal_m": 106.77,
+    "image_id": "2929332580688559"
+  },
+  {
+    "school_index": 180,
+    "school_name": "Saint Xavier'S Collegiate School",
+    "city": "Kolkata",
+    "traffic_light": true,
+    "max_confidence": 0.428,
+    "crosswalk": true,
+    "dist_signal_m": 220.46,
+    "image_id": "914563605996674"
+  },
+  {
+    "school_index": 181,
+    "school_name": "Albany Hall School",
+    "city": "Kolkata",
+    "traffic_light": true,
+    "max_confidence": 0.331,
+    "crosswalk": false,
+    "dist_signal_m": 506.47,
+    "image_id": "482309246321058"
+  },
+  {
+    "school_index": 182,
+    "school_name": "St James' School",
+    "city": "Kolkata",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 183,
+    "school_name": "West Bengal Urdu Academy",
+    "city": "Kolkata",
+    "traffic_light": true,
+    "max_confidence": 0.343,
+    "crosswalk": false,
+    "dist_signal_m": 488.89,
+    "image_id": "917480279034507"
+  },
+  {
+    "school_index": 184,
+    "school_name": "Calcutta Boys School",
+    "city": "Kolkata",
+    "traffic_light": true,
+    "max_confidence": 0.309,
+    "crosswalk": false,
+    "dist_signal_m": 565.88,
+    "image_id": "1587269925222481"
+  },
+  {
+    "school_index": 185,
+    "school_name": "Calcutta National Medical College",
+    "city": "Kolkata",
+    "traffic_light": true,
+    "max_confidence": 0.523,
+    "crosswalk": true,
+    "dist_signal_m": 489.83,
+    "image_id": "475573233521526"
+  },
+  {
+    "school_index": 186,
+    "school_name": "Kazi Nazrul Islam School",
+    "city": "Kolkata",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 187,
+    "school_name": "Don Bosco",
+    "city": "Kolkata",
+    "traffic_light": true,
+    "max_confidence": 0.373,
+    "crosswalk": false,
+    "dist_signal_m": 526.43,
+    "image_id": "287547946353144"
+  },
+  {
+    "school_index": 188,
+    "school_name": "Don Bosco Technical Institute",
+    "city": "Kolkata",
+    "traffic_light": true,
+    "max_confidence": 0.373,
+    "crosswalk": false,
+    "dist_signal_m": 602.12,
+    "image_id": "287547946353144"
+  },
+  {
+    "school_index": 189,
+    "school_name": "Holy Cross School",
+    "city": "Kolkata",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 190,
+    "school_name": "Holy Child Sch",
+    "city": "Kolkata",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 191,
+    "school_name": "Loreto Convent School",
+    "city": "Kolkata",
+    "traffic_light": true,
+    "max_confidence": 0.599,
+    "crosswalk": true,
+    "dist_signal_m": 574.3,
+    "image_id": "161529009154575"
+  },
+  {
+    "school_index": 192,
+    "school_name": "Nikita Don Bosco School",
+    "city": "Kolkata",
+    "traffic_light": true,
+    "max_confidence": 0.377,
+    "crosswalk": false,
+    "dist_signal_m": 632.6,
+    "image_id": "471339534194462"
+  },
+  {
+    "school_index": 193,
+    "school_name": "Bhutnath Mahamaya School",
+    "city": "Kolkata",
+    "traffic_light": true,
+    "max_confidence": 0.377,
+    "crosswalk": false,
+    "dist_signal_m": 585.51,
+    "image_id": "471339534194462"
+  },
+  {
+    "school_index": 194,
+    "school_name": "Panchsayar Siksha Niketan",
+    "city": "Kolkata",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 195,
+    "school_name": "Dps",
+    "city": "Kolkata",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 196,
+    "school_name": "Jadavpur University",
+    "city": "Kolkata",
+    "traffic_light": true,
+    "max_confidence": 0.301,
+    "crosswalk": false,
+    "dist_signal_m": 409.91,
+    "image_id": "466101064455796"
+  },
+  {
+    "school_index": 197,
+    "school_name": "Government College Of Engineering And Technology",
+    "city": "Kolkata",
+    "traffic_light": true,
+    "max_confidence": 0.537,
+    "crosswalk": true,
+    "dist_signal_m": 253.06,
+    "image_id": "508347063684979"
+  },
+  {
+    "school_index": 198,
+    "school_name": "West Bengal National University Of Juridical Sciences",
+    "city": "Kolkata",
+    "traffic_light": true,
+    "max_confidence": 0.686,
+    "crosswalk": true,
+    "dist_signal_m": 286.71,
+    "image_id": "1065668540626891"
+  },
+  {
+    "school_index": 199,
+    "school_name": "Sukantanagar Vidyaniketan School",
+    "city": "Kolkata",
+    "traffic_light": true,
+    "max_confidence": 0.537,
+    "crosswalk": true,
+    "dist_signal_m": 470.81,
+    "image_id": "508347063684979"
+  },
+  {
+    "school_index": 200,
+    "school_name": "Vivekananda School",
+    "city": "Kolkata",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 201,
+    "school_name": "Hvi Play Ground",
+    "city": "Kolkata",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 202,
+    "school_name": "Dinabandhu Institution Main",
+    "city": "Kolkata",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 203,
+    "school_name": "Hindu Girl'S School",
+    "city": "Kolkata",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 204,
+    "school_name": "Tiny Tots Kindergarten School",
+    "city": "Kolkata",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 205,
+    "school_name": "Prasanna Kumari Balika Sikshalaya",
+    "city": "Kolkata",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 206,
+    "school_name": "Honey Bee Kindergarten School",
+    "city": "Kolkata",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 207,
+    "school_name": "B K Paul'S Institution",
+    "city": "Kolkata",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 208,
+    "school_name": "Hvi Boro Bari",
+    "city": "Kolkata",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 209,
+    "school_name": "Hvi Choto Bari",
+    "city": "Kolkata",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 210,
+    "school_name": "Heritage Academy",
+    "city": "Kolkata",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 211,
+    "school_name": "Bijay Krishna Girls College",
+    "city": "Kolkata",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 212,
+    "school_name": "Surendranath Law College",
+    "city": "Kolkata",
+    "traffic_light": true,
+    "max_confidence": 0.253,
+    "crosswalk": false,
+    "dist_signal_m": 393.99,
+    "image_id": "799756910977777"
+  },
+  {
+    "school_index": 213,
+    "school_name": "Bangabhashi College",
+    "city": "Kolkata",
+    "traffic_light": true,
+    "max_confidence": 0.332,
+    "crosswalk": false,
+    "dist_signal_m": 440.01,
+    "image_id": "247647230429948"
+  },
+  {
+    "school_index": 214,
+    "school_name": "Tantia High School",
+    "city": "Kolkata",
+    "traffic_light": true,
+    "max_confidence": 0.551,
+    "crosswalk": true,
+    "dist_signal_m": 58.2,
+    "image_id": "1143619969446672"
+  },
+  {
+    "school_index": 215,
+    "school_name": "Hare School",
+    "city": "Kolkata",
+    "traffic_light": true,
+    "max_confidence": 0.551,
+    "crosswalk": true,
+    "dist_signal_m": 344.46,
+    "image_id": "1143619969446672"
+  },
+  {
+    "school_index": 216,
+    "school_name": "University Of Calcutta College Street Campus",
+    "city": "Kolkata",
+    "traffic_light": true,
+    "max_confidence": 0.839,
+    "crosswalk": true,
+    "dist_signal_m": 325.22,
+    "image_id": "153637263393479"
+  },
+  {
+    "school_index": 217,
+    "school_name": "Taki House Govt Sponsored Multipurpose School For Boys",
+    "city": "Kolkata",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 218,
+    "school_name": "Calcutta Boys' School",
+    "city": "Kolkata",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 219,
+    "school_name": "Gurudas College Ground",
+    "city": "Kolkata",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 220,
+    "school_name": "University Of Calcutta Rajabazar Science College Campus",
+    "city": "Kolkata",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 221,
+    "school_name": "Mukul Bithi School",
+    "city": "Kolkata",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 222,
+    "school_name": "Bagmari Manicktala Higher Secondary School",
+    "city": "Kolkata",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 223,
+    "school_name": "Bethune Collegiate School",
+    "city": "Kolkata",
+    "traffic_light": true,
+    "max_confidence": 0.295,
+    "crosswalk": false,
+    "dist_signal_m": 463.32,
+    "image_id": "1428593017518597"
+  },
+  {
+    "school_index": 224,
+    "school_name": "Shyambazar Av English School",
+    "city": "Kolkata",
+    "traffic_light": true,
+    "max_confidence": 0.554,
+    "crosswalk": true,
+    "dist_signal_m": 23.56,
+    "image_id": "2669007740058276"
+  },
+  {
+    "school_index": 225,
+    "school_name": "Ultadanga Government Sponsored Higher Secondary School For Girls",
+    "city": "Kolkata",
+    "traffic_light": true,
+    "max_confidence": 0.461,
+    "crosswalk": true,
+    "dist_signal_m": 224.78,
+    "image_id": "1393990770968441"
+  },
+  {
+    "school_index": 226,
+    "school_name": "Don Bosco School Liluah",
+    "city": "Kolkata",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 227,
+    "school_name": "Janata Hindi School",
+    "city": "Kolkata",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 228,
+    "school_name": "Iit Kharagpur Kolkata Campus",
+    "city": "Kolkata",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 229,
+    "school_name": "Calcutta University Technology Campus",
+    "city": "Kolkata",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 230,
+    "school_name": "Sn Bose National Centre For Basic Schiences",
+    "city": "Kolkata",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 231,
+    "school_name": "Iisd",
+    "city": "Kolkata",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 232,
+    "school_name": "Kendriya Vidyalaya",
+    "city": "Kolkata",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 233,
+    "school_name": "Bhavan'S Gangabux Kanoria Vidyamandir",
+    "city": "Kolkata",
+    "traffic_light": true,
+    "max_confidence": 0.88,
+    "crosswalk": true,
+    "dist_signal_m": 579.39,
+    "image_id": "145987890876049"
+  },
+  {
+    "school_index": 234,
+    "school_name": "Salt Lake School",
+    "city": "Kolkata",
+    "traffic_light": true,
+    "max_confidence": 0.642,
+    "crosswalk": true,
+    "dist_signal_m": 105.99,
+    "image_id": "272302471254394"
+  },
+  {
+    "school_index": 235,
+    "school_name": "Indian Institute Of Science Education And Research",
+    "city": "Kolkata",
+    "traffic_light": true,
+    "max_confidence": 0.767,
+    "crosswalk": true,
+    "dist_signal_m": 144.1,
+    "image_id": "1804229359738122"
+  },
+  {
+    "school_index": 236,
+    "school_name": "Kendriya Vidyalaya Saltlake No 1",
+    "city": "Kolkata",
+    "traffic_light": true,
+    "max_confidence": 0.295,
+    "crosswalk": false,
+    "dist_signal_m": 211.18,
+    "image_id": "378783016801073"
+  },
+  {
+    "school_index": 237,
+    "school_name": "Administrative Training Institute",
+    "city": "Kolkata",
+    "traffic_light": true,
+    "max_confidence": 0.767,
+    "crosswalk": true,
+    "dist_signal_m": 403.35,
+    "image_id": "1804229359738122"
+  },
+  {
+    "school_index": 238,
+    "school_name": "Bubble Blue",
+    "city": "Kolkata",
+    "traffic_light": true,
+    "max_confidence": 0.504,
+    "crosswalk": true,
+    "dist_signal_m": 439.85,
+    "image_id": "274377164369476"
+  },
+  {
+    "school_index": 239,
+    "school_name": "Laban Hrad Vidyapeeth",
+    "city": "Kolkata",
+    "traffic_light": true,
+    "max_confidence": 0.295,
+    "crosswalk": false,
+    "dist_signal_m": 454.46,
+    "image_id": "378783016801073"
+  },
+  {
+    "school_index": 240,
+    "school_name": "Central Staff Training And Research Institute Hostel",
+    "city": "Kolkata",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 241,
+    "school_name": "Roopkala Kendro",
+    "city": "Kolkata",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 242,
+    "school_name": "Brainware Business School",
+    "city": "Kolkata",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 243,
+    "school_name": "Institute Of Engineering And Management",
+    "city": "Kolkata",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 244,
+    "school_name": "Rabindra Bharati University",
+    "city": "Kolkata",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 245,
+    "school_name": "Hariyana Vidya Mandir",
+    "city": "Kolkata",
+    "traffic_light": true,
+    "max_confidence": 0.408,
+    "crosswalk": true,
+    "dist_signal_m": 254.62,
+    "image_id": "295051175404363"
+  },
+  {
+    "school_index": 246,
+    "school_name": "Laban Hrad Bidya Pith",
+    "city": "Kolkata",
+    "traffic_light": true,
+    "max_confidence": 0.334,
+    "crosswalk": false,
+    "dist_signal_m": 199.92,
+    "image_id": "1917079215128043"
+  },
+  {
+    "school_index": 247,
+    "school_name": "Bd Ground",
+    "city": "Kolkata",
+    "traffic_light": true,
+    "max_confidence": 0.481,
+    "crosswalk": true,
+    "dist_signal_m": 286.07,
+    "image_id": "460098661945415"
+  },
+  {
+    "school_index": 248,
+    "school_name": "Inter National Institute Of Fashion Design",
+    "city": "Kolkata",
+    "traffic_light": true,
+    "max_confidence": 0.481,
+    "crosswalk": true,
+    "dist_signal_m": 59.96,
+    "image_id": "460098661945415"
+  },
+  {
+    "school_index": 249,
+    "school_name": "Nightingale Institute Of Management Studies",
+    "city": "Kolkata",
+    "traffic_light": true,
+    "max_confidence": 0.481,
+    "crosswalk": true,
+    "dist_signal_m": 66.24,
+    "image_id": "460098661945415"
+  },
+  {
+    "school_index": 250,
+    "school_name": "Laketown High School",
+    "city": "Kolkata",
+    "traffic_light": true,
+    "max_confidence": 0.877,
+    "crosswalk": true,
+    "dist_signal_m": 315.12,
+    "image_id": "1237012376754165"
+  },
+  {
+    "school_index": 251,
+    "school_name": "Narain Dass Bangur Memorial Multipurpose School",
+    "city": "Kolkata",
+    "traffic_light": true,
+    "max_confidence": 0.58,
+    "crosswalk": true,
+    "dist_signal_m": 129.14,
+    "image_id": "324906442313857"
+  },
+  {
+    "school_index": 252,
+    "school_name": "Phase I Building",
+    "city": "Kolkata",
+    "traffic_light": true,
+    "max_confidence": 0.755,
+    "crosswalk": true,
+    "dist_signal_m": 279.16,
+    "image_id": "780423706194051"
+  },
+  {
+    "school_index": 253,
+    "school_name": "Begum Ruqaya School",
+    "city": "Kolkata",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 254,
+    "school_name": "Apeejay School",
+    "city": "Kolkata",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 255,
+    "school_name": "Arobit Academy",
+    "city": "Kolkata",
+    "traffic_light": true,
+    "max_confidence": 0.692,
+    "crosswalk": true,
+    "dist_signal_m": 615.24,
+    "image_id": "310794600560383"
+  },
+  {
+    "school_index": 256,
+    "school_name": "Prafulla Kanan Deshapriya Vidyamandir",
+    "city": "Kolkata",
+    "traffic_light": true,
+    "max_confidence": 0.342,
+    "crosswalk": false,
+    "dist_signal_m": 88.45,
+    "image_id": "1308211699581641"
+  },
+  {
+    "school_index": 257,
+    "school_name": "Chattaranjan Colony Hindu Vidyapith",
+    "city": "Kolkata",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 258,
+    "school_name": "Salvation Army",
+    "city": "Kolkata",
+    "traffic_light": true,
+    "max_confidence": 0.841,
+    "crosswalk": true,
+    "dist_signal_m": 509.8,
+    "image_id": "2147576968717979"
+  },
+  {
+    "school_index": 259,
+    "school_name": "Nafar Chandra Balika Vidyalaya",
+    "city": "Kolkata",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 260,
+    "school_name": "Rcc Institute Of Information Technology",
+    "city": "Kolkata",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 261,
+    "school_name": "Bidhan Nagar Municipal School Hs",
+    "city": "Kolkata",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 262,
+    "school_name": "Dr Sudhir Chandra Sur Institute Of Technology And Sports Complex",
+    "city": "Kolkata",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  }
+]

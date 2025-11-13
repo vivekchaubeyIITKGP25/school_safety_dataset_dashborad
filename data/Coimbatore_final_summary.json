@@ -1,0 +1,2842 @@
+[
+  {
+    "school_index": 0,
+    "school_name": "San International College Of Arts And Science",
+    "city": "Coimbatore",
+    "traffic_light": true,
+    "max_confidence": 0.427,
+    "crosswalk": true,
+    "dist_signal_m": 401.24,
+    "image_id": "1638052546392533"
+  },
+  {
+    "school_index": 1,
+    "school_name": "Ajk College Of Nursing",
+    "city": "Coimbatore",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 2,
+    "school_name": "Nehru Institute Of Health Science",
+    "city": "Coimbatore",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 3,
+    "school_name": "Machenn Innovations",
+    "city": "Coimbatore",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 4,
+    "school_name": "Nehru Arts & Science College",
+    "city": "Coimbatore",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 5,
+    "school_name": "Nehru College Of Management",
+    "city": "Coimbatore",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 6,
+    "school_name": "Nehru Engg Block",
+    "city": "Coimbatore",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 7,
+    "school_name": "Department Of Criminology & Forensic Science",
+    "city": "Coimbatore",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 8,
+    "school_name": "Dj Academy Of Design And Management",
+    "city": "Coimbatore",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 9,
+    "school_name": "Hindusthan Institute Of Technology",
+    "city": "Coimbatore",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 10,
+    "school_name": "Hindusthan School Of Architecture",
+    "city": "Coimbatore",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 11,
+    "school_name": "Hindusthan Polytechnic College",
+    "city": "Coimbatore",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 12,
+    "school_name": "Sree Abirami College Of Pharmacy",
+    "city": "Coimbatore",
+    "traffic_light": true,
+    "max_confidence": 0.338,
+    "crosswalk": false,
+    "dist_signal_m": 122.77,
+    "image_id": "502594347446898"
+  },
+  {
+    "school_index": 13,
+    "school_name": "Kce Mba Block",
+    "city": "Coimbatore",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 14,
+    "school_name": "Mechanical Labs",
+    "city": "Coimbatore",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 15,
+    "school_name": "Government High School",
+    "city": "Coimbatore",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 16,
+    "school_name": "Krishna Engineering College",
+    "city": "Coimbatore",
+    "traffic_light": true,
+    "max_confidence": 0.507,
+    "crosswalk": true,
+    "dist_signal_m": 542.07,
+    "image_id": "910971386115315"
+  },
+  {
+    "school_index": 17,
+    "school_name": "Cse It Block",
+    "city": "Coimbatore",
+    "traffic_light": true,
+    "max_confidence": 0.507,
+    "crosswalk": true,
+    "dist_signal_m": 603.49,
+    "image_id": "910971386115315"
+  },
+  {
+    "school_index": 18,
+    "school_name": "Admin Block",
+    "city": "Coimbatore",
+    "traffic_light": true,
+    "max_confidence": 0.507,
+    "crosswalk": true,
+    "dist_signal_m": 511.61,
+    "image_id": "910971386115315"
+  },
+  {
+    "school_index": 19,
+    "school_name": "Civil Block",
+    "city": "Coimbatore",
+    "traffic_light": true,
+    "max_confidence": 0.507,
+    "crosswalk": true,
+    "dist_signal_m": 559.31,
+    "image_id": "910971386115315"
+  },
+  {
+    "school_index": 20,
+    "school_name": "Sri Krishna Arts And Science College",
+    "city": "Coimbatore",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 21,
+    "school_name": "Vasavi Vidyalaya",
+    "city": "Coimbatore",
+    "traffic_light": true,
+    "max_confidence": 0.563,
+    "crosswalk": true,
+    "dist_signal_m": 230.18,
+    "image_id": "3552311708208438"
+  },
+  {
+    "school_index": 22,
+    "school_name": "Presentation Convent",
+    "city": "Coimbatore",
+    "traffic_light": true,
+    "max_confidence": 0.314,
+    "crosswalk": false,
+    "dist_signal_m": 61.3,
+    "image_id": "1374070366298221"
+  },
+  {
+    "school_index": 23,
+    "school_name": "Corporation Girls High School",
+    "city": "Coimbatore",
+    "traffic_light": true,
+    "max_confidence": 0.386,
+    "crosswalk": false,
+    "dist_signal_m": 76.03,
+    "image_id": "1444816179209312"
+  },
+  {
+    "school_index": 24,
+    "school_name": "St Fathima'S School",
+    "city": "Coimbatore",
+    "traffic_light": true,
+    "max_confidence": 0.31,
+    "crosswalk": false,
+    "dist_signal_m": 83.5,
+    "image_id": "135839668487609"
+  },
+  {
+    "school_index": 25,
+    "school_name": "Tnau Play Ground",
+    "city": "Coimbatore",
+    "traffic_light": true,
+    "max_confidence": 0.327,
+    "crosswalk": false,
+    "dist_signal_m": 636.6,
+    "image_id": "314415623468783"
+  },
+  {
+    "school_index": 26,
+    "school_name": "Ece Department",
+    "city": "Coimbatore",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 27,
+    "school_name": "Corporation Boys High School",
+    "city": "Coimbatore",
+    "traffic_light": true,
+    "max_confidence": 0.63,
+    "crosswalk": true,
+    "dist_signal_m": 432.33,
+    "image_id": "835213954092678"
+  },
+  {
+    "school_index": 28,
+    "school_name": "Corporaton School For Deaf",
+    "city": "Coimbatore",
+    "traffic_light": true,
+    "max_confidence": 0.25,
+    "crosswalk": false,
+    "dist_signal_m": 520.45,
+    "image_id": "208405877481410"
+  },
+  {
+    "school_index": 29,
+    "school_name": "Bishop Ubagarm'S Primary School",
+    "city": "Coimbatore",
+    "traffic_light": true,
+    "max_confidence": 0.776,
+    "crosswalk": true,
+    "dist_signal_m": 112.88,
+    "image_id": "294343445477169"
+  },
+  {
+    "school_index": 30,
+    "school_name": "Vannamalar Institute Of Forest Genetics & Tree Breeding",
+    "city": "Coimbatore",
+    "traffic_light": true,
+    "max_confidence": 0.279,
+    "crosswalk": false,
+    "dist_signal_m": 178.23,
+    "image_id": "389789532068583"
+  },
+  {
+    "school_index": 31,
+    "school_name": "Srp Ponnuswamy Chettiar Sundrammal Vidhyalaya Matric School",
+    "city": "Coimbatore",
+    "traffic_light": true,
+    "max_confidence": 0.296,
+    "crosswalk": false,
+    "dist_signal_m": 247.74,
+    "image_id": "1762094163972304"
+  },
+  {
+    "school_index": 32,
+    "school_name": "Vidya Vriksha Play School",
+    "city": "Coimbatore",
+    "traffic_light": true,
+    "max_confidence": 0.563,
+    "crosswalk": true,
+    "dist_signal_m": 188.28,
+    "image_id": "497907654678452"
+  },
+  {
+    "school_index": 33,
+    "school_name": "Rs Puram Corporation Girls High School",
+    "city": "Coimbatore",
+    "traffic_light": true,
+    "max_confidence": 0.25,
+    "crosswalk": false,
+    "dist_signal_m": 71.49,
+    "image_id": "208405877481410"
+  },
+  {
+    "school_index": 34,
+    "school_name": "Kikani Higher Secondary School",
+    "city": "Coimbatore",
+    "traffic_light": true,
+    "max_confidence": 0.664,
+    "crosswalk": false,
+    "dist_signal_m": 335.37,
+    "image_id": "291575945795603"
+  },
+  {
+    "school_index": 35,
+    "school_name": "Kattur Municipal Elementary School",
+    "city": "Coimbatore",
+    "traffic_light": true,
+    "max_confidence": 0.798,
+    "crosswalk": true,
+    "dist_signal_m": 289.28,
+    "image_id": "1379825672403977"
+  },
+  {
+    "school_index": 36,
+    "school_name": "Suburban Higher Secondary School",
+    "city": "Coimbatore",
+    "traffic_light": true,
+    "max_confidence": 0.282,
+    "crosswalk": false,
+    "dist_signal_m": 529.2,
+    "image_id": "2056497667824560"
+  },
+  {
+    "school_index": 37,
+    "school_name": "V V Vani Vidhyalaya",
+    "city": "Coimbatore",
+    "traffic_light": true,
+    "max_confidence": 0.251,
+    "crosswalk": false,
+    "dist_signal_m": 105.76,
+    "image_id": "455719005727815"
+  },
+  {
+    "school_index": 38,
+    "school_name": "Ramalinga Chettiar School Govt Aided",
+    "city": "Coimbatore",
+    "traffic_light": true,
+    "max_confidence": 0.392,
+    "crosswalk": false,
+    "dist_signal_m": 208.43,
+    "image_id": "265164268669378"
+  },
+  {
+    "school_index": 39,
+    "school_name": "Angappa Hr Sec School Cbse",
+    "city": "Coimbatore",
+    "traffic_light": true,
+    "max_confidence": 0.392,
+    "crosswalk": false,
+    "dist_signal_m": 82.91,
+    "image_id": "265164268669378"
+  },
+  {
+    "school_index": 40,
+    "school_name": "Avinashilingam Vocational Training Institute",
+    "city": "Coimbatore",
+    "traffic_light": true,
+    "max_confidence": 0.57,
+    "crosswalk": true,
+    "dist_signal_m": 86.15,
+    "image_id": "3817695238316247"
+  },
+  {
+    "school_index": 41,
+    "school_name": "North Coimbatore Corporation Higher Secondary School",
+    "city": "Coimbatore",
+    "traffic_light": true,
+    "max_confidence": 0.802,
+    "crosswalk": true,
+    "dist_signal_m": 662.14,
+    "image_id": "1061074322273218"
+  },
+  {
+    "school_index": 42,
+    "school_name": "Coporation Girls Higher Secondary School",
+    "city": "Coimbatore",
+    "traffic_light": true,
+    "max_confidence": 0.398,
+    "crosswalk": false,
+    "dist_signal_m": 527.45,
+    "image_id": "1199539767167213"
+  },
+  {
+    "school_index": 43,
+    "school_name": "Corporation Elementary School",
+    "city": "Coimbatore",
+    "traffic_light": true,
+    "max_confidence": 0.282,
+    "crosswalk": false,
+    "dist_signal_m": 420.73,
+    "image_id": "2056497667824560"
+  },
+  {
+    "school_index": 44,
+    "school_name": "Karl Kubel Institute For Devlopment Education",
+    "city": "Coimbatore",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 45,
+    "school_name": "Bharathiyar University Complex",
+    "city": "Coimbatore",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 46,
+    "school_name": "Anna University Regional Campus Coimbatore",
+    "city": "Coimbatore",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 47,
+    "school_name": "Angappa Matric School",
+    "city": "Coimbatore",
+    "traffic_light": true,
+    "max_confidence": 0.313,
+    "crosswalk": false,
+    "dist_signal_m": 108.49,
+    "image_id": "812047682745766"
+  },
+  {
+    "school_index": 48,
+    "school_name": "Amrit Special Needs School",
+    "city": "Coimbatore",
+    "traffic_light": true,
+    "max_confidence": 0.253,
+    "crosswalk": false,
+    "dist_signal_m": 86.62,
+    "image_id": "2077091762432588"
+  },
+  {
+    "school_index": 49,
+    "school_name": "Ramasamy Matriculation School",
+    "city": "Coimbatore",
+    "traffic_light": true,
+    "max_confidence": 0.499,
+    "crosswalk": false,
+    "dist_signal_m": 346.94,
+    "image_id": "1418136055219497"
+  },
+  {
+    "school_index": 50,
+    "school_name": "Amrita Vidhyalayam Matriculation",
+    "city": "Coimbatore",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 51,
+    "school_name": "Yuvabharathi Cbse School",
+    "city": "Coimbatore",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 52,
+    "school_name": "Adhira International School",
+    "city": "Coimbatore",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 53,
+    "school_name": "Kongunadu Arts And Science College",
+    "city": "Coimbatore",
+    "traffic_light": true,
+    "max_confidence": 0.316,
+    "crosswalk": false,
+    "dist_signal_m": 434.26,
+    "image_id": "946074739509249"
+  },
+  {
+    "school_index": 54,
+    "school_name": "Vidya Vikashini Institutions",
+    "city": "Coimbatore",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 55,
+    "school_name": "Coimbatore Corporation Thudiyalur Middle School East",
+    "city": "Coimbatore",
+    "traffic_light": true,
+    "max_confidence": 0.411,
+    "crosswalk": true,
+    "dist_signal_m": 543.41,
+    "image_id": "1140045973166339"
+  },
+  {
+    "school_index": 56,
+    "school_name": "Sri Ramakrishna Engineering College Vatamalaipalayam Coimbatore",
+    "city": "Coimbatore",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 57,
+    "school_name": "Srec Bsc Block",
+    "city": "Coimbatore",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 58,
+    "school_name": "Rathinam Technical Campus",
+    "city": "Coimbatore",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 59,
+    "school_name": "Hcl Tech",
+    "city": "Coimbatore",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 60,
+    "school_name": "Rathinam College Of Arts & Science",
+    "city": "Coimbatore",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 61,
+    "school_name": "Rathinam Technopark",
+    "city": "Coimbatore",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 62,
+    "school_name": "St Michaels School",
+    "city": "Coimbatore",
+    "traffic_light": true,
+    "max_confidence": 0.688,
+    "crosswalk": true,
+    "dist_signal_m": 52.84,
+    "image_id": "496019838499142"
+  },
+  {
+    "school_index": 63,
+    "school_name": "Pg & Research Department Of Public Administration",
+    "city": "Coimbatore",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 64,
+    "school_name": "Government Arts College Autonomous Coimbatore-18",
+    "city": "Coimbatore",
+    "traffic_light": true,
+    "max_confidence": 0.485,
+    "crosswalk": true,
+    "dist_signal_m": 604.67,
+    "image_id": "333204201696401"
+  },
+  {
+    "school_index": 65,
+    "school_name": "Bishop Ambrose College",
+    "city": "Coimbatore",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 66,
+    "school_name": "Dhanvantri Kalakshetra",
+    "city": "Coimbatore",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 67,
+    "school_name": "Trinity Boys High School",
+    "city": "Coimbatore",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 68,
+    "school_name": "C S Academy Trichy Road Campus",
+    "city": "Coimbatore",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 69,
+    "school_name": "Stanes Higher Secondary School",
+    "city": "Coimbatore",
+    "traffic_light": true,
+    "max_confidence": 0.602,
+    "crosswalk": true,
+    "dist_signal_m": 266.7,
+    "image_id": "296549885348408"
+  },
+  {
+    "school_index": 70,
+    "school_name": "Gtti",
+    "city": "Coimbatore",
+    "traffic_light": true,
+    "max_confidence": 0.364,
+    "crosswalk": false,
+    "dist_signal_m": 633.07,
+    "image_id": "1850039861843885"
+  },
+  {
+    "school_index": 71,
+    "school_name": "Corporation Girls High School",
+    "city": "Coimbatore",
+    "traffic_light": true,
+    "max_confidence": 0.522,
+    "crosswalk": true,
+    "dist_signal_m": 635.14,
+    "image_id": "219833886258563"
+  },
+  {
+    "school_index": 72,
+    "school_name": "Government Women'S Polytechnic College",
+    "city": "Coimbatore",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 73,
+    "school_name": "Suguna Rip V School",
+    "city": "Coimbatore",
+    "traffic_light": true,
+    "max_confidence": 0.774,
+    "crosswalk": true,
+    "dist_signal_m": 234.76,
+    "image_id": "1503556626937555"
+  },
+  {
+    "school_index": 74,
+    "school_name": "Suguna International School",
+    "city": "Coimbatore",
+    "traffic_light": true,
+    "max_confidence": 0.338,
+    "crosswalk": false,
+    "dist_signal_m": 265.61,
+    "image_id": "379441978342736"
+  },
+  {
+    "school_index": 75,
+    "school_name": "St Mary'S Primary School",
+    "city": "Coimbatore",
+    "traffic_light": true,
+    "max_confidence": 0.26,
+    "crosswalk": false,
+    "dist_signal_m": 209.28,
+    "image_id": "516040504242605"
+  },
+  {
+    "school_index": 76,
+    "school_name": "Brindisi Matric Ir Sec School",
+    "city": "Coimbatore",
+    "traffic_light": true,
+    "max_confidence": 0.26,
+    "crosswalk": false,
+    "dist_signal_m": 272.01,
+    "image_id": "516040504242605"
+  },
+  {
+    "school_index": 77,
+    "school_name": "Sri Ramakrishna Arts And Science College For Womens",
+    "city": "Coimbatore",
+    "traffic_light": true,
+    "max_confidence": 0.417,
+    "crosswalk": true,
+    "dist_signal_m": 434.34,
+    "image_id": "1162346074190024"
+  },
+  {
+    "school_index": 78,
+    "school_name": "Ramakrishna Institute Of Pharamedical Sciences",
+    "city": "Coimbatore",
+    "traffic_light": true,
+    "max_confidence": 0.439,
+    "crosswalk": true,
+    "dist_signal_m": 474.56,
+    "image_id": "378005413535762"
+  },
+  {
+    "school_index": 79,
+    "school_name": "College Of Pharamacy",
+    "city": "Coimbatore",
+    "traffic_light": true,
+    "max_confidence": 0.439,
+    "crosswalk": true,
+    "dist_signal_m": 481.27,
+    "image_id": "378005413535762"
+  },
+  {
+    "school_index": 80,
+    "school_name": "Mani Higher Secondary School",
+    "city": "Coimbatore",
+    "traffic_light": true,
+    "max_confidence": 0.611,
+    "crosswalk": true,
+    "dist_signal_m": 394.38,
+    "image_id": "243015957599160"
+  },
+  {
+    "school_index": 81,
+    "school_name": "Sri Ramakrishna Matric Higher Secondary School",
+    "city": "Coimbatore",
+    "traffic_light": true,
+    "max_confidence": 0.342,
+    "crosswalk": false,
+    "dist_signal_m": 205.93,
+    "image_id": "152489233509246"
+  },
+  {
+    "school_index": 82,
+    "school_name": "Snr College Of Arts And Science",
+    "city": "Coimbatore",
+    "traffic_light": true,
+    "max_confidence": 0.39,
+    "crosswalk": false,
+    "dist_signal_m": 93.03,
+    "image_id": "222534992611736"
+  },
+  {
+    "school_index": 83,
+    "school_name": "Sri Ramakrishna Dental College",
+    "city": "Coimbatore",
+    "traffic_light": true,
+    "max_confidence": 0.39,
+    "crosswalk": false,
+    "dist_signal_m": 26.38,
+    "image_id": "222534992611736"
+  },
+  {
+    "school_index": 84,
+    "school_name": "Sri Ramakrishna College Of Arts & Science",
+    "city": "Coimbatore",
+    "traffic_light": true,
+    "max_confidence": 0.376,
+    "crosswalk": false,
+    "dist_signal_m": 129.05,
+    "image_id": "337522534370615"
+  },
+  {
+    "school_index": 85,
+    "school_name": "Krishnaswamy Nagar - Ganga Nagar Matriculation School",
+    "city": "Coimbatore",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 86,
+    "school_name": "Annai Velankanni Matriculation Higher Secondary School",
+    "city": "Coimbatore",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 87,
+    "school_name": "National Model Senior Secondary School",
+    "city": "Coimbatore",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 88,
+    "school_name": "Grg Matriculation Higher Secondary School",
+    "city": "Coimbatore",
+    "traffic_light": true,
+    "max_confidence": 0.475,
+    "crosswalk": true,
+    "dist_signal_m": 111.28,
+    "image_id": "1334697640242654"
+  },
+  {
+    "school_index": 89,
+    "school_name": "Prodigy International Montessori School",
+    "city": "Coimbatore",
+    "traffic_light": true,
+    "max_confidence": 0.322,
+    "crosswalk": false,
+    "dist_signal_m": 490.05,
+    "image_id": "211793287089723"
+  },
+  {
+    "school_index": 90,
+    "school_name": "Government Medical College",
+    "city": "Coimbatore",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 91,
+    "school_name": "Rvs College Of Engineering And Technology",
+    "city": "Coimbatore",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 92,
+    "school_name": "Cms Matriculation Higher Secondary School",
+    "city": "Coimbatore",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 93,
+    "school_name": "Grg School Of Management Studies",
+    "city": "Coimbatore",
+    "traffic_light": true,
+    "max_confidence": 0.276,
+    "crosswalk": false,
+    "dist_signal_m": 466.23,
+    "image_id": "327142395637930"
+  },
+  {
+    "school_index": 94,
+    "school_name": "Kaumaram Sushila International Residential School",
+    "city": "Coimbatore",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 95,
+    "school_name": "Kaumaram Prashanthi Academy",
+    "city": "Coimbatore",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 96,
+    "school_name": "Kumaraguru College Of Technology",
+    "city": "Coimbatore",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 97,
+    "school_name": "Saravanampatty Elementary School",
+    "city": "Coimbatore",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 98,
+    "school_name": "Government School",
+    "city": "Coimbatore",
+    "traffic_light": true,
+    "max_confidence": 0.565,
+    "crosswalk": true,
+    "dist_signal_m": 47.26,
+    "image_id": "177621037481006"
+  },
+  {
+    "school_index": 99,
+    "school_name": "Reeds World School",
+    "city": "Coimbatore",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 100,
+    "school_name": "Srec Eeee Ece Lab",
+    "city": "Coimbatore",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 101,
+    "school_name": "Sri Ramakrishna Engineering College Main Block",
+    "city": "Coimbatore",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 102,
+    "school_name": "Kg College Of Arts And Science",
+    "city": "Coimbatore",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 103,
+    "school_name": "Sri Praganya Academy",
+    "city": "Coimbatore",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 104,
+    "school_name": "Seaskills Maritime Academy",
+    "city": "Coimbatore",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 105,
+    "school_name": "Vimal Jothi Convent School",
+    "city": "Coimbatore",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 106,
+    "school_name": "United Physically Handicapped School",
+    "city": "Coimbatore",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 107,
+    "school_name": "Kv Institute Of Management And Information Studies",
+    "city": "Coimbatore",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 108,
+    "school_name": "The Ideal Mount Litera Zee School",
+    "city": "Coimbatore",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 109,
+    "school_name": "Kv Matriculation Higher Secondary School",
+    "city": "Coimbatore",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 110,
+    "school_name": "Grd College Of Education",
+    "city": "Coimbatore",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 111,
+    "school_name": "Swami Shivanandha High School",
+    "city": "Coimbatore",
+    "traffic_light": true,
+    "max_confidence": 0.273,
+    "crosswalk": false,
+    "dist_signal_m": 166.95,
+    "image_id": "1205716956544134"
+  },
+  {
+    "school_index": 112,
+    "school_name": "Star Kids Pre School",
+    "city": "Coimbatore",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 113,
+    "school_name": "Vivekananda Institute Of Management Studies",
+    "city": "Coimbatore",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 114,
+    "school_name": "Walayar Lekshamveedu Colony",
+    "city": "Coimbatore",
+    "traffic_light": true,
+    "max_confidence": 0.51,
+    "crosswalk": true,
+    "dist_signal_m": 659.03,
+    "image_id": "485751152629178"
+  },
+  {
+    "school_index": 115,
+    "school_name": "San Academy Of Architecture",
+    "city": "Coimbatore",
+    "traffic_light": true,
+    "max_confidence": 0.427,
+    "crosswalk": true,
+    "dist_signal_m": 487.35,
+    "image_id": "1638052546392533"
+  },
+  {
+    "school_index": 116,
+    "school_name": "Ajk College Of Arts & Science",
+    "city": "Coimbatore",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 117,
+    "school_name": "Dhanalaxmi Srinivasan College Of Engineering Navakkarai Coimbatore",
+    "city": "Coimbatore",
+    "traffic_light": true,
+    "max_confidence": 0.386,
+    "crosswalk": false,
+    "dist_signal_m": 226.9,
+    "image_id": "767583493806857"
+  },
+  {
+    "school_index": 118,
+    "school_name": "Ellen College Of Nursing",
+    "city": "Coimbatore",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 119,
+    "school_name": "Jss Institute Of Naturopathy",
+    "city": "Coimbatore",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 120,
+    "school_name": "Guruvayurappan Institute Of Management",
+    "city": "Coimbatore",
+    "traffic_light": true,
+    "max_confidence": 0.346,
+    "crosswalk": false,
+    "dist_signal_m": 209.28,
+    "image_id": "1029133364159645"
+  },
+  {
+    "school_index": 121,
+    "school_name": "Easa College Of Engg & Technology",
+    "city": "Coimbatore",
+    "traffic_light": true,
+    "max_confidence": 0.272,
+    "crosswalk": false,
+    "dist_signal_m": 511.27,
+    "image_id": "301398244850761"
+  },
+  {
+    "school_index": 122,
+    "school_name": "Nehru Institute Of Engineering And Technology",
+    "city": "Coimbatore",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 123,
+    "school_name": "Nehru Institute Of Technology",
+    "city": "Coimbatore",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 124,
+    "school_name": "Nehru Outbound For Leadership Excellence",
+    "city": "Coimbatore",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 125,
+    "school_name": "Nehru International School",
+    "city": "Coimbatore",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 126,
+    "school_name": "Sree Narayana Guru Institute Of Management",
+    "city": "Coimbatore",
+    "traffic_light": true,
+    "max_confidence": 0.284,
+    "crosswalk": false,
+    "dist_signal_m": 273.05,
+    "image_id": "1384438058587326"
+  },
+  {
+    "school_index": 127,
+    "school_name": "Sree Narayana Guru College",
+    "city": "Coimbatore",
+    "traffic_light": true,
+    "max_confidence": 0.355,
+    "crosswalk": false,
+    "dist_signal_m": 245.3,
+    "image_id": "568193600819373"
+  },
+  {
+    "school_index": 128,
+    "school_name": "Western Ghats International School",
+    "city": "Coimbatore",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 129,
+    "school_name": "Sri Venketeswara College Of Computer",
+    "city": "Coimbatore",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 130,
+    "school_name": "Amrita Vidyalayam - Ettimadai",
+    "city": "Coimbatore",
+    "traffic_light": true,
+    "max_confidence": 0.271,
+    "crosswalk": false,
+    "dist_signal_m": 280.75,
+    "image_id": "224102129098383"
+  },
+  {
+    "school_index": 131,
+    "school_name": "Amrita Vishwa Vidyapeetham",
+    "city": "Coimbatore",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 132,
+    "school_name": "Kaliyapuram Government School",
+    "city": "Coimbatore",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 133,
+    "school_name": "St Ann'S Matric Hr Sec School",
+    "city": "Coimbatore",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 134,
+    "school_name": "Capital College Of Architecture",
+    "city": "Coimbatore",
+    "traffic_light": true,
+    "max_confidence": 0.464,
+    "crosswalk": true,
+    "dist_signal_m": 133.94,
+    "image_id": "308871934018837"
+  },
+  {
+    "school_index": 135,
+    "school_name": "Nightingale Institute Of Nursing",
+    "city": "Coimbatore",
+    "traffic_light": true,
+    "max_confidence": 0.339,
+    "crosswalk": false,
+    "dist_signal_m": 353.68,
+    "image_id": "318308906323751"
+  },
+  {
+    "school_index": 136,
+    "school_name": "Vsb College Of Engineering Technical Campus Coimbatore",
+    "city": "Coimbatore",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 137,
+    "school_name": "Vivek Vidyalaya Matric Hr Sec School",
+    "city": "Coimbatore",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 138,
+    "school_name": "Vivek Vidya Mandir",
+    "city": "Coimbatore",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 139,
+    "school_name": "Coimbature Marine College",
+    "city": "Coimbatore",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 140,
+    "school_name": "Sasi Creative School For Architecture",
+    "city": "Coimbatore",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 141,
+    "school_name": "Good Shepherd Seminary",
+    "city": "Coimbatore",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 142,
+    "school_name": "Amrita Vishwa Vidyapeetham",
+    "city": "Coimbatore",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 143,
+    "school_name": "Vedanta Academy Cbse School",
+    "city": "Coimbatore",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 144,
+    "school_name": "Angappa College Of Arts & Science",
+    "city": "Coimbatore",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 145,
+    "school_name": "Dr V G N M H S S",
+    "city": "Coimbatore",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 146,
+    "school_name": "Karpagam College Of Engineering",
+    "city": "Coimbatore",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 147,
+    "school_name": "Karpagam Medical College & Hospital",
+    "city": "Coimbatore",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 148,
+    "school_name": "Karpagam Institute Of Technology",
+    "city": "Coimbatore",
+    "traffic_light": true,
+    "max_confidence": 0.672,
+    "crosswalk": true,
+    "dist_signal_m": 291.71,
+    "image_id": "986802178755590"
+  },
+  {
+    "school_index": 149,
+    "school_name": "Karpagam Play Grounds",
+    "city": "Coimbatore",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 150,
+    "school_name": "Govt Higher Secondary School",
+    "city": "Coimbatore",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 151,
+    "school_name": "Karpagam Polytechnic College",
+    "city": "Coimbatore",
+    "traffic_light": true,
+    "max_confidence": 0.815,
+    "crosswalk": true,
+    "dist_signal_m": 355.5,
+    "image_id": "183884440271948"
+  },
+  {
+    "school_index": 152,
+    "school_name": "Karpagam Academy Of Higher Education",
+    "city": "Coimbatore",
+    "traffic_light": true,
+    "max_confidence": 0.463,
+    "crosswalk": true,
+    "dist_signal_m": 186.12,
+    "image_id": "953051722164870"
+  },
+  {
+    "school_index": 153,
+    "school_name": "Shri Nehru Mahavidyalaya College Of Arts & Science",
+    "city": "Coimbatore",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 154,
+    "school_name": "Global Pathways International School",
+    "city": "Coimbatore",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 155,
+    "school_name": "Sri Krishna College Of Technology",
+    "city": "Coimbatore",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 156,
+    "school_name": "C S Academy International School",
+    "city": "Coimbatore",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 157,
+    "school_name": "Cbm College",
+    "city": "Coimbatore",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 158,
+    "school_name": "Sri Krishna College Of Engineering",
+    "city": "Coimbatore",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 159,
+    "school_name": "Peepal Prodigy Senior Secondary School",
+    "city": "Coimbatore",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 160,
+    "school_name": "Vlb College Of Arts And Science",
+    "city": "Coimbatore",
+    "traffic_light": true,
+    "max_confidence": 0.514,
+    "crosswalk": false,
+    "dist_signal_m": 285.4,
+    "image_id": "511410106660983"
+  },
+  {
+    "school_index": 161,
+    "school_name": "Vlb School",
+    "city": "Coimbatore",
+    "traffic_light": true,
+    "max_confidence": 0.322,
+    "crosswalk": false,
+    "dist_signal_m": 568.71,
+    "image_id": "3727387777369514"
+  },
+  {
+    "school_index": 162,
+    "school_name": "Government Higher Secondary School",
+    "city": "Coimbatore",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 163,
+    "school_name": "Asharam Matriculation Higher Secondary School",
+    "city": "Coimbatore",
+    "traffic_light": true,
+    "max_confidence": 0.278,
+    "crosswalk": false,
+    "dist_signal_m": 205.97,
+    "image_id": "511213036722814"
+  },
+  {
+    "school_index": 164,
+    "school_name": "Vidhyashram Play School",
+    "city": "Coimbatore",
+    "traffic_light": true,
+    "max_confidence": 0.278,
+    "crosswalk": false,
+    "dist_signal_m": 509.26,
+    "image_id": "511213036722814"
+  },
+  {
+    "school_index": 165,
+    "school_name": "Rkv Secondary School-Pirivu",
+    "city": "Coimbatore",
+    "traffic_light": true,
+    "max_confidence": 0.303,
+    "crosswalk": false,
+    "dist_signal_m": 156.36,
+    "image_id": "488374905817769"
+  },
+  {
+    "school_index": 166,
+    "school_name": "Nirmala Madha Metriculation Higher Secondary School",
+    "city": "Coimbatore",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 167,
+    "school_name": "Nehru College Of Aeronautics & Applied Science",
+    "city": "Coimbatore",
+    "traffic_light": true,
+    "max_confidence": 0.29,
+    "crosswalk": false,
+    "dist_signal_m": 156.38,
+    "image_id": "1175622112880788"
+  },
+  {
+    "school_index": 168,
+    "school_name": "Harvee School",
+    "city": "Coimbatore",
+    "traffic_light": true,
+    "max_confidence": 0.262,
+    "crosswalk": false,
+    "dist_signal_m": 201.44,
+    "image_id": "893527957863330"
+  },
+  {
+    "school_index": 169,
+    "school_name": "Kuniamuthur High School",
+    "city": "Coimbatore",
+    "traffic_light": true,
+    "max_confidence": 0.514,
+    "crosswalk": true,
+    "dist_signal_m": 160.8,
+    "image_id": "823309945268139"
+  },
+  {
+    "school_index": 170,
+    "school_name": "Delhi Public School Coimbatore",
+    "city": "Coimbatore",
+    "traffic_light": true,
+    "max_confidence": 0.278,
+    "crosswalk": false,
+    "dist_signal_m": 492.7,
+    "image_id": "331384981736058"
+  },
+  {
+    "school_index": 171,
+    "school_name": "Chinmaya Vidyalaya",
+    "city": "Coimbatore",
+    "traffic_light": true,
+    "max_confidence": 0.383,
+    "crosswalk": false,
+    "dist_signal_m": 602.81,
+    "image_id": "299640675002356"
+  },
+  {
+    "school_index": 172,
+    "school_name": "Marudhamalai Subramaniya Swamy Devasthana Higher Secondary School",
+    "city": "Coimbatore",
+    "traffic_light": true,
+    "max_confidence": 0.429,
+    "crosswalk": true,
+    "dist_signal_m": 469.52,
+    "image_id": "258446502734139"
+  },
+  {
+    "school_index": 173,
+    "school_name": "Tamilnadu Forest Academy",
+    "city": "Coimbatore",
+    "traffic_light": true,
+    "max_confidence": 0.296,
+    "crosswalk": false,
+    "dist_signal_m": 290.21,
+    "image_id": "1762094163972304"
+  },
+  {
+    "school_index": 174,
+    "school_name": "Sms College Of Arts & Science",
+    "city": "Coimbatore",
+    "traffic_light": true,
+    "max_confidence": 0.361,
+    "crosswalk": false,
+    "dist_signal_m": 94.07,
+    "image_id": "1382945665394964"
+  },
+  {
+    "school_index": 175,
+    "school_name": "Sboa Matriculation Higher Secondary School",
+    "city": "Coimbatore",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 176,
+    "school_name": "G D Matriculation Higher Secondary School",
+    "city": "Coimbatore",
+    "traffic_light": true,
+    "max_confidence": 0.289,
+    "crosswalk": false,
+    "dist_signal_m": 447.33,
+    "image_id": "136320281850834"
+  },
+  {
+    "school_index": 177,
+    "school_name": "Csi Church Of South India Boys Higher Secondary School",
+    "city": "Coimbatore",
+    "traffic_light": true,
+    "max_confidence": 0.273,
+    "crosswalk": false,
+    "dist_signal_m": 579.78,
+    "image_id": "945913772850367"
+  },
+  {
+    "school_index": 178,
+    "school_name": "Govt Womens Arts College",
+    "city": "Coimbatore",
+    "traffic_light": true,
+    "max_confidence": 0.31,
+    "crosswalk": false,
+    "dist_signal_m": 84.06,
+    "image_id": "135839668487609"
+  },
+  {
+    "school_index": 179,
+    "school_name": "Social Service League Ssl",
+    "city": "Coimbatore",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 180,
+    "school_name": "Govt College Of Technology",
+    "city": "Coimbatore",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 181,
+    "school_name": "Avila Convent Matriculation Higher Secondary School",
+    "city": "Coimbatore",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 182,
+    "school_name": "Bharathi Matri Hr Sec School",
+    "city": "Coimbatore",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 183,
+    "school_name": "Nehru Maha Vidhyalaya",
+    "city": "Coimbatore",
+    "traffic_light": true,
+    "max_confidence": 0.253,
+    "crosswalk": false,
+    "dist_signal_m": 189.97,
+    "image_id": "159086592798703"
+  },
+  {
+    "school_index": 184,
+    "school_name": "Bharathiya Vidya Bhavan Matric Higher Secondary",
+    "city": "Coimbatore",
+    "traffic_light": true,
+    "max_confidence": 0.278,
+    "crosswalk": false,
+    "dist_signal_m": 239.61,
+    "image_id": "807528573517157"
+  },
+  {
+    "school_index": 185,
+    "school_name": "Devanga High School",
+    "city": "Coimbatore",
+    "traffic_light": true,
+    "max_confidence": 0.687,
+    "crosswalk": true,
+    "dist_signal_m": 523.81,
+    "image_id": "746101596067102"
+  },
+  {
+    "school_index": 186,
+    "school_name": "Seventh Day Adventist Matriculation School",
+    "city": "Coimbatore",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 187,
+    "school_name": "Institute Of Forest Genetics & Tree Breeding Ifgtb",
+    "city": "Coimbatore",
+    "traffic_light": true,
+    "max_confidence": 0.657,
+    "crosswalk": true,
+    "dist_signal_m": 609.88,
+    "image_id": "1155543888881324"
+  },
+  {
+    "school_index": 188,
+    "school_name": "Avinasilingam Deemed University For Home Sciences",
+    "city": "Coimbatore",
+    "traffic_light": true,
+    "max_confidence": 0.278,
+    "crosswalk": false,
+    "dist_signal_m": 499.49,
+    "image_id": "807528573517157"
+  },
+  {
+    "school_index": 189,
+    "school_name": "Lisieux Matriculation Higher Secondary School",
+    "city": "Coimbatore",
+    "traffic_light": true,
+    "max_confidence": 0.392,
+    "crosswalk": false,
+    "dist_signal_m": 427.07,
+    "image_id": "265164268669378"
+  },
+  {
+    "school_index": 190,
+    "school_name": "Ramalinga Chettiar Hr Sec School",
+    "city": "Coimbatore",
+    "traffic_light": true,
+    "max_confidence": 0.392,
+    "crosswalk": false,
+    "dist_signal_m": 261.73,
+    "image_id": "265164268669378"
+  },
+  {
+    "school_index": 191,
+    "school_name": "Ramalingam Primary School",
+    "city": "Coimbatore",
+    "traffic_light": true,
+    "max_confidence": 0.594,
+    "crosswalk": true,
+    "dist_signal_m": 175.65,
+    "image_id": "757613641601154"
+  },
+  {
+    "school_index": 192,
+    "school_name": "Kovai Linux Centre",
+    "city": "Coimbatore",
+    "traffic_light": true,
+    "max_confidence": 0.262,
+    "crosswalk": false,
+    "dist_signal_m": 225.28,
+    "image_id": "168224428429127"
+  },
+  {
+    "school_index": 193,
+    "school_name": "Bharathiar University",
+    "city": "Coimbatore",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 194,
+    "school_name": "Coimbatore Corporation Primary School",
+    "city": "Coimbatore",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 195,
+    "school_name": "Law College Hostel",
+    "city": "Coimbatore",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 196,
+    "school_name": "Government Law College Coimbatore",
+    "city": "Coimbatore",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 197,
+    "school_name": "Chavara Vidya Bhavan",
+    "city": "Coimbatore",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 198,
+    "school_name": "Jaycee Higher Secondary School",
+    "city": "Coimbatore",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 199,
+    "school_name": "Corporation School",
+    "city": "Coimbatore",
+    "traffic_light": true,
+    "max_confidence": 0.666,
+    "crosswalk": true,
+    "dist_signal_m": 279.36,
+    "image_id": "174264121225295"
+  },
+  {
+    "school_index": 200,
+    "school_name": "Corporation School",
+    "city": "Coimbatore",
+    "traffic_light": true,
+    "max_confidence": 0.259,
+    "crosswalk": false,
+    "dist_signal_m": 219.95,
+    "image_id": "233451771904091"
+  },
+  {
+    "school_index": 201,
+    "school_name": "St Thomas Higher Secondary School",
+    "city": "Coimbatore",
+    "traffic_light": true,
+    "max_confidence": 0.666,
+    "crosswalk": true,
+    "dist_signal_m": 240.86,
+    "image_id": "174264121225295"
+  },
+  {
+    "school_index": 202,
+    "school_name": "Industrial Technical Institute Iti",
+    "city": "Coimbatore",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 203,
+    "school_name": "Manchester International School",
+    "city": "Coimbatore",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 204,
+    "school_name": "Rathinam Intl Public School",
+    "city": "Coimbatore",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 205,
+    "school_name": "Kpm M Hss Coimbatore",
+    "city": "Coimbatore",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 206,
+    "school_name": "Gedee Public School",
+    "city": "Coimbatore",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 207,
+    "school_name": "Annai Meenakshi College Of Nursing",
+    "city": "Coimbatore",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 208,
+    "school_name": "The Samhita Academy-Coimbatore",
+    "city": "Coimbatore",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 209,
+    "school_name": "Kpn School Ground",
+    "city": "Coimbatore",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 210,
+    "school_name": "St Marys School Of Nursing",
+    "city": "Coimbatore",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 211,
+    "school_name": "Nirmal Matha Matric Higher Secondary School",
+    "city": "Coimbatore",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 212,
+    "school_name": "Avatar Public School",
+    "city": "Coimbatore",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 213,
+    "school_name": "Sri Sakthi Matriculation Higher Secondary School",
+    "city": "Coimbatore",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 214,
+    "school_name": "Government Arts College Campus",
+    "city": "Coimbatore",
+    "traffic_light": true,
+    "max_confidence": 0.499,
+    "crosswalk": true,
+    "dist_signal_m": 554.66,
+    "image_id": "1366812450367446"
+  },
+  {
+    "school_index": 215,
+    "school_name": "Vivekalaya Matriculation Higher Secondary School",
+    "city": "Coimbatore",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 216,
+    "school_name": "Doon Public School",
+    "city": "Coimbatore",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 217,
+    "school_name": "Niramla College For Women",
+    "city": "Coimbatore",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 218,
+    "school_name": "Carmel Garden Matriculation Higher Secondary School",
+    "city": "Coimbatore",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 219,
+    "school_name": "Balaji Driving School",
+    "city": "Coimbatore",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 220,
+    "school_name": "Corporation Boys High School",
+    "city": "Coimbatore",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 221,
+    "school_name": "Alvernia Higher Secondary Matriculation School",
+    "city": "Coimbatore",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 222,
+    "school_name": "Bvm Global School",
+    "city": "Coimbatore",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 223,
+    "school_name": "Rangammal High School",
+    "city": "Coimbatore",
+    "traffic_light": true,
+    "max_confidence": 0.703,
+    "crosswalk": true,
+    "dist_signal_m": 81.22,
+    "image_id": "564176991217253"
+  },
+  {
+    "school_index": 224,
+    "school_name": "Bishop Appasamy College",
+    "city": "Coimbatore",
+    "traffic_light": true,
+    "max_confidence": 0.422,
+    "crosswalk": true,
+    "dist_signal_m": 215.23,
+    "image_id": "1363906927315155"
+  },
+  {
+    "school_index": 225,
+    "school_name": "Alg Matriculation School",
+    "city": "Coimbatore",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 226,
+    "school_name": "Vidya Niketan Public School",
+    "city": "Coimbatore",
+    "traffic_light": true,
+    "max_confidence": 0.685,
+    "crosswalk": true,
+    "dist_signal_m": 594.26,
+    "image_id": "753742088626049"
+  },
+  {
+    "school_index": 227,
+    "school_name": "Government Women'S Polytechnic College",
+    "city": "Coimbatore",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 228,
+    "school_name": "P R Sidha Naidu Memorial Matriculation School",
+    "city": "Coimbatore",
+    "traffic_light": true,
+    "max_confidence": 0.439,
+    "crosswalk": true,
+    "dist_signal_m": 490.75,
+    "image_id": "378005413535762"
+  },
+  {
+    "school_index": 229,
+    "school_name": "Kendriya Vidyalaya Main",
+    "city": "Coimbatore",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 230,
+    "school_name": "Hindustan School Of Management",
+    "city": "Coimbatore",
+    "traffic_light": true,
+    "max_confidence": 0.354,
+    "crosswalk": false,
+    "dist_signal_m": 540.38,
+    "image_id": "779565249411793"
+  },
+  {
+    "school_index": 231,
+    "school_name": "Kendriya Vidyalaya",
+    "city": "Coimbatore",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 232,
+    "school_name": "Perks Matriculation Higher Secondary School",
+    "city": "Coimbatore",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 233,
+    "school_name": "Psg College Of Technology",
+    "city": "Coimbatore",
+    "traffic_light": true,
+    "max_confidence": 0.63,
+    "crosswalk": false,
+    "dist_signal_m": 184.37,
+    "image_id": "318485006400930"
+  },
+  {
+    "school_index": 234,
+    "school_name": "Psg Grounds",
+    "city": "Coimbatore",
+    "traffic_light": true,
+    "max_confidence": 0.292,
+    "crosswalk": false,
+    "dist_signal_m": 534.12,
+    "image_id": "326972768792768"
+  },
+  {
+    "school_index": 235,
+    "school_name": "Psg Sarva Jana Higher Secondary School",
+    "city": "Coimbatore",
+    "traffic_light": true,
+    "max_confidence": 0.51,
+    "crosswalk": true,
+    "dist_signal_m": 179.2,
+    "image_id": "3043982672592921"
+  },
+  {
+    "school_index": 236,
+    "school_name": "Psg Institute Of Management",
+    "city": "Coimbatore",
+    "traffic_light": true,
+    "max_confidence": 0.421,
+    "crosswalk": true,
+    "dist_signal_m": 123.84,
+    "image_id": "370581571074237"
+  },
+  {
+    "school_index": 237,
+    "school_name": "Psg Institute Of Medical Sciences & Research",
+    "city": "Coimbatore",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 238,
+    "school_name": "National Model Matriculation School",
+    "city": "Coimbatore",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 239,
+    "school_name": "Sardar Vallabhbhai Patel International School Of Textiles & Management",
+    "city": "Coimbatore",
+    "traffic_light": true,
+    "max_confidence": 0.416,
+    "crosswalk": false,
+    "dist_signal_m": 116.21,
+    "image_id": "167528611952486"
+  },
+  {
+    "school_index": 240,
+    "school_name": "Ssvm World School",
+    "city": "Coimbatore",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 241,
+    "school_name": "Vibgyor High School",
+    "city": "Coimbatore",
+    "traffic_light": true,
+    "max_confidence": 0.382,
+    "crosswalk": false,
+    "dist_signal_m": 415.66,
+    "image_id": "958967334878688"
+  },
+  {
+    "school_index": 242,
+    "school_name": "Jayendra Saraswathi College",
+    "city": "Coimbatore",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 243,
+    "school_name": "Samskaara Academy",
+    "city": "Coimbatore",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 244,
+    "school_name": "Kadri Mills Higher Secondary School",
+    "city": "Coimbatore",
+    "traffic_light": true,
+    "max_confidence": 0.259,
+    "crosswalk": false,
+    "dist_signal_m": 305.08,
+    "image_id": "114148494069100"
+  },
+  {
+    "school_index": 245,
+    "school_name": "Kalaignar Karunanidhi Institute Of Technology",
+    "city": "Coimbatore",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 246,
+    "school_name": "Camford International School",
+    "city": "Coimbatore",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 247,
+    "school_name": "Vincent Matric",
+    "city": "Coimbatore",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 248,
+    "school_name": "Kumaraguru College Of Technology",
+    "city": "Coimbatore",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 249,
+    "school_name": "Vivekam Cbse School",
+    "city": "Coimbatore",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 250,
+    "school_name": "Government Polytechnic",
+    "city": "Coimbatore",
+    "traffic_light": true,
+    "max_confidence": 0.323,
+    "crosswalk": false,
+    "dist_signal_m": 307.72,
+    "image_id": "756655291878856"
+  },
+  {
+    "school_index": 251,
+    "school_name": "Psg College Of Arts And Science",
+    "city": "Coimbatore",
+    "traffic_light": true,
+    "max_confidence": 0.491,
+    "crosswalk": true,
+    "dist_signal_m": 491.85,
+    "image_id": "123602483146007"
+  },
+  {
+    "school_index": 252,
+    "school_name": "South India Textile Research Association - Sitra",
+    "city": "Coimbatore",
+    "traffic_light": true,
+    "max_confidence": 0.416,
+    "crosswalk": true,
+    "dist_signal_m": 273.88,
+    "image_id": "1645759745608821"
+  },
+  {
+    "school_index": 253,
+    "school_name": "Rak'S Pallikoodam",
+    "city": "Coimbatore",
+    "traffic_light": true,
+    "max_confidence": 0.55,
+    "crosswalk": true,
+    "dist_signal_m": 493.91,
+    "image_id": "1198758673917352"
+  },
+  {
+    "school_index": 254,
+    "school_name": "Geethanjali Matriculation",
+    "city": "Coimbatore",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 255,
+    "school_name": "Chandrakanthi Public School",
+    "city": "Coimbatore",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 256,
+    "school_name": "Chandra Matriculation Higher Secondary School",
+    "city": "Coimbatore",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 257,
+    "school_name": "Suguna Group Of Institutions",
+    "city": "Coimbatore",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 258,
+    "school_name": "Suguna Pip School",
+    "city": "Coimbatore",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 259,
+    "school_name": "Park Global School",
+    "city": "Coimbatore",
+    "traffic_light": true,
+    "max_confidence": 0.416,
+    "crosswalk": true,
+    "dist_signal_m": 487.45,
+    "image_id": "1645759745608821"
+  },
+  {
+    "school_index": 260,
+    "school_name": "Suguna College Of Engg & Polytechnic",
+    "city": "Coimbatore",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 261,
+    "school_name": "Suguna Driving School",
+    "city": "Coimbatore",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 262,
+    "school_name": "Kovai Vidya Mandir School",
+    "city": "Coimbatore",
+    "traffic_light": true,
+    "max_confidence": 0.372,
+    "crosswalk": false,
+    "dist_signal_m": 101.84,
+    "image_id": "3965239063535883"
+  },
+  {
+    "school_index": 263,
+    "school_name": "Ngp School",
+    "city": "Coimbatore",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 264,
+    "school_name": "Anan Kids Academy Play School",
+    "city": "Coimbatore",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 265,
+    "school_name": "Sri Vivekananda Matriculation Higher Secondary School",
+    "city": "Coimbatore",
+    "traffic_light": true,
+    "max_confidence": 0.311,
+    "crosswalk": false,
+    "dist_signal_m": 457.13,
+    "image_id": "148887977249698"
+  },
+  {
+    "school_index": 266,
+    "school_name": "Amrita Vidyalayam",
+    "city": "Coimbatore",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 267,
+    "school_name": "Coimbatore Public School",
+    "city": "Coimbatore",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 268,
+    "school_name": "Maharishi Vidhya Mandir",
+    "city": "Coimbatore",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 269,
+    "school_name": "Sankara Polytechnic",
+    "city": "Coimbatore",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 270,
+    "school_name": "Ruby Matriculation School",
+    "city": "Coimbatore",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 271,
+    "school_name": "Kgisl Institute Of Technology",
+    "city": "Coimbatore",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 272,
+    "school_name": "Info Institute Of Engineering",
+    "city": "Coimbatore",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 273,
+    "school_name": "The Indian Public School",
+    "city": "Coimbatore",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 274,
+    "school_name": "Psg Institute Of Technology And Applied Research",
+    "city": "Coimbatore",
+    "traffic_light": true,
+    "max_confidence": 0.367,
+    "crosswalk": false,
+    "dist_signal_m": 260.67,
+    "image_id": "219577832974183"
+  },
+  {
+    "school_index": 275,
+    "school_name": "Grd-Cpf Matriculation Higher Secondary School",
+    "city": "Coimbatore",
+    "traffic_light": true,
+    "max_confidence": 0.309,
+    "crosswalk": false,
+    "dist_signal_m": 255.82,
+    "image_id": "1235796086855496"
+  },
+  {
+    "school_index": 276,
+    "school_name": "M Nanjappa Chettiar Matriculation Hr Sec School",
+    "city": "Coimbatore",
+    "traffic_light": true,
+    "max_confidence": 0.291,
+    "crosswalk": false,
+    "dist_signal_m": 136.89,
+    "image_id": "478552030021371"
+  },
+  {
+    "school_index": 277,
+    "school_name": "G K D Matriculation And Higher Secondary School",
+    "city": "Coimbatore",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 278,
+    "school_name": "Tamil Nadu Agricultural University",
+    "city": "Coimbatore",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 279,
+    "school_name": "Gopal Naidu School",
+    "city": "Coimbatore",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 280,
+    "school_name": "Cms College Of Science And Commerce",
+    "city": "Coimbatore",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 281,
+    "school_name": "Admin Block",
+    "city": "Coimbatore",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 282,
+    "school_name": "Grd School",
+    "city": "Coimbatore",
+    "traffic_light": true,
+    "max_confidence": 0.323,
+    "crosswalk": false,
+    "dist_signal_m": 498.35,
+    "image_id": "756655291878856"
+  },
+  {
+    "school_index": 283,
+    "school_name": "Ramakrishna Mission Vidyalaya",
+    "city": "Coimbatore",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  }
+]

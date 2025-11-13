@@ -1,0 +1,1372 @@
+[
+  {
+    "school_index": 0,
+    "school_name": "Kendriya Vidyalaya Crpf Nagpur",
+    "city": "Nagpur",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 1,
+    "school_name": "Yashoda High School & Jr College",
+    "city": "Nagpur",
+    "traffic_light": true,
+    "max_confidence": 0.372,
+    "crosswalk": false,
+    "dist_signal_m": 502.87,
+    "image_id": "24678456668515594"
+  },
+  {
+    "school_index": 2,
+    "school_name": "Tip Top Convent & High School",
+    "city": "Nagpur",
+    "traffic_light": true,
+    "max_confidence": 0.336,
+    "crosswalk": false,
+    "dist_signal_m": 101.99,
+    "image_id": "1759802161405990"
+  },
+  {
+    "school_index": 3,
+    "school_name": "Somalwar Nikalas School",
+    "city": "Nagpur",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 4,
+    "school_name": "Nutan Bharat Vidyalaya",
+    "city": "Nagpur",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 5,
+    "school_name": "Bal Mandir Secondary School Paranjape School",
+    "city": "Nagpur",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 6,
+    "school_name": "Lakshminarayan Institute Of Technology",
+    "city": "Nagpur",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 7,
+    "school_name": "Ram Nagar Bharat Vidyalaya",
+    "city": "Nagpur",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 8,
+    "school_name": "Atlanta Computer Institute",
+    "city": "Nagpur",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 9,
+    "school_name": "Smt Kdm Girls College",
+    "city": "Nagpur",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 10,
+    "school_name": "Maharashtra Animal And Fishery Sciences University",
+    "city": "Nagpur",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 11,
+    "school_name": "Dr Ambedkar Law College",
+    "city": "Nagpur",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 12,
+    "school_name": "Bharti Krishna Vidhya Vihar School",
+    "city": "Nagpur",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 13,
+    "school_name": "C P & Berar High School",
+    "city": "Nagpur",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 14,
+    "school_name": "Kendriya Vidyalaya Vayusena Nagar",
+    "city": "Nagpur",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 15,
+    "school_name": "Podar Jumbo Kids",
+    "city": "Nagpur",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 16,
+    "school_name": "Royal Gondwana Public School",
+    "city": "Nagpur",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 17,
+    "school_name": "Yashwant English School",
+    "city": "Nagpur",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 18,
+    "school_name": "St Paul School And Junior College",
+    "city": "Nagpur",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 19,
+    "school_name": "Sunrise School",
+    "city": "Nagpur",
+    "traffic_light": true,
+    "max_confidence": 0.392,
+    "crosswalk": false,
+    "dist_signal_m": 227.71,
+    "image_id": "514481312891836"
+  },
+  {
+    "school_index": 20,
+    "school_name": "Dadasaheb Khadse High School",
+    "city": "Nagpur",
+    "traffic_light": true,
+    "max_confidence": 0.26,
+    "crosswalk": false,
+    "dist_signal_m": 130.06,
+    "image_id": "572977053695301"
+  },
+  {
+    "school_index": 21,
+    "school_name": "Mahalle Convent",
+    "city": "Nagpur",
+    "traffic_light": true,
+    "max_confidence": 0.41,
+    "crosswalk": false,
+    "dist_signal_m": 58.31,
+    "image_id": "217811386547755"
+  },
+  {
+    "school_index": 22,
+    "school_name": "Gurukul College Of Arts & Commerce",
+    "city": "Nagpur",
+    "traffic_light": true,
+    "max_confidence": 0.26,
+    "crosswalk": false,
+    "dist_signal_m": 588.86,
+    "image_id": "572977053695301"
+  },
+  {
+    "school_index": 23,
+    "school_name": "Durganagar Marathi Primary School",
+    "city": "Nagpur",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 24,
+    "school_name": "Kidzee",
+    "city": "Nagpur",
+    "traffic_light": true,
+    "max_confidence": 0.406,
+    "crosswalk": false,
+    "dist_signal_m": 602.39,
+    "image_id": "824521132795574"
+  },
+  {
+    "school_index": 25,
+    "school_name": "Dr Ambedkar College",
+    "city": "Nagpur",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 26,
+    "school_name": "St Anthony'S High School",
+    "city": "Nagpur",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 27,
+    "school_name": "Somalwar High School And Junior College",
+    "city": "Nagpur",
+    "traffic_light": true,
+    "max_confidence": 0.472,
+    "crosswalk": true,
+    "dist_signal_m": 435.98,
+    "image_id": "1017245706219500"
+  },
+  {
+    "school_index": 28,
+    "school_name": "Deenanath High School",
+    "city": "Nagpur",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 29,
+    "school_name": "Vidarbha Sahitya Sangh",
+    "city": "Nagpur",
+    "traffic_light": true,
+    "max_confidence": 0.498,
+    "crosswalk": true,
+    "dist_signal_m": 194.34,
+    "image_id": "371083654216629"
+  },
+  {
+    "school_index": 30,
+    "school_name": "Saraswati Vidyalaya",
+    "city": "Nagpur",
+    "traffic_light": true,
+    "max_confidence": 0.272,
+    "crosswalk": false,
+    "dist_signal_m": 124.77,
+    "image_id": "1114285652416441"
+  },
+  {
+    "school_index": 31,
+    "school_name": "Kendriya Vidyalaya Ajni Old Building",
+    "city": "Nagpur",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 32,
+    "school_name": "Secrwwo'S Kindergarten Ajni",
+    "city": "Nagpur",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 33,
+    "school_name": "Pandit Bachhraj Vyas Vidyalaya",
+    "city": "Nagpur",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 34,
+    "school_name": "Pandit Bachhraj Vyas Vidyalaya",
+    "city": "Nagpur",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 35,
+    "school_name": "Maharashtra Adhyapak Vidyalaya",
+    "city": "Nagpur",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 36,
+    "school_name": "Untkhana Marathi Primary School",
+    "city": "Nagpur",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 37,
+    "school_name": "Jivan Shikshan Vidyalaya Untakhana",
+    "city": "Nagpur",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 38,
+    "school_name": "Lokanchi Shala",
+    "city": "Nagpur",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 39,
+    "school_name": "Dadasaheb Thakre High School",
+    "city": "Nagpur",
+    "traffic_light": true,
+    "max_confidence": 0.26,
+    "crosswalk": false,
+    "dist_signal_m": 336.53,
+    "image_id": "373212930733531"
+  },
+  {
+    "school_index": 40,
+    "school_name": "Nav Pradiba High School & Kanisht Maha Vidhyalay",
+    "city": "Nagpur",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 41,
+    "school_name": "Bhavan'S Bhagwandas Purohit Vidya Mandir",
+    "city": "Nagpur",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 42,
+    "school_name": "Adarsh Sanskar Vidyalaya",
+    "city": "Nagpur",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 43,
+    "school_name": "Gs Collage Of Commerce And Economics",
+    "city": "Nagpur",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 44,
+    "school_name": "Hislop",
+    "city": "Nagpur",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 45,
+    "school_name": "Shri Balasaheb Tirpude College Of Hotel Management And Catering Technology",
+    "city": "Nagpur",
+    "traffic_light": true,
+    "max_confidence": 0.472,
+    "crosswalk": true,
+    "dist_signal_m": 467.92,
+    "image_id": "213201813578609"
+  },
+  {
+    "school_index": 46,
+    "school_name": "Sfs High School & Jr College",
+    "city": "Nagpur",
+    "traffic_light": true,
+    "max_confidence": 0.383,
+    "crosswalk": false,
+    "dist_signal_m": 228.76,
+    "image_id": "462940768110076"
+  },
+  {
+    "school_index": 47,
+    "school_name": "City Premier College",
+    "city": "Nagpur",
+    "traffic_light": true,
+    "max_confidence": 0.383,
+    "crosswalk": false,
+    "dist_signal_m": 366.14,
+    "image_id": "462940768110076"
+  },
+  {
+    "school_index": 48,
+    "school_name": "Tidke Vidyalaya",
+    "city": "Nagpur",
+    "traffic_light": true,
+    "max_confidence": 0.673,
+    "crosswalk": true,
+    "dist_signal_m": 407.74,
+    "image_id": "1998650086940332"
+  },
+  {
+    "school_index": 49,
+    "school_name": "J N Tata Parsi Girls High School",
+    "city": "Nagpur",
+    "traffic_light": true,
+    "max_confidence": 0.536,
+    "crosswalk": true,
+    "dist_signal_m": 518.13,
+    "image_id": "182012331140445"
+  },
+  {
+    "school_index": 50,
+    "school_name": "University Ground",
+    "city": "Nagpur",
+    "traffic_light": true,
+    "max_confidence": 0.327,
+    "crosswalk": false,
+    "dist_signal_m": 565.98,
+    "image_id": "196624809621363"
+  },
+  {
+    "school_index": 51,
+    "school_name": "New English High School",
+    "city": "Nagpur",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 52,
+    "school_name": "Bhosla Ved School",
+    "city": "Nagpur",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 53,
+    "school_name": "Sindhu Mahavidyalaya",
+    "city": "Nagpur",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 54,
+    "school_name": "Husamiah Boys & Girls High School",
+    "city": "Nagpur",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 55,
+    "school_name": "Jamali English School",
+    "city": "Nagpur",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 56,
+    "school_name": "Lalita Public School",
+    "city": "Nagpur",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 57,
+    "school_name": "Zilla Parishad Primary School Bhilgaon",
+    "city": "Nagpur",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 58,
+    "school_name": "Podar World School",
+    "city": "Nagpur",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 59,
+    "school_name": "Marie Poussepin'S Academy",
+    "city": "Nagpur",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 60,
+    "school_name": "Edify School Nagpur",
+    "city": "Nagpur",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 61,
+    "school_name": "Indian Olympiad School",
+    "city": "Nagpur",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 62,
+    "school_name": "Delhi Public School",
+    "city": "Nagpur",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 63,
+    "school_name": "School Ground -Kendriya Vidyalaya Crpf Nagpur",
+    "city": "Nagpur",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 64,
+    "school_name": "Somalwar Khamla School",
+    "city": "Nagpur",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 65,
+    "school_name": "Datta Meghe Polytechnic & Management Institute",
+    "city": "Nagpur",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 66,
+    "school_name": "Vtc Ground",
+    "city": "Nagpur",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 67,
+    "school_name": "Visvesvaraya National Institute Of Technology",
+    "city": "Nagpur",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 68,
+    "school_name": "Dharampeth College",
+    "city": "Nagpur",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 69,
+    "school_name": "Hillfort Public School",
+    "city": "Nagpur",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 70,
+    "school_name": "Saraswati Vidyalaya",
+    "city": "Nagpur",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 71,
+    "school_name": "Lady Amritabai Daga Lad College",
+    "city": "Nagpur",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 72,
+    "school_name": "Nmc School",
+    "city": "Nagpur",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 73,
+    "school_name": "Rashtrasant Tukadoji Maharaj Nagpur University",
+    "city": "Nagpur",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 74,
+    "school_name": "Lad College For Women",
+    "city": "Nagpur",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 75,
+    "school_name": "Nagpur Vetinary College",
+    "city": "Nagpur",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 76,
+    "school_name": "Geological Survey Of India Central Region",
+    "city": "Nagpur",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 77,
+    "school_name": "Pandit Nehru High School",
+    "city": "Nagpur",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 78,
+    "school_name": "Makardhokda School",
+    "city": "Nagpur",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 79,
+    "school_name": "Pratrishruti Ground",
+    "city": "Nagpur",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 80,
+    "school_name": "Ramdeobaba University Rbu",
+    "city": "Nagpur",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 81,
+    "school_name": "Vimaltai Tidke Convent Beltarodi",
+    "city": "Nagpur",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 82,
+    "school_name": "Om Shri Laxminarayan Vidya Mandir",
+    "city": "Nagpur",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 83,
+    "school_name": "Adarsh Sanskar Vidyalaya And Junior College",
+    "city": "Nagpur",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 84,
+    "school_name": "School Of Scholar",
+    "city": "Nagpur",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 85,
+    "school_name": "Prerna Convent",
+    "city": "Nagpur",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 86,
+    "school_name": "Somalwada Marathi Primary School",
+    "city": "Nagpur",
+    "traffic_light": true,
+    "max_confidence": 0.373,
+    "crosswalk": false,
+    "dist_signal_m": 190.84,
+    "image_id": "252981283268105"
+  },
+  {
+    "school_index": 87,
+    "school_name": "Jupiter School",
+    "city": "Nagpur",
+    "traffic_light": true,
+    "max_confidence": 0.338,
+    "crosswalk": false,
+    "dist_signal_m": 472.58,
+    "image_id": "473638423858321"
+  },
+  {
+    "school_index": 88,
+    "school_name": "Mt Carmel School",
+    "city": "Nagpur",
+    "traffic_light": true,
+    "max_confidence": 0.442,
+    "crosswalk": true,
+    "dist_signal_m": 112.69,
+    "image_id": "2839204949676986"
+  },
+  {
+    "school_index": 89,
+    "school_name": "Mkh Sancheti Public School & Junior College",
+    "city": "Nagpur",
+    "traffic_light": true,
+    "max_confidence": 0.582,
+    "crosswalk": true,
+    "dist_signal_m": 191.21,
+    "image_id": "160541802662622"
+  },
+  {
+    "school_index": 90,
+    "school_name": "Avatar Meher Baba Mahavidyalaya And Technical Institute",
+    "city": "Nagpur",
+    "traffic_light": true,
+    "max_confidence": 0.327,
+    "crosswalk": false,
+    "dist_signal_m": 68.78,
+    "image_id": "268434638304546"
+  },
+  {
+    "school_index": 91,
+    "school_name": "Engineers English School",
+    "city": "Nagpur",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 92,
+    "school_name": "Shahu'S Garden High School And Junior College",
+    "city": "Nagpur",
+    "traffic_light": true,
+    "max_confidence": 0.406,
+    "crosswalk": true,
+    "dist_signal_m": 230.19,
+    "image_id": "1803365553435677"
+  },
+  {
+    "school_index": 93,
+    "school_name": "Siddheshwar Uchch Madhyamik Vidyalaya",
+    "city": "Nagpur",
+    "traffic_light": true,
+    "max_confidence": 0.406,
+    "crosswalk": true,
+    "dist_signal_m": 279.21,
+    "image_id": "1803365553435677"
+  },
+  {
+    "school_index": 94,
+    "school_name": "Indira Gandhi High School",
+    "city": "Nagpur",
+    "traffic_light": true,
+    "max_confidence": 0.349,
+    "crosswalk": false,
+    "dist_signal_m": 595.24,
+    "image_id": "4269382196413334"
+  },
+  {
+    "school_index": 95,
+    "school_name": "Adarsh Vidya Mandir",
+    "city": "Nagpur",
+    "traffic_light": true,
+    "max_confidence": 0.39,
+    "crosswalk": false,
+    "dist_signal_m": 599.13,
+    "image_id": "187746859832420"
+  },
+  {
+    "school_index": 96,
+    "school_name": "Trupti Convent",
+    "city": "Nagpur",
+    "traffic_light": true,
+    "max_confidence": 0.26,
+    "crosswalk": false,
+    "dist_signal_m": 510.08,
+    "image_id": "572977053695301"
+  },
+  {
+    "school_index": 97,
+    "school_name": "Neeri School",
+    "city": "Nagpur",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 98,
+    "school_name": "Bal Jagat",
+    "city": "Nagpur",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 99,
+    "school_name": "Kurve'S New Model High School",
+    "city": "Nagpur",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 100,
+    "school_name": "Mundle English High School",
+    "city": "Nagpur",
+    "traffic_light": true,
+    "max_confidence": 0.702,
+    "crosswalk": true,
+    "dist_signal_m": 583.27,
+    "image_id": "498654998035355"
+  },
+  {
+    "school_index": 101,
+    "school_name": "College Of Fine Arts Chitrakal Mahavidyalaya",
+    "city": "Nagpur",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 102,
+    "school_name": "Industrial Training Institute",
+    "city": "Nagpur",
+    "traffic_light": true,
+    "max_confidence": 0.43,
+    "crosswalk": true,
+    "dist_signal_m": 519.77,
+    "image_id": "1426257231047744"
+  },
+  {
+    "school_index": 103,
+    "school_name": "Blind Relief Society School",
+    "city": "Nagpur",
+    "traffic_light": true,
+    "max_confidence": 0.702,
+    "crosswalk": true,
+    "dist_signal_m": 545.57,
+    "image_id": "498654998035355"
+  },
+  {
+    "school_index": 104,
+    "school_name": "Shivaji Science College",
+    "city": "Nagpur",
+    "traffic_light": true,
+    "max_confidence": 0.289,
+    "crosswalk": false,
+    "dist_signal_m": 664.25,
+    "image_id": "218513826392835"
+  },
+  {
+    "school_index": 105,
+    "school_name": "Dhanwate National College",
+    "city": "Nagpur",
+    "traffic_light": true,
+    "max_confidence": 0.289,
+    "crosswalk": false,
+    "dist_signal_m": 598.03,
+    "image_id": "218513826392835"
+  },
+  {
+    "school_index": 106,
+    "school_name": "New English School Congress Nagar",
+    "city": "Nagpur",
+    "traffic_light": true,
+    "max_confidence": 0.357,
+    "crosswalk": false,
+    "dist_signal_m": 618.68,
+    "image_id": "3868637286588143"
+  },
+  {
+    "school_index": 107,
+    "school_name": "Kendriya Vidyalaya Ajni",
+    "city": "Nagpur",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 108,
+    "school_name": "Kusumtai Dhawde High Primary School",
+    "city": "Nagpur",
+    "traffic_light": true,
+    "max_confidence": 0.301,
+    "crosswalk": false,
+    "dist_signal_m": 413.99,
+    "image_id": "2823087334619756"
+  },
+  {
+    "school_index": 109,
+    "school_name": "Charisma English Convent",
+    "city": "Nagpur",
+    "traffic_light": true,
+    "max_confidence": 0.301,
+    "crosswalk": false,
+    "dist_signal_m": 355.19,
+    "image_id": "2823087334619756"
+  },
+  {
+    "school_index": 110,
+    "school_name": "Bhausaheb Survey High School",
+    "city": "Nagpur",
+    "traffic_light": true,
+    "max_confidence": 0.39,
+    "crosswalk": false,
+    "dist_signal_m": 82.45,
+    "image_id": "187746859832420"
+  },
+  {
+    "school_index": 111,
+    "school_name": "Government College And Hospital",
+    "city": "Nagpur",
+    "traffic_light": true,
+    "max_confidence": 0.335,
+    "crosswalk": false,
+    "dist_signal_m": 500.8,
+    "image_id": "625081562221595"
+  },
+  {
+    "school_index": 112,
+    "school_name": "Prerna Convent",
+    "city": "Nagpur",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 113,
+    "school_name": "Shree Ayurved College",
+    "city": "Nagpur",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 114,
+    "school_name": "Prabuddha Vidyalaya",
+    "city": "Nagpur",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 115,
+    "school_name": "Rashtriya Adhyapak Vidyalaya",
+    "city": "Nagpur",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 116,
+    "school_name": "Rashtriya Vidyalaya",
+    "city": "Nagpur",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 117,
+    "school_name": "Sb College Ground",
+    "city": "Nagpur",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 118,
+    "school_name": "Anand Public School",
+    "city": "Nagpur",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 119,
+    "school_name": "Atulesh Convent",
+    "city": "Nagpur",
+    "traffic_light": true,
+    "max_confidence": 0.351,
+    "crosswalk": false,
+    "dist_signal_m": 242.74,
+    "image_id": "340258231710452"
+  },
+  {
+    "school_index": 120,
+    "school_name": "Smt Radhikatai Pandav College Of Engineering",
+    "city": "Nagpur",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 121,
+    "school_name": "Sanjuba High School",
+    "city": "Nagpur",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 122,
+    "school_name": "Mahila Maha Vidyalaya",
+    "city": "Nagpur",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 123,
+    "school_name": "Municipal Corporation Primary School",
+    "city": "Nagpur",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 124,
+    "school_name": "St Xavier'S High School",
+    "city": "Nagpur",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 125,
+    "school_name": "Patwardhan High School",
+    "city": "Nagpur",
+    "traffic_light": true,
+    "max_confidence": 0.317,
+    "crosswalk": false,
+    "dist_signal_m": 73.02,
+    "image_id": "478918376732955"
+  },
+  {
+    "school_index": 126,
+    "school_name": "St John'S Public School",
+    "city": "Nagpur",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 127,
+    "school_name": "Vasantrao Naik Government Institute Of Arts And Social Sciences",
+    "city": "Nagpur",
+    "traffic_light": true,
+    "max_confidence": 0.669,
+    "crosswalk": true,
+    "dist_signal_m": 251.06,
+    "image_id": "147626447319041"
+  },
+  {
+    "school_index": 128,
+    "school_name": "Bishop Cotton School",
+    "city": "Nagpur",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 129,
+    "school_name": "Tripude Institute Of Management Education",
+    "city": "Nagpur",
+    "traffic_light": true,
+    "max_confidence": 0.472,
+    "crosswalk": true,
+    "dist_signal_m": 351.05,
+    "image_id": "213201813578609"
+  },
+  {
+    "school_index": 130,
+    "school_name": "Tidke School & Ag College",
+    "city": "Nagpur",
+    "traffic_light": true,
+    "max_confidence": 0.383,
+    "crosswalk": false,
+    "dist_signal_m": 246.5,
+    "image_id": "759153101461478"
+  },
+  {
+    "school_index": 131,
+    "school_name": "S F S School Of Excellency",
+    "city": "Nagpur",
+    "traffic_light": true,
+    "max_confidence": 0.472,
+    "crosswalk": true,
+    "dist_signal_m": 418.83,
+    "image_id": "213201813578609"
+  },
+  {
+    "school_index": 132,
+    "school_name": "Anjuman High School & Jr College",
+    "city": "Nagpur",
+    "traffic_light": true,
+    "max_confidence": 0.673,
+    "crosswalk": true,
+    "dist_signal_m": 121.49,
+    "image_id": "1998650086940332"
+  },
+  {
+    "school_index": 133,
+    "school_name": "Gurukul Nagpur",
+    "city": "Nagpur",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 134,
+    "school_name": "Sri Guru Harkrishan Public School",
+    "city": "Nagpur",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 135,
+    "school_name": "Pratibha Education Society High School",
+    "city": "Nagpur",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  },
+  {
+    "school_index": 136,
+    "school_name": "Podar International School",
+    "city": "Nagpur",
+    "traffic_light": false,
+    "max_confidence": 0.0,
+    "crosswalk": false,
+    "dist_signal_m": 0,
+    "image_id": "NA"
+  }
+]
